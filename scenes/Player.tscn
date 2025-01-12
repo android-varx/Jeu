@@ -1,0 +1,62 @@
+[gd_scene load_steps=9 format=3 uid="uid://df6vfd06dvulw"]
+
+[ext_resource type="Script" path="res://scripts/player.cs" id="1_e207t"]
+[ext_resource type="Script" path="res://scripts/player_input.cs" id="2_h82as"]
+[ext_resource type="Script" path="res://scripts/Character.cs" id="3_w5jik"]
+[ext_resource type="Texture2D" uid="uid://dkxpdjchlas0r" path="res://Sprites/Personnage1-removebg-preview.png" id="4_jp0ga"]
+[ext_resource type="Script" path="res://scripts/camera_follow.cs" id="5_kmr5o"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_f1npv"]
+size = Vector2(79, 101)
+
+[sub_resource type="Animation" id="Animation_3dqsq"]
+resource_name = "animation_player"
+loop_mode = 1
+tracks/0/type = "bezier"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Character/Sprite2D:scale:y")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"handle_modes": PackedInt32Array(0, 0, 0),
+"points": PackedFloat32Array(0.19, -0.25, 0, 0.25, 0, 0.2, -0.25, 0, 0.25, 0, 0.19, -0.25, 0, 0.25, 0),
+"times": PackedFloat32Array(0, 0.5, 1)
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_knmfr"]
+_data = {
+"animation_player": SubResource("Animation_3dqsq")
+}
+
+[node name="Player" type="Node2D" node_paths=PackedStringArray("_input")]
+script = ExtResource("1_e207t")
+_input = NodePath("Input")
+_character = NodePath("Character")
+
+[node name="Input" type="Node2D" parent="."]
+script = ExtResource("2_h82as")
+
+[node name="Character" type="CharacterBody2D" parent="."]
+script = ExtResource("3_w5jik")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Character"]
+position = Vector2(-3.5, 0.5)
+shape = SubResource("RectangleShape2D_f1npv")
+
+[node name="Sprite2D" type="Sprite2D" parent="Character"]
+position = Vector2(-1, 0)
+scale = Vector2(0.19, 0.2)
+texture = ExtResource("4_jp0ga")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_knmfr")
+}
+autoplay = "animation_player"
+
+[node name="Camera2D" type="Camera2D" parent="." node_paths=PackedStringArray("_objectToFollow")]
+zoom = Vector2(0.8, 0.8)
+position_smoothing_enabled = true
+script = ExtResource("5_kmr5o")
+_objectToFollow = NodePath("../Character")
