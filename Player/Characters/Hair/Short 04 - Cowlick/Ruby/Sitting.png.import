@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnc7rrecjmkun"
-path="res://.godot/imported/Sitting.png-99d9f51c00c1e93101a3d4364d0e7c94.ctex"
+path="res://.godot/imported/Sitting.png-25184192dd248bde50bb537b34952630.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 04 - Cowlick/Ruby/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-99d9f51c00c1e93101a3d4364d0e7c94.ctex"]
+source_file="res://Player/Characters/Hair/Short 04 - Cowlick/Ruby/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-25184192dd248bde50bb537b34952630.ctex"]
 
 [params]
 

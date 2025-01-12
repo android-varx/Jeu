@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf358vsjkplb6"
-path="res://.godot/imported/Combat 1h - Backslash.png-21482d3db5bb584a55ac2f303076511b.ctex"
+path="res://.godot/imported/Combat 1h - Backslash.png-453558bd2f5424a6510e4bfe232a868e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Sword 01 - Arming Sword/Combat 1h - Backslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Backslash.png-21482d3db5bb584a55ac2f303076511b.ctex"]
+source_file="res://Player/Characters/Props/Sword 01 - Arming Sword/Combat 1h - Backslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Backslash.png-453558bd2f5424a6510e4bfe232a868e.ctex"]
 
 [params]
 

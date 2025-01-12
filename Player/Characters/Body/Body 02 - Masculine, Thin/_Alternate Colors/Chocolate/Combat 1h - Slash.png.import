@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drds3u0o0r61t"
-path="res://.godot/imported/Combat 1h - Slash.png-fe253c549418ac53ce88de7c80d18b48.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-ebd683da1f597797e1af284dea1f9402.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Chocolate/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-fe253c549418ac53ce88de7c80d18b48.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Chocolate/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-ebd683da1f597797e1af284dea1f9402.ctex"]
 
 [params]
 

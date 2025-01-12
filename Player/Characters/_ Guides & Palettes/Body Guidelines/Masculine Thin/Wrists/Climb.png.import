@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d22m0hnv1m8e3"
-path="res://.godot/imported/Climb.png-48b47d98e0db04c53fbb43227b8662dd.ctex"
+path="res://.godot/imported/Climb.png-5dc1bea56936c5284d85baf8d5360a50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Wrists/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-48b47d98e0db04c53fbb43227b8662dd.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Wrists/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-5dc1bea56936c5284d85baf8d5360a50.ctex"]
 
 [params]
 

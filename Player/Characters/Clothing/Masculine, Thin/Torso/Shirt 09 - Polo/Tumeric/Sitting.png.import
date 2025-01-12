@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciqokfbvvcrve"
-path="res://.godot/imported/Sitting.png-e8d43658dd7f07b480438aa972aa5f02.ctex"
+path="res://.godot/imported/Sitting.png-40216db08f5784a091a7cd08cb61c5dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 09 - Polo/Tumeric/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-e8d43658dd7f07b480438aa972aa5f02.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 09 - Polo/Tumeric/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-40216db08f5784a091a7cd08cb61c5dc.ctex"]
 
 [params]
 

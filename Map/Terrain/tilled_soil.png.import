@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dew815eduv7xm"
-path="res://.godot/imported/tilled_soil.png-08083a00044489e6fe4617ff60769fb5.ctex"
+path="res://.godot/imported/tilled_soil.png-4be4a50bd306320cbc9ebe4d054b2408.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/tilled_soil.png"
-dest_files=["res://.godot/imported/tilled_soil.png-08083a00044489e6fe4617ff60769fb5.ctex"]
+source_file="res://Map/Terrain/tilled_soil.png"
+dest_files=["res://.godot/imported/tilled_soil.png-4be4a50bd306320cbc9ebe4d054b2408.ctex"]
 
 [params]
 

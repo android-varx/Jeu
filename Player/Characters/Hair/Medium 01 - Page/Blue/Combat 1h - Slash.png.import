@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b10oekjodst80"
-path="res://.godot/imported/Combat 1h - Slash.png-f59c10ef7ef8429b55675fc13ec34213.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-a69bb380c30d625cf5892ad5cd7817ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 01 - Page/Blue/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-f59c10ef7ef8429b55675fc13ec34213.ctex"]
+source_file="res://Player/Characters/Hair/Medium 01 - Page/Blue/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-a69bb380c30d625cf5892ad5cd7817ea.ctex"]
 
 [params]
 

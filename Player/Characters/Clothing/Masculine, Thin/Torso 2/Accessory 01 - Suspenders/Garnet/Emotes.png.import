@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5t1mco4e3rqf"
-path="res://.godot/imported/Emotes.png-d5dc2cc57d2efc71fe5995cb608b938b.ctex"
+path="res://.godot/imported/Emotes.png-957e0b93a752eb37fee4cd4fa8c519ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso 2/Accessory 01 - Suspenders/Garnet/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-d5dc2cc57d2efc71fe5995cb608b938b.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso 2/Accessory 01 - Suspenders/Garnet/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-957e0b93a752eb37fee4cd4fa8c519ff.ctex"]
 
 [params]
 

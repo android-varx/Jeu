@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpv4lo5s53ot6"
-path="res://.godot/imported/Jump.png-1a36b5ba01f21a35c3ea60dd3cdc36a8.ctex"
+path="res://.godot/imported/Jump.png-33d274092c5355ffc150ffd988e420aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Indigo/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-1a36b5ba01f21a35c3ea60dd3cdc36a8.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Indigo/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-33d274092c5355ffc150ffd988e420aa.ctex"]
 
 [params]
 

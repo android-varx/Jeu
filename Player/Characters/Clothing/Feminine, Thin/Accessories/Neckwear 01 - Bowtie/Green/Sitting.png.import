@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c05y6jly1tvqo"
-path="res://.godot/imported/Sitting.png-7975c8dd24759cc95659e0277bb2636d.ctex"
+path="res://.godot/imported/Sitting.png-fae001f05e306fc975b8e374066a6291.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Accessories/Neckwear 01 - Bowtie/Green/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-7975c8dd24759cc95659e0277bb2636d.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Accessories/Neckwear 01 - Bowtie/Green/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-fae001f05e306fc975b8e374066a6291.ctex"]
 
 [params]
 

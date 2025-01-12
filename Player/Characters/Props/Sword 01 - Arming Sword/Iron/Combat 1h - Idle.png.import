@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6myingtsv1yl"
-path="res://.godot/imported/Combat 1h - Idle.png-215aed52b58ea40a34ceaab9d29bc400.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-90ff848a9eb2706c863445abf7baf78c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Sword 01 - Arming Sword/Iron/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-215aed52b58ea40a34ceaab9d29bc400.ctex"]
+source_file="res://Player/Characters/Props/Sword 01 - Arming Sword/Iron/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-90ff848a9eb2706c863445abf7baf78c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy8mqbwfh6wrk"
-path="res://.godot/imported/Emotes.png-cc9fd3efbb5f1a6e99ae69431eed97ea.ctex"
+path="res://.godot/imported/Emotes.png-2e5ae4cd2bdbfd1de8f7a5441cefd40c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 02 - Parted/Ash Brown/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-cc9fd3efbb5f1a6e99ae69431eed97ea.ctex"]
+source_file="res://Player/Characters/Hair/Short 02 - Parted/Ash Brown/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-2e5ae4cd2bdbfd1de8f7a5441cefd40c.ctex"]
 
 [params]
 

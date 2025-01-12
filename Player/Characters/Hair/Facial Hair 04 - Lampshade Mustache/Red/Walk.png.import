@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dauh4his3kher"
-path="res://.godot/imported/Walk.png-d68b5e0711aaa29b2ae7421d1d63cb8d.ctex"
+path="res://.godot/imported/Walk.png-6c36cf9d3dd330036175194309569924.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 04 - Lampshade Mustache/Red/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-d68b5e0711aaa29b2ae7421d1d63cb8d.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 04 - Lampshade Mustache/Red/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-6c36cf9d3dd330036175194309569924.ctex"]
 
 [params]
 

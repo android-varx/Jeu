@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bujfosc76v3qy"
-path="res://.godot/imported/Shelf.png-03ab54154bfe383ad65b65ca50416db4.ctex"
+path="res://.godot/imported/Shelf.png-1ec57a34edaf9e8d3d8af6ce47ead338.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Shelf.png"
-dest_files=["res://.godot/imported/Shelf.png-03ab54154bfe383ad65b65ca50416db4.ctex"]
+source_file="res://Map/Furniture/Shelf.png"
+dest_files=["res://.godot/imported/Shelf.png-1ec57a34edaf9e8d3d8af6ce47ead338.ctex"]
 
 [params]
 

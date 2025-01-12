@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bollo1sipb2h8"
-path="res://.godot/imported/Emotes.png-56475c0335c61739b62c814004a99c96.ctex"
+path="res://.godot/imported/Emotes.png-adcbe6b74c35488647ec6108be10c0d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 04 - T-shirt/Ivory/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-56475c0335c61739b62c814004a99c96.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 04 - T-shirt/Ivory/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-adcbe6b74c35488647ec6108be10c0d1.ctex"]
 
 [params]
 

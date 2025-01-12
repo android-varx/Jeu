@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnqwmbbslunfs"
-path="res://.godot/imported/Expressions.png-1321cedb4b3bfcff6056592041f58849.ctex"
+path="res://.godot/imported/Expressions.png-ac61d058767357eaf9b4b16c473202a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 02 - Chevron Mustache/Ash Brown/Expressions.png"
-dest_files=["res://.godot/imported/Expressions.png-1321cedb4b3bfcff6056592041f58849.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 02 - Chevron Mustache/Ash Brown/Expressions.png"
+dest_files=["res://.godot/imported/Expressions.png-ac61d058767357eaf9b4b16c473202a0.ctex"]
 
 [params]
 

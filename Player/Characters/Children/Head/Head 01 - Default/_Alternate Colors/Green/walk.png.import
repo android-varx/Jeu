@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvneykd6asd6r"
-path="res://.godot/imported/walk.png-3c405d3a65b518f47bb6a97596a2d176.ctex"
+path="res://.godot/imported/walk.png-d1cf7bd688ea77f3520160b159e46591.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Children/Head/Head 01 - Default/_Alternate Colors/Green/walk.png"
-dest_files=["res://.godot/imported/walk.png-3c405d3a65b518f47bb6a97596a2d176.ctex"]
+source_file="res://Player/Characters/Children/Head/Head 01 - Default/_Alternate Colors/Green/walk.png"
+dest_files=["res://.godot/imported/walk.png-d1cf7bd688ea77f3520160b159e46591.ctex"]
 
 [params]
 

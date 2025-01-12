@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b14lh3qw8j82a"
-path="res://.godot/imported/Climb.png-56c7046ef075d39630998f20592bb90f.ctex"
+path="res://.godot/imported/Climb.png-84c1768235305d15b83ef9ec059e8584.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Legs/Pants 03 - Pants/Lavender/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-56c7046ef075d39630998f20592bb90f.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Legs/Pants 03 - Pants/Lavender/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-84c1768235305d15b83ef9ec059e8584.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doa16yskf0vre"
-path="res://.godot/imported/Run.png-7eb11973141e0fd53c8d121f7c758961.ctex"
+path="res://.godot/imported/Run.png-f6889adae0eb5e56826a280da8a7b2e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 08 - Buttoned T-shirt/Garnet/Run.png"
-dest_files=["res://.godot/imported/Run.png-7eb11973141e0fd53c8d121f7c758961.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 08 - Buttoned T-shirt/Garnet/Run.png"
+dest_files=["res://.godot/imported/Run.png-f6889adae0eb5e56826a280da8a7b2e0.ctex"]
 
 [params]
 

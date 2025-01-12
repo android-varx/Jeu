@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfe4wqtnnmgsg"
-path="res://.godot/imported/Sitting.png-18def634c22b61a0cf393216c29d7faa.ctex"
+path="res://.godot/imported/Sitting.png-ceb0139091ae56843141c59aa2be9457.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 07 - Buttoned Longsleeve Shirt/Aegean/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-18def634c22b61a0cf393216c29d7faa.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 07 - Buttoned Longsleeve Shirt/Aegean/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-ceb0139091ae56843141c59aa2be9457.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6h6txgdwomnn"
-path="res://.godot/imported/Combat 1h - Slash.png-54a166e3d873f396ae7a64c2e66d164e.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-5d5154fdfd134070d8e26602072c0b53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Ruby/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-54a166e3d873f396ae7a64c2e66d164e.ctex"]
+source_file="res://Player/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Ruby/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-5d5154fdfd134070d8e26602072c0b53.ctex"]
 
 [params]
 

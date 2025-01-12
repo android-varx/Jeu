@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://70okr2axsv7f"
-path="res://.godot/imported/CutawayOverlay.png-fd256d41f379dfaf4295de9335f2f9d9.ctex"
+path="res://.godot/imported/CutawayOverlay.png-edc98df2fbae9211cd5d1f715e59bccd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Structure/Walls/CutawayOverlay.png"
-dest_files=["res://.godot/imported/CutawayOverlay.png-fd256d41f379dfaf4295de9335f2f9d9.ctex"]
+source_file="res://Map/Structure/Walls/CutawayOverlay.png"
+dest_files=["res://.godot/imported/CutawayOverlay.png-edc98df2fbae9211cd5d1f715e59bccd.ctex"]
 
 [params]
 

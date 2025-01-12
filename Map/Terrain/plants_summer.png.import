@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsc40y1gcdog4"
-path="res://.godot/imported/plants_summer.png-267424691f87c13322ff298bfeb127b4.ctex"
+path="res://.godot/imported/plants_summer.png-fc90d0e37e9524ca23ddff1dab34f13b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/plants_summer.png"
-dest_files=["res://.godot/imported/plants_summer.png-267424691f87c13322ff298bfeb127b4.ctex"]
+source_file="res://Map/Terrain/plants_summer.png"
+dest_files=["res://.godot/imported/plants_summer.png-fc90d0e37e9524ca23ddff1dab34f13b.ctex"]
 
 [params]
 

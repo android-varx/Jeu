@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqi5bbd1kem6t"
-path="res://.godot/imported/Sitting.png-b43b8dae56f9c05977cc003550303c74.ctex"
+path="res://.godot/imported/Sitting.png-fc285c811c15db6aee69dd65189359bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Leather/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-b43b8dae56f9c05977cc003550303c74.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Leather/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-fc285c811c15db6aee69dd65189359bc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nex2hryn6wok"
-path="res://.godot/imported/Run.png-5d4ca41e96a77133ee04b15bb5c3797a.ctex"
+path="res://.godot/imported/Run.png-8c618d63172e803f6fb6b315d32f388d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 05 - V-neck T-shirt/Olivine/Run.png"
-dest_files=["res://.godot/imported/Run.png-5d4ca41e96a77133ee04b15bb5c3797a.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 05 - V-neck T-shirt/Olivine/Run.png"
+dest_files=["res://.godot/imported/Run.png-8c618d63172e803f6fb6b315d32f388d.ctex"]
 
 [params]
 

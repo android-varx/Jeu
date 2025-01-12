@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbimagwvsh7af"
-path="res://.godot/imported/Jump.png-ae6af8526ca3a744507298a287b972c4.ctex"
+path="res://.godot/imported/Jump.png-04d3e55ae276672a9aadb8a40bf638e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 01 - Walrus Mustache/Teal/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-ae6af8526ca3a744507298a287b972c4.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 01 - Walrus Mustache/Teal/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-04d3e55ae276672a9aadb8a40bf638e7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvlkwnktc1bqm"
-path="res://.godot/imported/Combat 1h - Idle.png-c5ae54ced100cd85e6655c086fc3fe1d.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-13e798640893a94777e283c975e3a89d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 06 - Balding/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-c5ae54ced100cd85e6655c086fc3fe1d.ctex"]
+source_file="res://Player/Characters/Hair/Short 06 - Balding/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-13e798640893a94777e283c975e3a89d.ctex"]
 
 [params]
 

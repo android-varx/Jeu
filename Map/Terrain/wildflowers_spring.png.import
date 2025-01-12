@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dubfjwd886cck"
-path="res://.godot/imported/wildflowers_spring.png-16dd3f165cd758f8ff0eaedc429d9440.ctex"
+path="res://.godot/imported/wildflowers_spring.png-3921fbd7c120cc9c7c95e7c190a2eb03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/wildflowers_spring.png"
-dest_files=["res://.godot/imported/wildflowers_spring.png-16dd3f165cd758f8ff0eaedc429d9440.ctex"]
+source_file="res://Map/Terrain/wildflowers_spring.png"
+dest_files=["res://.godot/imported/wildflowers_spring.png-3921fbd7c120cc9c7c95e7c190a2eb03.ctex"]
 
 [params]
 

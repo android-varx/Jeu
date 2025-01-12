@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du88be7hw836x"
-path="res://.godot/imported/Emotes.png-e5f30b0451b1c4066bf445c608e00419.ctex"
+path="res://.godot/imported/Emotes.png-a4d58465f1a09b8be5fab9bf8418c1aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 07 - Bob, Side Part/Black/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-e5f30b0451b1c4066bf445c608e00419.ctex"]
+source_file="res://Player/Characters/Hair/Medium 07 - Bob, Side Part/Black/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-a4d58465f1a09b8be5fab9bf8418c1aa.ctex"]
 
 [params]
 

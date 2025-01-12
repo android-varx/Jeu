@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://htqow8pxkgag"
-path="res://.godot/imported/Run.png-14ca08128398d89f29b54b9dba2f2344.ctex"
+path="res://.godot/imported/Run.png-8ded1a16fe9c17f2aa9170dffaf01896.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 09 - Polo/Royal/Run.png"
-dest_files=["res://.godot/imported/Run.png-14ca08128398d89f29b54b9dba2f2344.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 09 - Polo/Royal/Run.png"
+dest_files=["res://.godot/imported/Run.png-8ded1a16fe9c17f2aa9170dffaf01896.ctex"]
 
 [params]
 

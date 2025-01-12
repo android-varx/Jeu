@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsc8ojkxydy76"
-path="res://.godot/imported/Sitting.png-31967bba314a01a983700e941b5c8002.ctex"
+path="res://.godot/imported/Sitting.png-cb4dc6e6092c5a90c76bf13cc22cdb02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 07 - Buttoned Longsleeve Shirt/Amethyst/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-31967bba314a01a983700e941b5c8002.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 07 - Buttoned Longsleeve Shirt/Amethyst/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-cb4dc6e6092c5a90c76bf13cc22cdb02.ctex"]
 
 [params]
 

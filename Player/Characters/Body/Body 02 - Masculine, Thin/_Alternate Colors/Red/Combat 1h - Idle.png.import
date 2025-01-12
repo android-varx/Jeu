@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cp74kap015l1m"
-path="res://.godot/imported/Combat 1h - Idle.png-08e7a3a89fa78038fa2d3e8a82b10a6c.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-e28dcd6ef26cf8049efd09acada08e94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Red/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-08e7a3a89fa78038fa2d3e8a82b10a6c.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Red/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-e28dcd6ef26cf8049efd09acada08e94.ctex"]
 
 [params]
 

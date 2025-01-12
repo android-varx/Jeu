@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2xn4qtbgckdp"
-path="res://.godot/imported/Jump.png-a23b6f1a2696eb1ae16d8b75f013f2e5.ctex"
+path="res://.godot/imported/Jump.png-2d16bd039b3995e9af1a065af8b50aef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 02 - Curly/_Behind/Blue/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-a23b6f1a2696eb1ae16d8b75f013f2e5.ctex"]
+source_file="res://Player/Characters/Hair/Medium 02 - Curly/_Behind/Blue/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-2d16bd039b3995e9af1a065af8b50aef.ctex"]
 
 [params]
 

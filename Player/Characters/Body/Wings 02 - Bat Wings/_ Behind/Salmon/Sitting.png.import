@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7jsr7akcq4yk"
-path="res://.godot/imported/Sitting.png-9b5fc39db6595b08ce9d29cf039c62fc.ctex"
+path="res://.godot/imported/Sitting.png-3517c3c377652368cd463fd7ab15eec2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 02 - Bat Wings/_ Behind/Salmon/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-9b5fc39db6595b08ce9d29cf039c62fc.ctex"]
+source_file="res://Player/Characters/Body/Wings 02 - Bat Wings/_ Behind/Salmon/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-3517c3c377652368cd463fd7ab15eec2.ctex"]
 
 [params]
 

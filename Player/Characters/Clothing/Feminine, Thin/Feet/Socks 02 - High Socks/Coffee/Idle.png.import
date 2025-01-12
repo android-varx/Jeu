@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hxy3rdkqy34r"
-path="res://.godot/imported/Idle.png-256baa0202857ae5a2c1e6c61cc9cfa3.ctex"
+path="res://.godot/imported/Idle.png-799ae0f914150a76b26804360d07793e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Feet/Socks 02 - High Socks/Coffee/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-256baa0202857ae5a2c1e6c61cc9cfa3.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Feet/Socks 02 - High Socks/Coffee/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-799ae0f914150a76b26804360d07793e.ctex"]
 
 [params]
 

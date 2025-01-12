@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o34ii0uiee7l"
-path="res://.godot/imported/Expressions.png-7509077b6c7fba0769d843ec2cf31c24.ctex"
+path="res://.godot/imported/Expressions.png-eb970c2d5e1e422d123e081feb26ca7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 07 - Medium Beard/Red/Expressions.png"
-dest_files=["res://.godot/imported/Expressions.png-7509077b6c7fba0769d843ec2cf31c24.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 07 - Medium Beard/Red/Expressions.png"
+dest_files=["res://.godot/imported/Expressions.png-eb970c2d5e1e422d123e081feb26ca7f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6p5uy0tkjhus"
-path="res://.godot/imported/Climb.png-22f8432957c7ffc86865217ac5bba685.ctex"
+path="res://.godot/imported/Climb.png-b870de476a37abecb856743a909312ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 06 - Scoop T-shirt/Orange/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-22f8432957c7ffc86865217ac5bba685.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 06 - Scoop T-shirt/Orange/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-b870de476a37abecb856743a909312ed.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cctdda6pdemhs"
-path="res://.godot/imported/Idle.png-786ba25201e0dc1354381eb67f77a16f.ctex"
+path="res://.godot/imported/Idle.png-6eccef0bc9432de6bcfc0f55aba7c34a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso 2/Sweater 01 - Cardigan/Amethyst/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-786ba25201e0dc1354381eb67f77a16f.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso 2/Sweater 01 - Cardigan/Amethyst/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-6eccef0bc9432de6bcfc0f55aba7c34a.ctex"]
 
 [params]
 

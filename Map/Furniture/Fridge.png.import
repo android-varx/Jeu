@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cclhlx8lduesu"
-path="res://.godot/imported/Fridge.png-949e07750279ca5aa04bc2159e3cdbda.ctex"
+path="res://.godot/imported/Fridge.png-c9439595104a3e907b0bebf2b3c3040a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Fridge.png"
-dest_files=["res://.godot/imported/Fridge.png-949e07750279ca5aa04bc2159e3cdbda.ctex"]
+source_file="res://Map/Furniture/Fridge.png"
+dest_files=["res://.godot/imported/Fridge.png-c9439595104a3e907b0bebf2b3c3040a.ctex"]
 
 [params]
 

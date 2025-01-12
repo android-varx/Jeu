@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnmp1xm35xhuh"
-path="res://.godot/imported/Gritty Dirt.png-754cffddb7bfcd2d110814afec1703f3.ctex"
+path="res://.godot/imported/Gritty Dirt.png-ea86cf4ddbe2f7364df8df20def17b9a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Structure/Floor/Gritty Dirt.png"
-dest_files=["res://.godot/imported/Gritty Dirt.png-754cffddb7bfcd2d110814afec1703f3.ctex"]
+source_file="res://Map/Structure/Floor/Gritty Dirt.png"
+dest_files=["res://.godot/imported/Gritty Dirt.png-ea86cf4ddbe2f7364df8df20def17b9a.ctex"]
 
 [params]
 

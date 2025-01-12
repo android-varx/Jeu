@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7yddc472vf0i"
-path="res://.godot/imported/Sitting.png-d4540d76b0e7c99369a33628b49ccca3.ctex"
+path="res://.godot/imported/Sitting.png-b49822c86a4a5e387fca62182873f5e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Periwinkle/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-d4540d76b0e7c99369a33628b49ccca3.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Periwinkle/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-b49822c86a4a5e387fca62182873f5e9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mvk4ox0hqm03"
-path="res://.godot/imported/Combat 1h - Idle.png-be20abcc96a27c276942d99b6cdf0c19.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-8bb1f9d837960902fe2021df9fd91c43.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Black/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-be20abcc96a27c276942d99b6cdf0c19.ctex"]
+source_file="res://Player/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Black/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-8bb1f9d837960902fe2021df9fd91c43.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsrx70kfko6r0"
-path="res://.godot/imported/Emotes.png-af98461b2e613aace408f373203c6333.ctex"
+path="res://.godot/imported/Emotes.png-feeeea0149c0072ecb9a36fb94505efd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 01 - Longsleeve Shirt/Shadow/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-af98461b2e613aace408f373203c6333.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 01 - Longsleeve Shirt/Shadow/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-feeeea0149c0072ecb9a36fb94505efd.ctex"]
 
 [params]
 

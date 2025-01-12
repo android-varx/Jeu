@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bferncpwlitk1"
-path="res://.godot/imported/Emotes.png-46c991d9838ca291761d320be5308240.ctex"
+path="res://.godot/imported/Emotes.png-eba372d8f4d66714b88dfd460d7ecc7b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Amethyst/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-46c991d9838ca291761d320be5308240.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Amethyst/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-eba372d8f4d66714b88dfd460d7ecc7b.ctex"]
 
 [params]
 

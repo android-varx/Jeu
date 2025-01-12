@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvul5aife1tur"
-path="res://.godot/imported/Combat 1h - Idle.png-392033b57c891c05263fc631248b3e4e.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-733925a4727477fa3b226f3836078df7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Paint/Amethyst/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-392033b57c891c05263fc631248b3e4e.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Paint/Amethyst/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-733925a4727477fa3b226f3836078df7.ctex"]
 
 [params]
 

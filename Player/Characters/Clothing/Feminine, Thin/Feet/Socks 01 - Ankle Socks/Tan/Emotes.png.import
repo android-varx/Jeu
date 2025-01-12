@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmnmu05kwm5ad"
-path="res://.godot/imported/Emotes.png-20103ff994b24fd31ec6c53938f376cb.ctex"
+path="res://.godot/imported/Emotes.png-6ce42f2d4bc10faadec98e4026e54843.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Feet/Socks 01 - Ankle Socks/Tan/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-20103ff994b24fd31ec6c53938f376cb.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Feet/Socks 01 - Ankle Socks/Tan/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-6ce42f2d4bc10faadec98e4026e54843.ctex"]
 
 [params]
 

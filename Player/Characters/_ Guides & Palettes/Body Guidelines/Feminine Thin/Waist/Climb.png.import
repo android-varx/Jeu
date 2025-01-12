@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gymhrap2g6vl"
-path="res://.godot/imported/Climb.png-9574c04ece1583136136cb5d355bccda.ctex"
+path="res://.godot/imported/Climb.png-ad06af80728fd8dfb28ca474921a17e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Feminine Thin/Waist/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-9574c04ece1583136136cb5d355bccda.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Feminine Thin/Waist/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-ad06af80728fd8dfb28ca474921a17e8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs2n0eby11ywl"
-path="res://.godot/imported/Combat 1h - Halfslash.png-4658a586cb4f0aa6988dea957f912f5a.ctex"
+path="res://.godot/imported/Combat 1h - Halfslash.png-dd6771fc51b27db8308f7a9f218cc632.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Bendy Sinister/Neptune/Combat 1h - Halfslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-4658a586cb4f0aa6988dea957f912f5a.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Bendy Sinister/Neptune/Combat 1h - Halfslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-dd6771fc51b27db8308f7a9f218cc632.ctex"]
 
 [params]
 

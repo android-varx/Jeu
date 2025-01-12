@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ygrh4rnk7ief"
-path="res://.godot/imported/Shavehorse.png-d53ef39f20bd2b70a3d2efc8c9d3fbee.ctex"
+path="res://.godot/imported/Shavehorse.png-4e39f310fc85b3bd7d417d3c321bb02a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Shavehorse.png"
-dest_files=["res://.godot/imported/Shavehorse.png-d53ef39f20bd2b70a3d2efc8c9d3fbee.ctex"]
+source_file="res://Map/Furniture/Shavehorse.png"
+dest_files=["res://.godot/imported/Shavehorse.png-4e39f310fc85b3bd7d417d3c321bb02a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://87p8x746aik5"
-path="res://.godot/imported/Walk.png-a3e6d265807235a03a9ea27211844702.ctex"
+path="res://.godot/imported/Walk.png-bdf54447e9b9f467e1c1c023d9fb704a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 09 - Polo/Yellow/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-a3e6d265807235a03a9ea27211844702.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 09 - Polo/Yellow/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-bdf54447e9b9f467e1c1c023d9fb704a.ctex"]
 
 [params]
 

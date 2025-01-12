@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqt21frma67ci"
-path="res://.godot/imported/Combat 1h - Slash.png-5a8602ea9a208d15761a97d5b673a93d.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-21520e83e83fa5c8f3dcc241670851e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 05 - V-neck T-shirt/Cornflower/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-5a8602ea9a208d15761a97d5b673a93d.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 05 - V-neck T-shirt/Cornflower/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-21520e83e83fa5c8f3dcc241670851e7.ctex"]
 
 [params]
 

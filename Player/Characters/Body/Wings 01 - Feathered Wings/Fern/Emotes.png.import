@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwu7icq0j5q8u"
-path="res://.godot/imported/Emotes.png-2359a3b2eff7c59cfcfacc4bb498bc27.ctex"
+path="res://.godot/imported/Emotes.png-fd32eb6fcc7ee70264f987173bdd084e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 01 - Feathered Wings/Fern/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-2359a3b2eff7c59cfcfacc4bb498bc27.ctex"]
+source_file="res://Player/Characters/Body/Wings 01 - Feathered Wings/Fern/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-fd32eb6fcc7ee70264f987173bdd084e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyry1wiitr6mt"
-path="res://.godot/imported/cliff_autumn.png-0665429c34b3d27a5e9de1aef4d31204.ctex"
+path="res://.godot/imported/cliff_autumn.png-526367b771a848785b74bbe8636de7bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/cliff_autumn.png"
-dest_files=["res://.godot/imported/cliff_autumn.png-0665429c34b3d27a5e9de1aef4d31204.ctex"]
+source_file="res://Map/Terrain/cliff_autumn.png"
+dest_files=["res://.godot/imported/cliff_autumn.png-526367b771a848785b74bbe8636de7bd.ctex"]
 
 [params]
 

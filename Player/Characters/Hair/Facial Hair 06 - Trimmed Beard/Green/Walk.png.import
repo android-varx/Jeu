@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2tsk7b4gqkbh"
-path="res://.godot/imported/Walk.png-b1ff1d7584791e678f096afc0c069bd2.ctex"
+path="res://.godot/imported/Walk.png-b3375c53b9624f82b363039234b7561a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 06 - Trimmed Beard/Green/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-b1ff1d7584791e678f096afc0c069bd2.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 06 - Trimmed Beard/Green/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-b3375c53b9624f82b363039234b7561a.ctex"]
 
 [params]
 

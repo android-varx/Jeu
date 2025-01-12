@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2m1pra8rrdlc"
-path="res://.godot/imported/Idle.png-d4a323bcd059f9ea4a3ed3c6884db008.ctex"
+path="res://.godot/imported/Idle.png-4bca08139bedf00b7f7e540c0d0586fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Peach/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-d4a323bcd059f9ea4a3ed3c6884db008.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Peach/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-4bca08139bedf00b7f7e540c0d0586fc.ctex"]
 
 [params]
 

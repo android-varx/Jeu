@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl8ron4i1mcja"
-path="res://.godot/imported/Emotes.png-ad67d409333d0d2622554f5285067a0e.ctex"
+path="res://.godot/imported/Emotes.png-8e813cb03d899a8045867a11ae551b31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/Peach/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-ad67d409333d0d2622554f5285067a0e.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/Peach/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-8e813cb03d899a8045867a11ae551b31.ctex"]
 
 [params]
 

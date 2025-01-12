@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c215vwd2f7vdj"
-path="res://.godot/imported/Walk.png-e27b8b667d250a0cc54bc0cc6bb7f5c4.ctex"
+path="res://.godot/imported/Walk.png-2f2dd741a007da8e9b7fee48cf07473c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-e27b8b667d250a0cc54bc0cc6bb7f5c4.ctex"]
+source_file="res://Player/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-2f2dd741a007da8e9b7fee48cf07473c.ctex"]
 
 [params]
 

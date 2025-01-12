@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v42w257jdcjv"
-path="res://.godot/imported/Planter.png-f41df457bc72e5b5333e9ead2c8e58a0.ctex"
+path="res://.godot/imported/Planter.png-5b01789ce9dc3e1920d0ad2d98cfb54c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Planter.png"
-dest_files=["res://.godot/imported/Planter.png-f41df457bc72e5b5333e9ead2c8e58a0.ctex"]
+source_file="res://Map/Furniture/Planter.png"
+dest_files=["res://.godot/imported/Planter.png-5b01789ce9dc3e1920d0ad2d98cfb54c.ctex"]
 
 [params]
 

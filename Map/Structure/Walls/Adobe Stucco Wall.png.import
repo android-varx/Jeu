@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cif68qc130r5v"
-path="res://.godot/imported/Adobe Stucco Wall.png-ea726abc6d11849a82cd1b273dffa71b.ctex"
+path="res://.godot/imported/Adobe Stucco Wall.png-1cf97e5eeedb8bedef97b85ebe1d9db1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Structure/Walls/Adobe Stucco Wall.png"
-dest_files=["res://.godot/imported/Adobe Stucco Wall.png-ea726abc6d11849a82cd1b273dffa71b.ctex"]
+source_file="res://Map/Structure/Walls/Adobe Stucco Wall.png"
+dest_files=["res://.godot/imported/Adobe Stucco Wall.png-1cf97e5eeedb8bedef97b85ebe1d9db1.ctex"]
 
 [params]
 

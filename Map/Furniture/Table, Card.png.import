@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br600am2qtffh"
-path="res://.godot/imported/Table, Card.png-d4abddcf14bad0aee0cb8744ddb73ef0.ctex"
+path="res://.godot/imported/Table, Card.png-6c46c09ec767e8d5a54aabba13e5419f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Table, Card.png"
-dest_files=["res://.godot/imported/Table, Card.png-d4abddcf14bad0aee0cb8744ddb73ef0.ctex"]
+source_file="res://Map/Furniture/Table, Card.png"
+dest_files=["res://.godot/imported/Table, Card.png-6c46c09ec767e8d5a54aabba13e5419f.ctex"]
 
 [params]
 

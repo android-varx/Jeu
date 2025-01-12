@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0fr8wfhta416"
-path="res://.godot/imported/Painted Walls.png-468f7924d4e1575bf90cf090861ee3b2.ctex"
+path="res://.godot/imported/Painted Walls.png-7fbb3d0da63844e0c39866f21fceb4d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Structure/Walls/Painted Walls.png"
-dest_files=["res://.godot/imported/Painted Walls.png-468f7924d4e1575bf90cf090861ee3b2.ctex"]
+source_file="res://Map/Structure/Walls/Painted Walls.png"
+dest_files=["res://.godot/imported/Painted Walls.png-7fbb3d0da63844e0c39866f21fceb4d5.ctex"]
 
 [params]
 

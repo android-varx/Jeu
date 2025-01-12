@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://croastk2a7jpn"
-path="res://.godot/imported/Emotes.png-19c29fb43e8d58aae23e48fda3ff277b.ctex"
+path="res://.godot/imported/Emotes.png-fb86106b4b7e573aad6d6971354cb65f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 06 - Dreadlocks/White/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-19c29fb43e8d58aae23e48fda3ff277b.ctex"]
+source_file="res://Player/Characters/Hair/Medium 06 - Dreadlocks/White/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-fb86106b4b7e573aad6d6971354cb65f.ctex"]
 
 [params]
 

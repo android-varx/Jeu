@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm0ngtymexv8v"
-path="res://.godot/imported/Walk.png-da353190b9b76017c3982e68528ce750.ctex"
+path="res://.godot/imported/Walk.png-a6fe61d439a0fc844abefa3ca268942e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 01 - Page/_Behind/Blonde/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-da353190b9b76017c3982e68528ce750.ctex"]
+source_file="res://Player/Characters/Hair/Medium 01 - Page/_Behind/Blonde/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-a6fe61d439a0fc844abefa3ca268942e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4lpfpayof1um"
-path="res://.godot/imported/Sitting.png-013ae53d8df8d0801695fdffcfdd578e.ctex"
+path="res://.godot/imported/Sitting.png-ad87efea696ae0725246f71df0e5882d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 02 - Chevron Mustache/Blonde/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-013ae53d8df8d0801695fdffcfdd578e.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 02 - Chevron Mustache/Blonde/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-ad87efea696ae0725246f71df0e5882d.ctex"]
 
 [params]
 

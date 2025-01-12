@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d21qwwij0prgn"
-path="res://.godot/imported/Sitting.png-b2139432da2f60e98d6234ab6434377c.ctex"
+path="res://.godot/imported/Sitting.png-06d48bfdc6eb87d6add1f5d8e5d44f51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 01 - Walrus Mustache/Red/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-b2139432da2f60e98d6234ab6434377c.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 01 - Walrus Mustache/Red/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-06d48bfdc6eb87d6add1f5d8e5d44f51.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fe68s2y4uon3"
-path="res://.godot/imported/Idle.png-b7e416189722571e7a02b0e9b0bd2c09.ctex"
+path="res://.godot/imported/Idle.png-44d9648a97833a6d0d63279887b5b6ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 07 - Flat Top/Ruby/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-b7e416189722571e7a02b0e9b0bd2c09.ctex"]
+source_file="res://Player/Characters/Hair/Short 07 - Flat Top/Ruby/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-44d9648a97833a6d0d63279887b5b6ad.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqbu5xbuwbh4p"
-path="res://.godot/imported/Run.png-bd1326ea84e175b4d0e89721853f914b.ctex"
+path="res://.godot/imported/Run.png-21e2424a6177ba22403e3c437d382b2c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 01 - Longsleeve Shirt/Yellow/Run.png"
-dest_files=["res://.godot/imported/Run.png-bd1326ea84e175b4d0e89721853f914b.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 01 - Longsleeve Shirt/Yellow/Run.png"
+dest_files=["res://.godot/imported/Run.png-21e2424a6177ba22403e3c437d382b2c.ctex"]
 
 [params]
 

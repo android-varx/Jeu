@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0h1tprs7nfeq"
-path="res://.godot/imported/Walk.png-4cc37b1164a2f6a0d5a18d60c3ea27ca.ctex"
+path="res://.godot/imported/Walk.png-ad65e64bee1c5f237e1cc14bf0c04dea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 01 - Feathered Wings/_ Behind/Lemon/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-4cc37b1164a2f6a0d5a18d60c3ea27ca.ctex"]
+source_file="res://Player/Characters/Body/Wings 01 - Feathered Wings/_ Behind/Lemon/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-ad65e64bee1c5f237e1cc14bf0c04dea.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbmh1j6kekhxg"
-path="res://.godot/imported/Jump.png-ed3b74d37adba29ee1fe6a7964f99b1b.ctex"
+path="res://.godot/imported/Jump.png-e7bc4c8e3236333be84cea3bb68e798f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Green/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-ed3b74d37adba29ee1fe6a7964f99b1b.ctex"]
+source_file="res://Player/Characters/Hair/Eyebrows 02 - Thick Eyebrows/Green/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-e7bc4c8e3236333be84cea3bb68e798f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i1uwhn5cl7nk"
-path="res://.godot/imported/Climb.png-ad9919e8b10257caaf0a5d7807d0c870.ctex"
+path="res://.godot/imported/Climb.png-59d8bde8204360bda8cee1a687fa2b45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Mauve/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-ad9919e8b10257caaf0a5d7807d0c870.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Mauve/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-59d8bde8204360bda8cee1a687fa2b45.ctex"]
 
 [params]
 

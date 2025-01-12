@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmvgg7twrn06o"
-path="res://.godot/imported/Sitting.png-dc51577a0da5de5d29c305e5eee50991.ctex"
+path="res://.godot/imported/Sitting.png-b881e4d3d51c94d246554bcb4e2bac50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 07 - Bob, Side Part/Chestnut/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-dc51577a0da5de5d29c305e5eee50991.ctex"]
+source_file="res://Player/Characters/Hair/Medium 07 - Bob, Side Part/Chestnut/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-b881e4d3d51c94d246554bcb4e2bac50.ctex"]
 
 [params]
 

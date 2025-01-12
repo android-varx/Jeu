@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4xgle51vs272"
-path="res://.godot/imported/Idle.png-0c1ae613f44abefdf88130087d2e2f08.ctex"
+path="res://.godot/imported/Idle.png-3419e27171b8cb0ebf3e7b22a9e21983.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 01 - Feathered Wings/Tawny/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-0c1ae613f44abefdf88130087d2e2f08.ctex"]
+source_file="res://Player/Characters/Body/Wings 01 - Feathered Wings/Tawny/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-3419e27171b8cb0ebf3e7b22a9e21983.ctex"]
 
 [params]
 

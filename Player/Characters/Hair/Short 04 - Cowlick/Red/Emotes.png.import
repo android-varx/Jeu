@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfm1olkunwwqj"
-path="res://.godot/imported/Emotes.png-3d421009937604267281c051b4fc43fc.ctex"
+path="res://.godot/imported/Emotes.png-029a05e355ea2c0893eee809e1afadf0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 04 - Cowlick/Red/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-3d421009937604267281c051b4fc43fc.ctex"]
+source_file="res://Player/Characters/Hair/Short 04 - Cowlick/Red/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-029a05e355ea2c0893eee809e1afadf0.ctex"]
 
 [params]
 

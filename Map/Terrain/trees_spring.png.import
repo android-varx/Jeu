@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgwrhypwlq7uw"
-path="res://.godot/imported/trees_spring.png-52aa862f6f75094c84c1ae0f77b1c0ca.ctex"
+path="res://.godot/imported/trees_spring.png-b10c16b32058f51c682aefe0d80ab8f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/trees_spring.png"
-dest_files=["res://.godot/imported/trees_spring.png-52aa862f6f75094c84c1ae0f77b1c0ca.ctex"]
+source_file="res://Map/Terrain/trees_spring.png"
+dest_files=["res://.godot/imported/trees_spring.png-b10c16b32058f51c682aefe0d80ab8f9.ctex"]
 
 [params]
 

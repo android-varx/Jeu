@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0hoq1o7u2cr3"
-path="res://.godot/imported/Combat 1h - Idle.png-2aea2ba0ceb933f2ef89d3506f95867a.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-54c91fb8e59cd483c0d7486c67582d61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Legs/Pants 03 - Pants/Swamp/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-2aea2ba0ceb933f2ef89d3506f95867a.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Legs/Pants 03 - Pants/Swamp/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-54c91fb8e59cd483c0d7486c67582d61.ctex"]
 
 [params]
 

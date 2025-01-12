@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1itxls5itoo0"
-path="res://.godot/imported/Combat 1h - Slash.png-986b7dbb397f87a89fd90a3c3ca7d77c.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-a67e152f717fa945301641b0e0d97256.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Chevron/Chocolate/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-986b7dbb397f87a89fd90a3c3ca7d77c.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Chevron/Chocolate/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-a67e152f717fa945301641b0e0d97256.ctex"]
 
 [params]
 

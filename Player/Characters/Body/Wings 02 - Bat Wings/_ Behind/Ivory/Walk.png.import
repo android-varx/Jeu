@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q2g7xg506eox"
-path="res://.godot/imported/Walk.png-bcf0c98cd8c39a27a199d104bd0cca96.ctex"
+path="res://.godot/imported/Walk.png-a45e1b5fa5092f761d46803edcac8e98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 02 - Bat Wings/_ Behind/Ivory/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-bcf0c98cd8c39a27a199d104bd0cca96.ctex"]
+source_file="res://Player/Characters/Body/Wings 02 - Bat Wings/_ Behind/Ivory/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-a45e1b5fa5092f761d46803edcac8e98.ctex"]
 
 [params]
 

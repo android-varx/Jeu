@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6gwfg1mjokph"
-path="res://.godot/imported/Combat 1h - Idle.png-24dee8ff20f8319347aff6966f618a22.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-234bb703a84877e8ea2d12c93cd919ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Chest/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-24dee8ff20f8319347aff6966f618a22.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Chest/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-234bb703a84877e8ea2d12c93cd919ea.ctex"]
 
 [params]
 

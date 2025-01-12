@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctpsqhjao3vm3"
-path="res://.godot/imported/Expressions.png-3f9c35ff68683730788d45558369feb2.ctex"
+path="res://.godot/imported/Expressions.png-64be118f0df8d624098d51db4c8f50bf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 03 - Handlebar Mustache/Charcoal/Expressions.png"
-dest_files=["res://.godot/imported/Expressions.png-3f9c35ff68683730788d45558369feb2.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 03 - Handlebar Mustache/Charcoal/Expressions.png"
+dest_files=["res://.godot/imported/Expressions.png-64be118f0df8d624098d51db4c8f50bf.ctex"]
 
 [params]
 

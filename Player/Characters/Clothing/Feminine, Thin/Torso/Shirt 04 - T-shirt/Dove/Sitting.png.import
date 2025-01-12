@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://naeotd86e0w6"
-path="res://.godot/imported/Sitting.png-425c431fe09f35efd3798113ff934ca4.ctex"
+path="res://.godot/imported/Sitting.png-ba4cbd8ef130073114b342a17515754c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 04 - T-shirt/Dove/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-425c431fe09f35efd3798113ff934ca4.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 04 - T-shirt/Dove/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-ba4cbd8ef130073114b342a17515754c.ctex"]
 
 [params]
 

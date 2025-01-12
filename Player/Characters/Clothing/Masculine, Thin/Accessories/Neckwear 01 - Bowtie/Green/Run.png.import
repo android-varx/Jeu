@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wr16mtdkvrmv"
-path="res://.godot/imported/Run.png-62f546ec6cf702d8a58de2da8b11d3ed.ctex"
+path="res://.godot/imported/Run.png-9b44493143772dd06fd08fe2114df32b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Green/Run.png"
-dest_files=["res://.godot/imported/Run.png-62f546ec6cf702d8a58de2da8b11d3ed.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Green/Run.png"
+dest_files=["res://.godot/imported/Run.png-9b44493143772dd06fd08fe2114df32b.ctex"]
 
 [params]
 

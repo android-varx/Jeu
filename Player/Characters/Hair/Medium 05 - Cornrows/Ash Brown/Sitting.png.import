@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lat1b5qv424x"
-path="res://.godot/imported/Sitting.png-6876cf37d25e8ac76d9b604327d1e7fa.ctex"
+path="res://.godot/imported/Sitting.png-8aa9d3a781495569c348044f92260952.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 05 - Cornrows/Ash Brown/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-6876cf37d25e8ac76d9b604327d1e7fa.ctex"]
+source_file="res://Player/Characters/Hair/Medium 05 - Cornrows/Ash Brown/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-8aa9d3a781495569c348044f92260952.ctex"]
 
 [params]
 

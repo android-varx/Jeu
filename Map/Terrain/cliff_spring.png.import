@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b32210513jny3"
-path="res://.godot/imported/cliff_spring.png-fab724b54ac36fa4ea12b682a59b7f10.ctex"
+path="res://.godot/imported/cliff_spring.png-d8b99e0a9ee833043bea01dc725ea015.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/cliff_spring.png"
-dest_files=["res://.godot/imported/cliff_spring.png-fab724b54ac36fa4ea12b682a59b7f10.ctex"]
+source_file="res://Map/Terrain/cliff_spring.png"
+dest_files=["res://.godot/imported/cliff_spring.png-d8b99e0a9ee833043bea01dc725ea015.ctex"]
 
 [params]
 

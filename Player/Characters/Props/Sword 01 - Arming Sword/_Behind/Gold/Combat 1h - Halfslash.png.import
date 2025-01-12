@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7k4qbfk5tsxp"
-path="res://.godot/imported/Combat 1h - Halfslash.png-5ebd5687b1e8fafdd7e29aa007b7b37e.ctex"
+path="res://.godot/imported/Combat 1h - Halfslash.png-eae6ecc4fc528fd9f4421ae8a35ee112.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Sword 01 - Arming Sword/_Behind/Gold/Combat 1h - Halfslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-5ebd5687b1e8fafdd7e29aa007b7b37e.ctex"]
+source_file="res://Player/Characters/Props/Sword 01 - Arming Sword/_Behind/Gold/Combat 1h - Halfslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-eae6ecc4fc528fd9f4421ae8a35ee112.ctex"]
 
 [params]
 

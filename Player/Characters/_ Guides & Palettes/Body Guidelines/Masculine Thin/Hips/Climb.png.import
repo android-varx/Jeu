@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0ve7v87ukn56"
-path="res://.godot/imported/Climb.png-08e77fca6e5f92c84a3adfbd70a19bbd.ctex"
+path="res://.godot/imported/Climb.png-2a3054b6a502985522f6e239510c5fe8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Hips/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-08e77fca6e5f92c84a3adfbd70a19bbd.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Hips/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-2a3054b6a502985522f6e239510c5fe8.ctex"]
 
 [params]
 

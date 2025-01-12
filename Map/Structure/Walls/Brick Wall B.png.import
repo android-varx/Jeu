@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4d15ogvfwxbo"
-path="res://.godot/imported/Brick Wall B.png-36e880a4935fe1e5667f3623f1d93242.ctex"
+path="res://.godot/imported/Brick Wall B.png-f5fc899bad9a2693da59d41cf4df1319.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Structure/Walls/Brick Wall B.png"
-dest_files=["res://.godot/imported/Brick Wall B.png-36e880a4935fe1e5667f3623f1d93242.ctex"]
+source_file="res://Map/Structure/Walls/Brick Wall B.png"
+dest_files=["res://.godot/imported/Brick Wall B.png-f5fc899bad9a2693da59d41cf4df1319.ctex"]
 
 [params]
 

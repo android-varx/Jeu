@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bglcjmvxk58it"
-path="res://.godot/imported/Climb.png-5e32770bb638c57bd4d1d6493e75803e.ctex"
+path="res://.godot/imported/Climb.png-ddbf767ed70fd30f11656328fb32393f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 02 - V-neck Longsleeve Shirt/Green/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-5e32770bb638c57bd4d1d6493e75803e.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 02 - V-neck Longsleeve Shirt/Green/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-ddbf767ed70fd30f11656328fb32393f.ctex"]
 
 [params]
 

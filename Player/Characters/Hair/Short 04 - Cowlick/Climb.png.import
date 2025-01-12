@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jfoxthglgus2"
-path="res://.godot/imported/Climb.png-69e7b769f440398cc11ed2083d057405.ctex"
+path="res://.godot/imported/Climb.png-501fb1fa4ff5a8775dd1406ed43f56c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 04 - Cowlick/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-69e7b769f440398cc11ed2083d057405.ctex"]
+source_file="res://Player/Characters/Hair/Short 04 - Cowlick/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-501fb1fa4ff5a8775dd1406ed43f56c3.ctex"]
 
 [params]
 

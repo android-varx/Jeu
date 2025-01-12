@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg4kcmdjy7oo8"
-path="res://.godot/imported/idle.png-80484b9491a9b7bc900c3df427d85c17.ctex"
+path="res://.godot/imported/idle.png-e7092c2736047872eec02a003f84e257.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Children/Head/Head 01 - Default/Tan/idle.png"
-dest_files=["res://.godot/imported/idle.png-80484b9491a9b7bc900c3df427d85c17.ctex"]
+source_file="res://Player/Characters/Children/Head/Head 01 - Default/Tan/idle.png"
+dest_files=["res://.godot/imported/idle.png-e7092c2736047872eec02a003f84e257.ctex"]
 
 [params]
 

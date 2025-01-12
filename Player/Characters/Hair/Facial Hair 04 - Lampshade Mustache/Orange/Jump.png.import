@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rhoybpu0ay22"
-path="res://.godot/imported/Jump.png-48c82bc20fd65f4242c882271d99e7a6.ctex"
+path="res://.godot/imported/Jump.png-71009d5d38240cabbc8cc75cff63f558.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 04 - Lampshade Mustache/Orange/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-48c82bc20fd65f4242c882271d99e7a6.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 04 - Lampshade Mustache/Orange/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-71009d5d38240cabbc8cc75cff63f558.ctex"]
 
 [params]
 

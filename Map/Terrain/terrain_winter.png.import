@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b62keoatsl1gu"
-path="res://.godot/imported/terrain_winter.png-d5d12b93f80b5511b8b79736522bffc6.ctex"
+path="res://.godot/imported/terrain_winter.png-e3decb2c967bb97068a5a8bb302015b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/terrain_winter.png"
-dest_files=["res://.godot/imported/terrain_winter.png-d5d12b93f80b5511b8b79736522bffc6.ctex"]
+source_file="res://Map/Terrain/terrain_winter.png"
+dest_files=["res://.godot/imported/terrain_winter.png-e3decb2c967bb97068a5a8bb302015b3.ctex"]
 
 [params]
 

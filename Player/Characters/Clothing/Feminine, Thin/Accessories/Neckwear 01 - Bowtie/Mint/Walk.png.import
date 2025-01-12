@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f8jy1ca324w4"
-path="res://.godot/imported/Walk.png-904aae4c866a1be5045132f5e9b75881.ctex"
+path="res://.godot/imported/Walk.png-f894d79cfb9646cc354f456cf37df55b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Accessories/Neckwear 01 - Bowtie/Mint/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-904aae4c866a1be5045132f5e9b75881.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Accessories/Neckwear 01 - Bowtie/Mint/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-f894d79cfb9646cc354f456cf37df55b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhcewqwsrjfat"
-path="res://.godot/imported/Jump.png-b597353ecd2099a68b80451bbd5c52eb.ctex"
+path="res://.godot/imported/Jump.png-d0e9a82ae68370511b964f82bb1159d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 04 - Cowlick/Teal/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-b597353ecd2099a68b80451bbd5c52eb.ctex"]
+source_file="res://Player/Characters/Hair/Short 04 - Cowlick/Teal/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-d0e9a82ae68370511b964f82bb1159d4.ctex"]
 
 [params]
 

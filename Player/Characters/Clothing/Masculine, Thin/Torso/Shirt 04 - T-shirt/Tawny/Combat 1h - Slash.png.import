@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6ebvje371bpo"
-path="res://.godot/imported/Combat 1h - Slash.png-1e439395f6dcf93907c5f7938d002d1f.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-6facc0d6cd6bc820c8e59dbeff7c7bb4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 04 - T-shirt/Tawny/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-1e439395f6dcf93907c5f7938d002d1f.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 04 - T-shirt/Tawny/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-6facc0d6cd6bc820c8e59dbeff7c7bb4.ctex"]
 
 [params]
 

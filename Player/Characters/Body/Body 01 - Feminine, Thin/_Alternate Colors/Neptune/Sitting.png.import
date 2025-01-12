@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx8siphn1xbda"
-path="res://.godot/imported/Sitting.png-3163b50610ba8f1ebcedeb5cd7563dc6.ctex"
+path="res://.godot/imported/Sitting.png-d0617acb9fad205a52d127003f959cb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 01 - Feminine, Thin/_Alternate Colors/Neptune/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-3163b50610ba8f1ebcedeb5cd7563dc6.ctex"]
+source_file="res://Player/Characters/Body/Body 01 - Feminine, Thin/_Alternate Colors/Neptune/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-d0617acb9fad205a52d127003f959cb7.ctex"]
 
 [params]
 

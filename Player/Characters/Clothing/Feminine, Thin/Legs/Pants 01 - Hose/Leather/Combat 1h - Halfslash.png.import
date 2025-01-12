@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvijc3dh1200t"
-path="res://.godot/imported/Combat 1h - Halfslash.png-c602db936e4e53fd31137912b25333a8.ctex"
+path="res://.godot/imported/Combat 1h - Halfslash.png-b9e7da8ead1a623fd3eaa8e119eb289b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Legs/Pants 01 - Hose/Leather/Combat 1h - Halfslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-c602db936e4e53fd31137912b25333a8.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Legs/Pants 01 - Hose/Leather/Combat 1h - Halfslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-b9e7da8ead1a623fd3eaa8e119eb289b.ctex"]
 
 [params]
 

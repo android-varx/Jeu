@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br7agadg173sw"
-path="res://.godot/imported/Sitting.png-55f52bcc10b416eb350b7e3b92af0080.ctex"
+path="res://.godot/imported/Sitting.png-b1fb1339fca7cd2c7dc12e818d728397.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Neckline - Scoop/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-55f52bcc10b416eb350b7e3b92af0080.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Neckline - Scoop/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-b1fb1339fca7cd2c7dc12e818d728397.ctex"]
 
 [params]
 

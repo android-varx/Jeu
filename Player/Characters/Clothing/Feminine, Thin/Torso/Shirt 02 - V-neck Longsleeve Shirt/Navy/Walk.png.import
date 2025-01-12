@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s5gox66n563o"
-path="res://.godot/imported/Walk.png-727718c32147b5d2cba5fb334847ad67.ctex"
+path="res://.godot/imported/Walk.png-a5a7070781ee4fdb358566c0ef5de706.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 02 - V-neck Longsleeve Shirt/Navy/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-727718c32147b5d2cba5fb334847ad67.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 02 - V-neck Longsleeve Shirt/Navy/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-a5a7070781ee4fdb358566c0ef5de706.ctex"]
 
 [params]
 

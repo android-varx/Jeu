@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://divohowvlm5jt"
-path="res://.godot/imported/jump.png-4968f561be9a8f9f13bf14522c7f3edd.ctex"
+path="res://.godot/imported/jump.png-e2b031db77a7619f6f795b92ff4b0a5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Children/Body/_Alternate Colors/Periwinkle/jump.png"
-dest_files=["res://.godot/imported/jump.png-4968f561be9a8f9f13bf14522c7f3edd.ctex"]
+source_file="res://Player/Characters/Children/Body/_Alternate Colors/Periwinkle/jump.png"
+dest_files=["res://.godot/imported/jump.png-e2b031db77a7619f6f795b92ff4b0a5b.ctex"]
 
 [params]
 

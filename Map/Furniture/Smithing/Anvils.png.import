@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cx6se4yc0tx45"
-path="res://.godot/imported/Anvils.png-669261d35f7cb01f058de5dc918372bb.ctex"
+path="res://.godot/imported/Anvils.png-88f1068685bcd5bf0c71afa7e1f49a8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Smithing/Anvils.png"
-dest_files=["res://.godot/imported/Anvils.png-669261d35f7cb01f058de5dc918372bb.ctex"]
+source_file="res://Map/Furniture/Smithing/Anvils.png"
+dest_files=["res://.godot/imported/Anvils.png-88f1068685bcd5bf0c71afa7e1f49a8d.ctex"]
 
 [params]
 

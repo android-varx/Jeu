@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcu3pksed4qkn"
-path="res://.godot/imported/cliff_summer.png-c97044d2866a4a2a6b0b1f01a9d18e0b.ctex"
+path="res://.godot/imported/cliff_summer.png-88c2d4bb0080f7033936896a9e1fc71a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/cliff_summer.png"
-dest_files=["res://.godot/imported/cliff_summer.png-c97044d2866a4a2a6b0b1f01a9d18e0b.ctex"]
+source_file="res://Map/Terrain/cliff_summer.png"
+dest_files=["res://.godot/imported/cliff_summer.png-88c2d4bb0080f7033936896a9e1fc71a.ctex"]
 
 [params]
 

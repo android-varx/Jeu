@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6vuyp45pqktp"
-path="res://.godot/imported/Sitting.png-24e2f7543e493d03a057c646987e6019.ctex"
+path="res://.godot/imported/Sitting.png-4f64ad8668044099028affe4a7df27eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 09 - Polo/Amethyst/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-24e2f7543e493d03a057c646987e6019.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 09 - Polo/Amethyst/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-4f64ad8668044099028affe4a7df27eb.ctex"]
 
 [params]
 

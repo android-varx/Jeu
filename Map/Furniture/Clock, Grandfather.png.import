@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch2d701it7gh6"
-path="res://.godot/imported/Clock, Grandfather.png-0e98923d663db68814957ad3f1b57917.ctex"
+path="res://.godot/imported/Clock, Grandfather.png-c53cd5403cf625c81c49f2a33a059580.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Clock, Grandfather.png"
-dest_files=["res://.godot/imported/Clock, Grandfather.png-0e98923d663db68814957ad3f1b57917.ctex"]
+source_file="res://Map/Furniture/Clock, Grandfather.png"
+dest_files=["res://.godot/imported/Clock, Grandfather.png-c53cd5403cf625c81c49f2a33a059580.ctex"]
 
 [params]
 

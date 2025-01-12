@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvgt0404atsak"
-path="res://.godot/imported/Run.png-6d9dcba4323af52d1edfb8139c921ae2.ctex"
+path="res://.godot/imported/Run.png-ac5c661fff5f52150c8352eed8f7aebd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso 2/Accessory 01 - Suspenders/Neptune/Run.png"
-dest_files=["res://.godot/imported/Run.png-6d9dcba4323af52d1edfb8139c921ae2.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso 2/Accessory 01 - Suspenders/Neptune/Run.png"
+dest_files=["res://.godot/imported/Run.png-ac5c661fff5f52150c8352eed8f7aebd.ctex"]
 
 [params]
 

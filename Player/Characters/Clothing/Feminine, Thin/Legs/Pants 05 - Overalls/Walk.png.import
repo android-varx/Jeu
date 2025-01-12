@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://knl5o3lmo13g"
-path="res://.godot/imported/Walk.png-011c2d0877cc2ed66d7e041361dad8f4.ctex"
+path="res://.godot/imported/Walk.png-5966f34f7ae8526655b4c16bcfcda82c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Legs/Pants 05 - Overalls/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-011c2d0877cc2ed66d7e041361dad8f4.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Legs/Pants 05 - Overalls/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-5966f34f7ae8526655b4c16bcfcda82c.ctex"]
 
 [params]
 

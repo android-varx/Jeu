@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uc53mwe6ceag"
-path="res://.godot/imported/Run.png-53e497dbbc67baed7ffb850310dd39ed.ctex"
+path="res://.godot/imported/Run.png-01e49fcd9a98152cccc34cf32ee5f7aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 03 - Curly/Violet/Run.png"
-dest_files=["res://.godot/imported/Run.png-53e497dbbc67baed7ffb850310dd39ed.ctex"]
+source_file="res://Player/Characters/Hair/Short 03 - Curly/Violet/Run.png"
+dest_files=["res://.godot/imported/Run.png-01e49fcd9a98152cccc34cf32ee5f7aa.ctex"]
 
 [params]
 

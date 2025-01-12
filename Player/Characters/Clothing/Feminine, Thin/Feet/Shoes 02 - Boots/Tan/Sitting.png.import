@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf6umj1pexd4t"
-path="res://.godot/imported/Sitting.png-899026b85c5c0042ca8b41da95ddf22b.ctex"
+path="res://.godot/imported/Sitting.png-f845e4fa91045243461ad7009be9906a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Feet/Shoes 02 - Boots/Tan/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-899026b85c5c0042ca8b41da95ddf22b.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Feet/Shoes 02 - Boots/Tan/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-f845e4fa91045243461ad7009be9906a.ctex"]
 
 [params]
 

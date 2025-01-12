@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dep7orhj076jr"
-path="res://.godot/imported/Countertop.png-750c938707e6e8b694984b39867175d3.ctex"
+path="res://.godot/imported/Countertop.png-f5ce46e9cdbe9e949775d7800ea5e646.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Countertop.png"
-dest_files=["res://.godot/imported/Countertop.png-750c938707e6e8b694984b39867175d3.ctex"]
+source_file="res://Map/Furniture/Countertop.png"
+dest_files=["res://.godot/imported/Countertop.png-f5ce46e9cdbe9e949775d7800ea5e646.ctex"]
 
 [params]
 

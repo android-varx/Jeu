@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctpmu4mkyglcd"
-path="res://.godot/imported/Climb.png-bf8d219893d06f6d1bbf7593a226a818.ctex"
+path="res://.godot/imported/Climb.png-51441a8b9fb74840b9cfe07bd3662fc0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Legs/Pants 04 - Cuffed Pants/Cornflower/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-bf8d219893d06f6d1bbf7593a226a818.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Legs/Pants 04 - Cuffed Pants/Cornflower/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-51441a8b9fb74840b9cfe07bd3662fc0.ctex"]
 
 [params]
 

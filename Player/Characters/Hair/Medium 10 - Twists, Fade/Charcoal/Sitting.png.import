@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://idqknceg44q"
-path="res://.godot/imported/Sitting.png-a9f64111b659a8a4ddfff667a3cc46af.ctex"
+path="res://.godot/imported/Sitting.png-3b21fb06d961497a2bd404daefece9e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 10 - Twists, Fade/Charcoal/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-a9f64111b659a8a4ddfff667a3cc46af.ctex"]
+source_file="res://Player/Characters/Hair/Medium 10 - Twists, Fade/Charcoal/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-3b21fb06d961497a2bd404daefece9e7.ctex"]
 
 [params]
 

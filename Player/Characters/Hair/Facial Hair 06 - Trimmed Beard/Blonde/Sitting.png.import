@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1ybb85tw3bsi"
-path="res://.godot/imported/Sitting.png-f1fb96065e80869cf6c7c8e24469a674.ctex"
+path="res://.godot/imported/Sitting.png-abbcdb14cd0d119e570f20f7d95c1dea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 06 - Trimmed Beard/Blonde/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-f1fb96065e80869cf6c7c8e24469a674.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 06 - Trimmed Beard/Blonde/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-abbcdb14cd0d119e570f20f7d95c1dea.ctex"]
 
 [params]
 

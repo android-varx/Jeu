@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2wr7yba3b43k"
-path="res://.godot/imported/Combat 1h - Backslash.png-5575e66f06577eebbf51fd3664f11bcd.ctex"
+path="res://.godot/imported/Combat 1h - Backslash.png-beeb8bb430c40bdfce8fc9e654132b3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 09 - Polo/Ivory/Combat 1h - Backslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Backslash.png-5575e66f06577eebbf51fd3664f11bcd.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 09 - Polo/Ivory/Combat 1h - Backslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Backslash.png-beeb8bb430c40bdfce8fc9e654132b3b.ctex"]
 
 [params]
 

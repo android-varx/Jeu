@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://o5w5o4nkrcce"
-path="res://.godot/imported/Emotes.png-5cd646b38c3a2772098505342c1e4a8f.ctex"
+path="res://.godot/imported/Emotes.png-ca08d99c2dbc64659864e1fe8035b8ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 02 - V-neck Longsleeve Shirt/Linen/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-5cd646b38c3a2772098505342c1e4a8f.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 02 - V-neck Longsleeve Shirt/Linen/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-ca08d99c2dbc64659864e1fe8035b8ff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i6d77esx6ls4"
-path="res://.godot/imported/Walk.png-52049873f4a129ad62f45281727e9f2a.ctex"
+path="res://.godot/imported/Walk.png-fea021049b2247c9c80c2deeb5a1e874.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Legs/Pants 04 - Cuffed Pants/Royal/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-52049873f4a129ad62f45281727e9f2a.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Legs/Pants 04 - Cuffed Pants/Royal/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-fea021049b2247c9c80c2deeb5a1e874.ctex"]
 
 [params]
 

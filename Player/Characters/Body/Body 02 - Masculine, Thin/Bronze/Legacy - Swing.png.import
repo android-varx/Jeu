@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3y3xoeaynds8"
-path="res://.godot/imported/Legacy - Swing.png-80920aa16efc621bc323920113855424.ctex"
+path="res://.godot/imported/Legacy - Swing.png-dde4d4fa1683276281232efef1f2fbbb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/Bronze/Legacy - Swing.png"
-dest_files=["res://.godot/imported/Legacy - Swing.png-80920aa16efc621bc323920113855424.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/Bronze/Legacy - Swing.png"
+dest_files=["res://.godot/imported/Legacy - Swing.png-dde4d4fa1683276281232efef1f2fbbb.ctex"]
 
 [params]
 

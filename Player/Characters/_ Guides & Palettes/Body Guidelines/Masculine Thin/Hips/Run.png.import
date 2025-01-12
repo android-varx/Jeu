@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsg57ylamrbx"
-path="res://.godot/imported/Run.png-26fb16edcc4cf437dece9a005c0a368a.ctex"
+path="res://.godot/imported/Run.png-1068fcb1238bf3fd238287fa1e642f61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Hips/Run.png"
-dest_files=["res://.godot/imported/Run.png-26fb16edcc4cf437dece9a005c0a368a.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Hips/Run.png"
+dest_files=["res://.godot/imported/Run.png-1068fcb1238bf3fd238287fa1e642f61.ctex"]
 
 [params]
 

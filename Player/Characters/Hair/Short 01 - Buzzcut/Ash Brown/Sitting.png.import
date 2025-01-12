@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpe353c7stijc"
-path="res://.godot/imported/Sitting.png-732458d026a71606f93115f84a74f6ff.ctex"
+path="res://.godot/imported/Sitting.png-c0e7b8da0c43ee668f51e6ce12e1afb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Short 01 - Buzzcut/Ash Brown/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-732458d026a71606f93115f84a74f6ff.ctex"]
+source_file="res://Player/Characters/Hair/Short 01 - Buzzcut/Ash Brown/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-c0e7b8da0c43ee668f51e6ce12e1afb7.ctex"]
 
 [params]
 

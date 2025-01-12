@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpceyvudrmmar"
-path="res://.godot/imported/Sitting.png-46f9c72099be63345b6e4f4386046adb.ctex"
+path="res://.godot/imported/Sitting.png-b94b558cb081738e5990fd2edafbbf4d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso 2/Sweater 01 - Cardigan/Cornflower/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-46f9c72099be63345b6e4f4386046adb.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso 2/Sweater 01 - Cardigan/Cornflower/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-b94b558cb081738e5990fd2edafbbf4d.ctex"]
 
 [params]
 

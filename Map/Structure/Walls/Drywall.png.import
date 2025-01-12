@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7akvo2t8g8yw"
-path="res://.godot/imported/Drywall.png-bef4c1718f2ac7021d099d2fff53e4e2.ctex"
+path="res://.godot/imported/Drywall.png-aaf9df670fa2300d141e96c76986786d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Structure/Walls/Drywall.png"
-dest_files=["res://.godot/imported/Drywall.png-bef4c1718f2ac7021d099d2fff53e4e2.ctex"]
+source_file="res://Map/Structure/Walls/Drywall.png"
+dest_files=["res://.godot/imported/Drywall.png-aaf9df670fa2300d141e96c76986786d.ctex"]
 
 [params]
 

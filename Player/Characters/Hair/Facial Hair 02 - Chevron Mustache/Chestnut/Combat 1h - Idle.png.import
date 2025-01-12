@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dskhlvia4eved"
-path="res://.godot/imported/Combat 1h - Idle.png-497f6eecfe76a7c1100cf04ba58d9f24.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-7559fe4deea6ea978e34c6269eb5b0df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 02 - Chevron Mustache/Chestnut/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-497f6eecfe76a7c1100cf04ba58d9f24.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 02 - Chevron Mustache/Chestnut/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-7559fe4deea6ea978e34c6269eb5b0df.ctex"]
 
 [params]
 

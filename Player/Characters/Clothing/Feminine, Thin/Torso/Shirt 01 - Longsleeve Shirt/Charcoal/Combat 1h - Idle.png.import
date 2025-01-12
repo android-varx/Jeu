@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqwtk2nkpx0"
-path="res://.godot/imported/Combat 1h - Idle.png-64afb4cad0be47126bc33f617fa4080e.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-f5b63cf232ae69c0b2972974471613a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 01 - Longsleeve Shirt/Charcoal/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-64afb4cad0be47126bc33f617fa4080e.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 01 - Longsleeve Shirt/Charcoal/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-f5b63cf232ae69c0b2972974471613a4.ctex"]
 
 [params]
 

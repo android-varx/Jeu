@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwid61dfpkuhx"
-path="res://.godot/imported/Dresser.png-2e624f79be7e774ae60ec2263527f5b9.ctex"
+path="res://.godot/imported/Dresser.png-432a441251bde5a036befad6a82fdc0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Dresser.png"
-dest_files=["res://.godot/imported/Dresser.png-2e624f79be7e774ae60ec2263527f5b9.ctex"]
+source_file="res://Map/Furniture/Dresser.png"
+dest_files=["res://.godot/imported/Dresser.png-432a441251bde5a036befad6a82fdc0b.ctex"]
 
 [params]
 

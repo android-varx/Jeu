@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnm4we7uqis58"
-path="res://.godot/imported/Combat 1h - Halfslash.png-b1c6df493ee110aefe4778ff00f715cc.ctex"
+path="res://.godot/imported/Combat 1h - Halfslash.png-ba6f614ee3f2460ad9f9533de2303ae0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 05 - V-neck T-shirt/Apple/Combat 1h - Halfslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-b1c6df493ee110aefe4778ff00f715cc.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 05 - V-neck T-shirt/Apple/Combat 1h - Halfslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-ba6f614ee3f2460ad9f9533de2303ae0.ctex"]
 
 [params]
 

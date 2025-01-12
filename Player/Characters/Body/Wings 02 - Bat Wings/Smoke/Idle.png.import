@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2gijm15bmcdy"
-path="res://.godot/imported/Idle.png-7a8f3d007286e593f002fb98e1918505.ctex"
+path="res://.godot/imported/Idle.png-cffe40c692f7311d4da0c6a3d36bffb8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 02 - Bat Wings/Smoke/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-7a8f3d007286e593f002fb98e1918505.ctex"]
+source_file="res://Player/Characters/Body/Wings 02 - Bat Wings/Smoke/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-cffe40c692f7311d4da0c6a3d36bffb8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5k35ioj36nck"
-path="res://.godot/imported/Idle.png-855ec5222b389135051c0d33ed3b2126.ctex"
+path="res://.godot/imported/Idle.png-0cec07c077e7e79ff1d7e34231c7451a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Wrists/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-855ec5222b389135051c0d33ed3b2126.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Wrists/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-0cec07c077e7e79ff1d7e34231c7451a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nboj38f0bucw"
-path="res://.godot/imported/Emotes.png-1601a8513a5446f49ea828bceaf650f2.ctex"
+path="res://.godot/imported/Emotes.png-624ad8c9cfd4e4a351e77b2e8e2758d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 03 - Idol/Violet/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-1601a8513a5446f49ea828bceaf650f2.ctex"]
+source_file="res://Player/Characters/Hair/Medium 03 - Idol/Violet/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-624ad8c9cfd4e4a351e77b2e8e2758d5.ctex"]
 
 [params]
 

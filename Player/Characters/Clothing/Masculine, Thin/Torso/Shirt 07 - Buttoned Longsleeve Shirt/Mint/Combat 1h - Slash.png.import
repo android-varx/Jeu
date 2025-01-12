@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpugnacqck15j"
-path="res://.godot/imported/Combat 1h - Slash.png-712838bf5cfb695b74fd83a604b80752.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-5e8ee5196ee85ef8ceb266aca13fb4c5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 07 - Buttoned Longsleeve Shirt/Mint/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-712838bf5cfb695b74fd83a604b80752.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 07 - Buttoned Longsleeve Shirt/Mint/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-5e8ee5196ee85ef8ceb266aca13fb4c5.ctex"]
 
 [params]
 

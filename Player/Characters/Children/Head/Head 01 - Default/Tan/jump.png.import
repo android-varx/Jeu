@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fqlvb40xi3h2"
-path="res://.godot/imported/jump.png-2c00ec543174105715970b949d87789d.ctex"
+path="res://.godot/imported/jump.png-1228ef636cf3b24a23b0ecabde161e9d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Children/Head/Head 01 - Default/Tan/jump.png"
-dest_files=["res://.godot/imported/jump.png-2c00ec543174105715970b949d87789d.ctex"]
+source_file="res://Player/Characters/Children/Head/Head 01 - Default/Tan/jump.png"
+dest_files=["res://.godot/imported/jump.png-1228ef636cf3b24a23b0ecabde161e9d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d07dwlpp680tn"
-path="res://.godot/imported/Sawhorse.png-ae80d8cdb361489e85b420e1d411f37a.ctex"
+path="res://.godot/imported/Sawhorse.png-c6105084773ed61a49e29d0fe7ffde28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Objects/Furniture/Sawhorse.png"
-dest_files=["res://.godot/imported/Sawhorse.png-ae80d8cdb361489e85b420e1d411f37a.ctex"]
+source_file="res://Map/Furniture/Sawhorse.png"
+dest_files=["res://.godot/imported/Sawhorse.png-c6105084773ed61a49e29d0fe7ffde28.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmqq44buwvnqb"
-path="res://.godot/imported/Sitting.png-c55c12153686269ee925308ef44b1250.ctex"
+path="res://.godot/imported/Sitting.png-647242a34bfd532b80949bfe7a758f6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Legs/Pants 05 - Overalls/Forest/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-c55c12153686269ee925308ef44b1250.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Legs/Pants 05 - Overalls/Forest/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-647242a34bfd532b80949bfe7a758f6a.ctex"]
 
 [params]
 

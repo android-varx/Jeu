@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bji8c55wejh4t"
-path="res://.godot/imported/Jump.png-c23d1cd9eb8e63c3467f58c4ec3de30c.ctex"
+path="res://.godot/imported/Jump.png-16b895fdcbec50842edcb1c6abc71ee9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Centerline/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-c23d1cd9eb8e63c3467f58c4ec3de30c.ctex"]
+source_file="res://Player/Characters/_ Guides & Palettes/Body Guidelines/Masculine Thin/Centerline/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-16b895fdcbec50842edcb1c6abc71ee9.ctex"]
 
 [params]
 

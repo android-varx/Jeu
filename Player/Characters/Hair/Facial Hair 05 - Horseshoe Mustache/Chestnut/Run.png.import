@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c52affb75rdw7"
-path="res://.godot/imported/Run.png-dfeca748c508e00bcd769d05f280c5c5.ctex"
+path="res://.godot/imported/Run.png-0bb47f751dcaf8e646256721f47beea7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 05 - Horseshoe Mustache/Chestnut/Run.png"
-dest_files=["res://.godot/imported/Run.png-dfeca748c508e00bcd769d05f280c5c5.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 05 - Horseshoe Mustache/Chestnut/Run.png"
+dest_files=["res://.godot/imported/Run.png-0bb47f751dcaf8e646256721f47beea7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw1eqpmmr3gmn"
-path="res://.godot/imported/wildflowers_autumn.png-f80e5ef4f806151f22e302de43e52b73.ctex"
+path="res://.godot/imported/wildflowers_autumn.png-88a4f764c60288afb3f850c7fcdd978a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/wildflowers_autumn.png"
-dest_files=["res://.godot/imported/wildflowers_autumn.png-f80e5ef4f806151f22e302de43e52b73.ctex"]
+source_file="res://Map/Terrain/wildflowers_autumn.png"
+dest_files=["res://.godot/imported/wildflowers_autumn.png-88a4f764c60288afb3f850c7fcdd978a.ctex"]
 
 [params]
 

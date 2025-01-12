@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coood7xykj7d"
-path="res://.godot/imported/Emotes.png-793e549ecbbf852c92ee7c377941e848.ctex"
+path="res://.godot/imported/Emotes.png-f785f786be225d6358099c7087f34db8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 02 - Curly/Teal/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-793e549ecbbf852c92ee7c377941e848.ctex"]
+source_file="res://Player/Characters/Hair/Medium 02 - Curly/Teal/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-f785f786be225d6358099c7087f34db8.ctex"]
 
 [params]
 

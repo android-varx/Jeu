@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu1j85csc7d4p"
-path="res://.godot/imported/Sitting.png-14827ddfbb04b694e0f7028d16386da1.ctex"
+path="res://.godot/imported/Sitting.png-27bfe2b1aa486452534d0d48642cb6fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 04 - Bangs & Bun/Pink/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-14827ddfbb04b694e0f7028d16386da1.ctex"]
+source_file="res://Player/Characters/Hair/Medium 04 - Bangs & Bun/Pink/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-27bfe2b1aa486452534d0d48642cb6fb.ctex"]
 
 [params]
 

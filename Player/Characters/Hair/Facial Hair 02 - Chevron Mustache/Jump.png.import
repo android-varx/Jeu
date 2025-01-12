@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gxlib0foqle8"
-path="res://.godot/imported/Jump.png-a1d648dd516a9365fdb24a0dff0d7bda.ctex"
+path="res://.godot/imported/Jump.png-40fb417ca6ac9fc75462fa5a96ebe4c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 02 - Chevron Mustache/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-a1d648dd516a9365fdb24a0dff0d7bda.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 02 - Chevron Mustache/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-40fb417ca6ac9fc75462fa5a96ebe4c2.ctex"]
 
 [params]
 

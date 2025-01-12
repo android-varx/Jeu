@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xs20f71cobnn"
-path="res://.godot/imported/Run.png-8179d960d0630a36ac0f1e23eff2ebdd.ctex"
+path="res://.godot/imported/Run.png-9a90e819d4bcf28450fce3507ff7430b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 01 - Page/Blue/Run.png"
-dest_files=["res://.godot/imported/Run.png-8179d960d0630a36ac0f1e23eff2ebdd.ctex"]
+source_file="res://Player/Characters/Hair/Medium 01 - Page/Blue/Run.png"
+dest_files=["res://.godot/imported/Run.png-9a90e819d4bcf28450fce3507ff7430b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnu62iuyuifj6"
-path="res://.godot/imported/Walk.png-3144d273ac5c8a1009ee437235966a57.ctex"
+path="res://.godot/imported/Walk.png-adcdadb5772f9f95779c77384acd5673.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 01 - Walrus Mustache/Ash Brown/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-3144d273ac5c8a1009ee437235966a57.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 01 - Walrus Mustache/Ash Brown/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-adcdadb5772f9f95779c77384acd5673.ctex"]
 
 [params]
 

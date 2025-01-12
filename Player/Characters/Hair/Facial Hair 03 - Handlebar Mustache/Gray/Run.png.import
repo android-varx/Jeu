@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://domioen0i61ua"
-path="res://.godot/imported/Run.png-a5035148739cd733961881db998caa49.ctex"
+path="res://.godot/imported/Run.png-d4cf80d739ad2b113e7221e64ff1f5cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 03 - Handlebar Mustache/Gray/Run.png"
-dest_files=["res://.godot/imported/Run.png-a5035148739cd733961881db998caa49.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 03 - Handlebar Mustache/Gray/Run.png"
+dest_files=["res://.godot/imported/Run.png-d4cf80d739ad2b113e7221e64ff1f5cc.ctex"]
 
 [params]
 

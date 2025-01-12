@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7s41de7g2h5h"
-path="res://.godot/imported/Rocks, Grasslands.png-24172f806a13ff059c1e1ad737fec163.ctex"
+path="res://.godot/imported/Rocks, Grasslands.png-e245f753c72864f419dfe22e05a3a636.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Terrain/Rocks, Grasslands.png"
-dest_files=["res://.godot/imported/Rocks, Grasslands.png-24172f806a13ff059c1e1ad737fec163.ctex"]
+source_file="res://Map/Terrain/Rocks, Grasslands.png"
+dest_files=["res://.godot/imported/Rocks, Grasslands.png-e245f753c72864f419dfe22e05a3a636.ctex"]
 
 [params]
 

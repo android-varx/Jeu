@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgswn8a0chpf4"
-path="res://.godot/imported/Combat 1h - Idle.png-2c497394b0ba912ce717c645a4b831af.ctex"
+path="res://.godot/imported/Combat 1h - Idle.png-f8e78779da6dd61fce67360326f91032.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Per Pale/Cerulean/Combat 1h - Idle.png"
-dest_files=["res://.godot/imported/Combat 1h - Idle.png-2c497394b0ba912ce717c645a4b831af.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Per Pale/Cerulean/Combat 1h - Idle.png"
+dest_files=["res://.godot/imported/Combat 1h - Idle.png-f8e78779da6dd61fce67360326f91032.ctex"]
 
 [params]
 

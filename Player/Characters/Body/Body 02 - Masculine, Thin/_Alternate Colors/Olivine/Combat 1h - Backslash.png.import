@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c68xhctyh2ho1"
-path="res://.godot/imported/Combat 1h - Backslash.png-891f1ca2195e33f7c62abca5792a1fd1.ctex"
+path="res://.godot/imported/Combat 1h - Backslash.png-e22ba3960b4e95f39d6a9477c4aeec39.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Olivine/Combat 1h - Backslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Backslash.png-891f1ca2195e33f7c62abca5792a1fd1.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Olivine/Combat 1h - Backslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Backslash.png-e22ba3960b4e95f39d6a9477c4aeec39.ctex"]
 
 [params]
 

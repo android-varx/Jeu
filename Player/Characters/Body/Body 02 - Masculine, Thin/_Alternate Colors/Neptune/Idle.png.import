@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg8nl300s3o8x"
-path="res://.godot/imported/Idle.png-0505813895db6b6de162617cc4fb53a5.ctex"
+path="res://.godot/imported/Idle.png-e076520fa0b762c1f49ebca29c17e92e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Neptune/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-0505813895db6b6de162617cc4fb53a5.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Neptune/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-e076520fa0b762c1f49ebca29c17e92e.ctex"]
 
 [params]
 

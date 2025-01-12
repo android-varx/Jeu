@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bko0jldtx3jsj"
-path="res://.godot/imported/Legacy - Swing.png-97af9807615b1051330bf23413c6d40d.ctex"
+path="res://.godot/imported/Legacy - Swing.png-bed667ea091b5cd0faafc59f4fbad732.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Sword 01 - Arming Sword/_Behind/Steel/Legacy - Swing.png"
-dest_files=["res://.godot/imported/Legacy - Swing.png-97af9807615b1051330bf23413c6d40d.ctex"]
+source_file="res://Player/Characters/Props/Sword 01 - Arming Sword/_Behind/Steel/Legacy - Swing.png"
+dest_files=["res://.godot/imported/Legacy - Swing.png-bed667ea091b5cd0faafc59f4fbad732.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2cdwhg3dne4t"
-path="res://.godot/imported/Jump.png-8740305b2c9f7eaaaa252aa9e45e0a87.ctex"
+path="res://.godot/imported/Jump.png-1e1b680770c5b202c375dd09e83b3fb9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Accessories/Neckwear 01 - Bowtie/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-8740305b2c9f7eaaaa252aa9e45e0a87.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Accessories/Neckwear 01 - Bowtie/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-1e1b680770c5b202c375dd09e83b3fb9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8uwplvvwefmm"
-path="res://.godot/imported/Combat 1h - Backslash.png-8db0e884a80dcb0db56ccdd3ab3c2f34.ctex"
+path="res://.godot/imported/Combat 1h - Backslash.png-d86a6a59bda9b3690b5081ac06aa2f61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Paint/_Behind/White/Combat 1h - Backslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Backslash.png-8db0e884a80dcb0db56ccdd3ab3c2f34.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Paint/_Behind/White/Combat 1h - Backslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Backslash.png-d86a6a59bda9b3690b5081ac06aa2f61.ctex"]
 
 [params]
 

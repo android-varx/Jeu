@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bot6h188wyykd"
-path="res://.godot/imported/Emotes.png-c9d3d00de4a39bcf8d2621240a18ba27.ctex"
+path="res://.godot/imported/Emotes.png-f3764ccd292708168b3d5f9e8b0a418a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 02 - Bat Wings/Smoke/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-c9d3d00de4a39bcf8d2621240a18ba27.ctex"]
+source_file="res://Player/Characters/Body/Wings 02 - Bat Wings/Smoke/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-f3764ccd292708168b3d5f9e8b0a418a.ctex"]
 
 [params]
 

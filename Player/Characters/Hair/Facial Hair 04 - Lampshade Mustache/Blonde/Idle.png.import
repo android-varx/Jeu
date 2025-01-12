@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyakwq8vg5rab"
-path="res://.godot/imported/Idle.png-59e48c205bf053df6dc4eefce547310b.ctex"
+path="res://.godot/imported/Idle.png-5266e0a57a5cee0b8ba135d04fb71cc6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 04 - Lampshade Mustache/Blonde/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-59e48c205bf053df6dc4eefce547310b.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 04 - Lampshade Mustache/Blonde/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-5266e0a57a5cee0b8ba135d04fb71cc6.ctex"]
 
 [params]
 

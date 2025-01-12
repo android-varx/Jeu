@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhaqei6tjs3xl"
-path="res://.godot/imported/Run.png-21ab76af1353b9eef125d6af33a92e6c.ctex"
+path="res://.godot/imported/Run.png-e28f76faa2e9bf7e3a50aff0412ed4c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Cerulean/Run.png"
-dest_files=["res://.godot/imported/Run.png-21ab76af1353b9eef125d6af33a92e6c.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Cerulean/Run.png"
+dest_files=["res://.godot/imported/Run.png-e28f76faa2e9bf7e3a50aff0412ed4c0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgx7spr3kslud"
-path="res://.godot/imported/Sitting.png-072300a013aa6f27106507419d9ea08b.ctex"
+path="res://.godot/imported/Sitting.png-e0036813a6486a869cd828b21e7ec09b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso/Shirt 06 - Scoop T-shirt/Royal/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-072300a013aa6f27106507419d9ea08b.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso/Shirt 06 - Scoop T-shirt/Royal/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-e0036813a6486a869cd828b21e7ec09b.ctex"]
 
 [params]
 

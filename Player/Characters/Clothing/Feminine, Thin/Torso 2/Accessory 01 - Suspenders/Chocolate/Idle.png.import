@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cge6vshdlo6vx"
-path="res://.godot/imported/Idle.png-bab38e318bb97d7dcd9e73546e18c1d7.ctex"
+path="res://.godot/imported/Idle.png-d74810cbdda5f99ca125d3b0fb3c7860.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Torso 2/Accessory 01 - Suspenders/Chocolate/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-bab38e318bb97d7dcd9e73546e18c1d7.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Torso 2/Accessory 01 - Suspenders/Chocolate/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-d74810cbdda5f99ca125d3b0fb3c7860.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj24y7su2lrub"
-path="res://.godot/imported/Combat 1h - Halfslash.png-241c4b1397f4a4dd069baaa76a136d5f.ctex"
+path="res://.godot/imported/Combat 1h - Halfslash.png-5d9257c427cad2f72129fbcc144fc658.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Chevron/White/Combat 1h - Halfslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-241c4b1397f4a4dd069baaa76a136d5f.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Contrast Patterns/Chevron/White/Combat 1h - Halfslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-5d9257c427cad2f72129fbcc144fc658.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwllte2pjiosu"
-path="res://.godot/imported/Run.png-197f173b3638f03c820b7f4e3cd77a6e.ctex"
+path="res://.godot/imported/Run.png-5c249540da8aec7a96657c67e404edbc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 02 - Chevron Mustache/Teal/Run.png"
-dest_files=["res://.godot/imported/Run.png-197f173b3638f03c820b7f4e3cd77a6e.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 02 - Chevron Mustache/Teal/Run.png"
+dest_files=["res://.godot/imported/Run.png-5c249540da8aec7a96657c67e404edbc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcsy41ukjm6wp"
-path="res://.godot/imported/Jump.png-bddcaa1a6109da14540016da07442a79.ctex"
+path="res://.godot/imported/Jump.png-b16b731b4e20201afc2b5df58f1a7844.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Feminine, Thin/Feet/Socks 01 - Ankle Socks/Tumeric/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-bddcaa1a6109da14540016da07442a79.ctex"]
+source_file="res://Player/Characters/Clothing/Feminine, Thin/Feet/Socks 01 - Ankle Socks/Tumeric/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-b16b731b4e20201afc2b5df58f1a7844.ctex"]
 
 [params]
 

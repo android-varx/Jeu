@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpx76v8kcqdfu"
-path="res://.godot/imported/Combat 1h - Slash.png-760ba0b6d268f961fc2b1d364f8e5587.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-56fd40a999f6433fa261695d98fe2518.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Legs/Pants 04 - Cuffed Pants/Leather/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-760ba0b6d268f961fc2b1d364f8e5587.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Legs/Pants 04 - Cuffed Pants/Leather/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-56fd40a999f6433fa261695d98fe2518.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnh5arwh4exlw"
-path="res://.godot/imported/Idle.png-0dd5c30a32e2fce86667626e8ebab410.ctex"
+path="res://.godot/imported/Idle.png-e9d447c92ffbf20a42cf5bd366d615fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Facial Hair 01 - Walrus Mustache/Brown/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-0dd5c30a32e2fce86667626e8ebab410.ctex"]
+source_file="res://Player/Characters/Hair/Facial Hair 01 - Walrus Mustache/Brown/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-e9d447c92ffbf20a42cf5bd366d615fd.ctex"]
 
 [params]
 

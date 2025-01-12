@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://glqbkjns0k77"
-path="res://.godot/imported/Emotes.png-894ff36c15de95664db8e31022df1738.ctex"
+path="res://.godot/imported/Emotes.png-154c7a74e19ed6f7b6e240b3d837b4ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 01 - Feathered Wings/Periwinkle/Emotes.png"
-dest_files=["res://.godot/imported/Emotes.png-894ff36c15de95664db8e31022df1738.ctex"]
+source_file="res://Player/Characters/Body/Wings 01 - Feathered Wings/Periwinkle/Emotes.png"
+dest_files=["res://.godot/imported/Emotes.png-154c7a74e19ed6f7b6e240b3d837b4ce.ctex"]
 
 [params]
 

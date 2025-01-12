@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5gt3v215oxa2"
-path="res://.godot/imported/Jump.png-e42932c50a4a5f959a4d512bab7abc80.ctex"
+path="res://.godot/imported/Jump.png-1ba88e90ef24fc374f6ababdaccbab7a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Legs/Shorts 02 - Short Shorts/Dove/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-e42932c50a4a5f959a4d512bab7abc80.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Legs/Shorts 02 - Short Shorts/Dove/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-1ba88e90ef24fc374f6ababdaccbab7a.ctex"]
 
 [params]
 

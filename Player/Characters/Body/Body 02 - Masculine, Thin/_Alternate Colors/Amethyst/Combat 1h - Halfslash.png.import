@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://grfm7sxo8rnx"
-path="res://.godot/imported/Combat 1h - Halfslash.png-26cb96300889c085b1a68dcbd3b741f4.ctex"
+path="res://.godot/imported/Combat 1h - Halfslash.png-e3b1a77057901f8cfa69acd3ce9d8b8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Amethyst/Combat 1h - Halfslash.png"
-dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-26cb96300889c085b1a68dcbd3b741f4.ctex"]
+source_file="res://Player/Characters/Body/Body 02 - Masculine, Thin/_Alternate Colors/Amethyst/Combat 1h - Halfslash.png"
+dest_files=["res://.godot/imported/Combat 1h - Halfslash.png-e3b1a77057901f8cfa69acd3ce9d8b8e.ctex"]
 
 [params]
 

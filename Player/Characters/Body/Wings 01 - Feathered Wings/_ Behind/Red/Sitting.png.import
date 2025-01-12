@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqfr5yttcb0sf"
-path="res://.godot/imported/Sitting.png-78273a33821c14517a469d25c666bb6b.ctex"
+path="res://.godot/imported/Sitting.png-4105c2e17bcab05a7050e7005c05123f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Body/Wings 01 - Feathered Wings/_ Behind/Red/Sitting.png"
-dest_files=["res://.godot/imported/Sitting.png-78273a33821c14517a469d25c666bb6b.ctex"]
+source_file="res://Player/Characters/Body/Wings 01 - Feathered Wings/_ Behind/Red/Sitting.png"
+dest_files=["res://.godot/imported/Sitting.png-4105c2e17bcab05a7050e7005c05123f.ctex"]
 
 [params]
 

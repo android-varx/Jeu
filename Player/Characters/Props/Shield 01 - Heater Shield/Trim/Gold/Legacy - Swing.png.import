@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnpmxntg31t65"
-path="res://.godot/imported/Legacy - Swing.png-c09a3fa35f0200c22b28f8e69d522f6e.ctex"
+path="res://.godot/imported/Legacy - Swing.png-c361ac2f62dee4cec5850b9098c365ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Props/Shield 01 - Heater Shield/Trim/Gold/Legacy - Swing.png"
-dest_files=["res://.godot/imported/Legacy - Swing.png-c09a3fa35f0200c22b28f8e69d522f6e.ctex"]
+source_file="res://Player/Characters/Props/Shield 01 - Heater Shield/Trim/Gold/Legacy - Swing.png"
+dest_files=["res://.godot/imported/Legacy - Swing.png-c361ac2f62dee4cec5850b9098c365ee.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3qlei4cixdnb"
-path="res://.godot/imported/Climb.png-4dc957f5d818719e41163426db8bda94.ctex"
+path="res://.godot/imported/Climb.png-6f32f1fbd8bcbc811712e617f32d76fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Hair/Medium 03 - Idol/Ruby/Climb.png"
-dest_files=["res://.godot/imported/Climb.png-4dc957f5d818719e41163426db8bda94.ctex"]
+source_file="res://Player/Characters/Hair/Medium 03 - Idol/Ruby/Climb.png"
+dest_files=["res://.godot/imported/Climb.png-6f32f1fbd8bcbc811712e617f32d76fc.ctex"]
 
 [params]
 

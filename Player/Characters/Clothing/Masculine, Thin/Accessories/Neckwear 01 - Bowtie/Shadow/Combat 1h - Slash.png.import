@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmq0jc0i1wakb"
-path="res://.godot/imported/Combat 1h - Slash.png-8e60d7bc63c3a58bc6bc662f34557459.ctex"
+path="res://.godot/imported/Combat 1h - Slash.png-25651ffec0f6a1e8b9be8f1fc68b704f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Shadow/Combat 1h - Slash.png"
-dest_files=["res://.godot/imported/Combat 1h - Slash.png-8e60d7bc63c3a58bc6bc662f34557459.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Accessories/Neckwear 01 - Bowtie/Shadow/Combat 1h - Slash.png"
+dest_files=["res://.godot/imported/Combat 1h - Slash.png-25651ffec0f6a1e8b9be8f1fc68b704f.ctex"]
 
 [params]
 

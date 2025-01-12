@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cki6mavjv88ay"
-path="res://.godot/imported/idle.png-166d2a83174bf24837a770fdac0bde5f.ctex"
+path="res://.godot/imported/idle.png-5e53ed48303f86c84f29f749b0a1c20a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Children/Body/_Alternate Colors/Cornflower/idle.png"
-dest_files=["res://.godot/imported/idle.png-166d2a83174bf24837a770fdac0bde5f.ctex"]
+source_file="res://Player/Characters/Children/Body/_Alternate Colors/Cornflower/idle.png"
+dest_files=["res://.godot/imported/idle.png-5e53ed48303f86c84f29f749b0a1c20a.ctex"]
 
 [params]
 

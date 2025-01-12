@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by8f2nc5qugn"
-path="res://.godot/imported/Walk.png-7e4426fd73d5cec5d0d5ba5a8bf3f8b8.ctex"
+path="res://.godot/imported/Walk.png-37f648e627e81863fd38572e5cf2c571.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 03 - Scoop Longsleeve Shirt/Shadow/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-7e4426fd73d5cec5d0d5ba5a8bf3f8b8.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 03 - Scoop Longsleeve Shirt/Shadow/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-37f648e627e81863fd38572e5cf2c571.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yfrxmonvtgsd"
-path="res://.godot/imported/Jump.png-8e031c348f4e2408e6d746ac91ad7694.ctex"
+path="res://.godot/imported/Jump.png-e10f2c67359b407d8e0ed08235dd2654.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/LPC/Characters/Clothing/Masculine, Thin/Torso/Shirt 03 - Scoop Longsleeve Shirt/Red/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-8e031c348f4e2408e6d746ac91ad7694.ctex"]
+source_file="res://Player/Characters/Clothing/Masculine, Thin/Torso/Shirt 03 - Scoop Longsleeve Shirt/Red/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-e10f2c67359b407d8e0ed08235dd2654.ctex"]
 
 [params]
 
