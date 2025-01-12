@@ -3,7 +3,10 @@ using Godot;
 public partial class Character : CharacterBody2D
 {
 	[Export] private float _speed = 600f; //Varibale qui stock la vitesse du mouvement du personnage 
-	private Vector2 _movementInput = Vector2.Zero; //Stoke la direction de mouvement, initialisée à zéro 
+	[Export] private AnimatedSprite2D _sprite;
+	private Vector2 _movementInput = Vector2.Zero; //Stoke la direction de mouvement, initialisée à zéro
+	private string LastDirection = "R";
+	
 	public void SetMovementInput(Vector2 input) //Méthode pour gérer l'entrée de mouvement 
 	{
 		_movementInput = input.Normalized(); //Normalise l'entrée pour un vitesse constante dans toutes les directions
@@ -12,5 +15,33 @@ public partial class Character : CharacterBody2D
 	{
 		Velocity = _movementInput * _speed; // calcule la vélocité en fonction de la direction et de la vitesse
 		MoveAndSlide(); // Applique le mouvement tout en gérant les collisions
+		
+		//Animation en fonction de la direction
+		if (_movementInput.X > 0)
+		{
+			LastDirection = "R";
+			_sprite.Play("walk_right");
+		}
+		else if (_movementInput.X < 0)
+		{
+			LastDirection = "L";
+			_sprite.Play("walk_left");
+		}
+		else if (_movementInput.Y != 0)
+		{
+			if (LastDirection == "R")
+			{
+				_sprite.Play("walk_right");
+			}
+			else
+			{
+				_sprite.Play("walk_left");
+			}
+		}
+		else
+		{
+			_sprite.Stop();
+		}
 	}
+	
 }
