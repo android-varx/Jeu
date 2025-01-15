@@ -13,6 +13,7 @@
         "packagesPath": "/Users/andrei/.nuget/packages/",
         "outputPath": "/Users/andrei/Documents/Jeu/.godot/mono/temp/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/andrei/.nuget/NuGet/NuGet.Config"
         ],

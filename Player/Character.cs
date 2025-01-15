@@ -2,10 +2,15 @@ using Godot;
 
 public partial class Character : CharacterBody2D
 {
-	[Export] private float _speed = 600f; //Varibale qui stock la vitesse du mouvement du personnage 
+	[Export] private float _speed = 300f; //Varibale qui stock la vitesse du mouvement du personnage 
 	[Export] private AnimatedSprite2D _sprite;
 	private Vector2 _movementInput = Vector2.Zero; //Stoke la direction de mouvement, initialisée à zéro
 	private string LastDirection = "R"; 
+	
+	public override void _Ready()
+	{
+		Position = new Vector2(4500, 4500); // Définir la position initiale du personnage
+	}
 	
 	public void SetMovementInput(Vector2 input) //Méthode pour gérer l'entrée de mouvement 
 	{

@@ -1,8 +1,29 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1736694559
-README.md::TextFile::-1::1736640707::0::1::::<><>::
-::res://Map/::1736692820
-Rock.tscn::PackedScene::8025031088709515809::1736621809::0::1::::<><>::uid://c7s41de7g2h5h::::res://Sprites/LPC/Terrain/Rocks, Grasslands.png
+::res://::1736979203
+README.md::TextFile::-1::1736715228::0::1::::<><>::
+::res://Map/::1736980490
+floor_gen.cs::CSharpScript::-1::1736980490::0::1::::<><>::
+::res://Map/Default_Forest/::1736980466
+border_down.tscn::PackedScene::458038333171298535::1736977745::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+border_left.tscn::PackedScene::7845185883032516894::1736980258::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+border_right.tscn::PackedScene::2517966260025486470::1736977861::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+border_top.tscn::PackedScene::3133388932746188438::1736977828::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+down_left.tscn::PackedScene::1901541204710767380::1736979502::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+down_right.tscn::PackedScene::7277168789550571980::1736977482::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor.tscn::PackedScene::66823947452950308::1736979502::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+Leaves.tscn::PackedScene::72712167646103519::1736980258::0::1::::<><>::uid://cvteroim5vh4t::::res://Map/Default_Forest/plants_summer.png
+Map_Default_Forest.tscn::PackedScene::1018901268466324053::1736980258::0::1::::<><>::res://Map/Default_Forest/map_gen.cs<>uid://drh14qbj2wwxt::::res://Map/Default_Forest/Tree.tscn<>uid://dmlndbsbme0q4::::res://Map/Default_Forest/Rock.tscn<>uid://bbhs87g3a2wh::::res://Map/Default_Forest/Leaves.tscn<>uid://2rdh5m2hqg1u::::res://Map/Default_Forest/top_left.tscn<>uid://bkv3ptmoksbe1::::res://Map/Default_Forest/border_top.tscn<>uid://duo37iwhnqh8c::::res://Map/Default_Forest/top_right.tscn<>uid://dj1jchqpptnhu::::res://Map/Default_Forest/border_left.tscn<>uid://bb4ysidttbqsk::::res://Map/Default_Forest/border_right.tscn<>uid://2deduljaee5i::::res://Map/Default_Forest/down_left.tscn<>uid://gr43bbjusn1p::::res://Map/Default_Forest/border_down.tscn<>uid://dbxd53he8382c::::res://Map/Default_Forest/down_right.tscn<>uid://7mt0h6o14c3::::res://Map/Default_Forest/floor.tscn
+map_gen.cs::CSharpScript::-1::1736980159::0::1::::<>Node2D<>::
+mushrooms.png::CompressedTexture2D::6573381049034474096::1736458237::1736815499::1::::<><>::
+plants_summer.png::CompressedTexture2D::6286304235850954001::1736458237::1736815499::1::::<><>::
+Default_floor.tscn::PackedScene::3089409224751264558::1736980466::0::1::::<><>::
+Rock.tscn::PackedScene::8025031088709515809::1736980258::0::1::::<><>::uid://c7s41de7g2h5h::::res://Map/Terrain/Rocks, Grasslands.png
+Rocks, Grasslands.png::CompressedTexture2D::1912276060718797563::1736458237::1736813158::1::::<><>::
+terrain_spring.png::CompressedTexture2D::2475586364071792254::1736458237::1736813158::1::::<><>::
+top_left.tscn::PackedScene::1930389447056429040::1736977620::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+top_right.tscn::PackedScene::8593697888107762096::1736977574::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+Tree.tscn::PackedScene::8368554309403739705::1736980258::0::1::::<><>::uid://du55a1j6e3mrx::::res://Map/Default_Forest/trees_summer.png
+trees_summer.png::CompressedTexture2D::8626793147170040009::1736458237::1736813158::1::::<><>::
 ::res://Map/Furniture/::1736694527
 Barrel.png::CompressedTexture2D::3652640047741884182::1736458237::1736694527::1::::<><>::
 Beds, Single  A.png::CompressedTexture2D::3034232561214313245::1736458237::1736694527::1::::<><>::
@@ -250,7 +271,7 @@ Ornamental Windows B.png::CompressedTexture2D::2668405878947917366::1736458237::
 Stone Windows A - Emission.png::CompressedTexture2D::2067872151699369090::1736458237::1736694527::1::::<><>::
 Stone Windows A.png::CompressedTexture2D::6141358591383127469::1736458237::1736694527::1::::<><>::
 Window Awnings A.png::CompressedTexture2D::2375996447348351789::1736458237::1736694527::1::::<><>::
-::res://Map/Terrain/::1736694527
+::res://Map/Terrain/::1736815466
 cliff_autumn.png::CompressedTexture2D::6493972843247634655::1736458237::1736694527::1::::<><>::
 cliff_spring.png::CompressedTexture2D::4409133655010837704::1736458237::1736694527::1::::<><>::
 cliff_summer.png::CompressedTexture2D::2569813341983286073::1736458237::1736694527::1::::<><>::
@@ -260,34 +281,30 @@ Credits.txt::TextFile::-1::1736458237::0::1::::<><>::
 flowers.png::CompressedTexture2D::1887276976942115108::1736458237::1736694527::1::::<><>::
 forest.png::CompressedTexture2D::4575853729214556341::1735773959::1736694527::1::::<><>::
 ice-shallows.png::CompressedTexture2D::4361445343053799852::1736458237::1736694527::1::::<><>::
-mushrooms.png::CompressedTexture2D::1713050315336462740::1736458237::1736694527::1::::<><>::
 plants_autumn.png::CompressedTexture2D::4757975114940531645::1736458237::1736694527::1::::<><>::
 plants_spring.png::CompressedTexture2D::3389070812761952930::1736458237::1736694527::1::::<><>::
-plants_summer.png::CompressedTexture2D::3655755363324391193::1736458237::1736694527::1::::<><>::
 plants_winter.png::CompressedTexture2D::5330396360064898845::1736458237::1736694527::1::::<><>::
 Rocks, Cliffs.png::CompressedTexture2D::3087365663788901738::1736458237::1736694527::1::::<><>::
-Rocks, Grasslands.png::CompressedTexture2D::7057850552020359127::1736458237::1736694527::1::::<><>::
 terrain_autumn.png::CompressedTexture2D::4725190343393259596::1736458237::1736694527::1::::<><>::
-terrain_spring.png::CompressedTexture2D::6617129064384040212::1736458237::1736694527::1::::<><>::
 terrain_summer.png::CompressedTexture2D::7443938252436564751::1736458237::1736694527::1::::<><>::
 terrain_winter.png::CompressedTexture2D::4618628085149694880::1736458237::1736694527::1::::<><>::
 terrain_winter_ice.png::CompressedTexture2D::8508881891240823768::1736458237::1736694527::1::::<><>::
 tilled_soil.png::CompressedTexture2D::7487485409667186530::1736458237::1736694527::1::::<><>::
 trees_autumn.png::CompressedTexture2D::8121869136633257703::1736458237::1736694527::1::::<><>::
 trees_spring.png::CompressedTexture2D::2854016030292389870::1736458237::1736694527::1::::<><>::
-trees_summer.png::CompressedTexture2D::7698770965021790310::1736458237::1736694527::1::::<><>::
 trees_winter.png::CompressedTexture2D::8650477879717586265::1736458237::1736694527::1::::<><>::
 Waterfall.png::CompressedTexture2D::6022273475011113468::1736458237::1736694527::1::::<><>::
 wildflowers_autumn.png::CompressedTexture2D::6370941996658968749::1736458237::1736694527::1::::<><>::
 wildflowers_spring.png::CompressedTexture2D::8565424120395792318::1736458237::1736694527::1::::<><>::
 wildflowers_summer.png::CompressedTexture2D::7685039577026371681::1736458237::1736694527::1::::<><>::
 wildflowers_winter.png::CompressedTexture2D::2449854389972318781::1736458237::1736694527::1::::<><>::
-::res://Player/::1736694527
+::res://Player/::1736980258
 Animation Marche JD (2).png::CompressedTexture2D::647269861086592741::1736694128::1736694527::1::::<><>::
-camera_follow.cs::CSharpScript::-1::1736632198::0::1::::<><>::
-Character.cs::CSharpScript::-1::1736632567::0::1::::<><>::
-player.cs::CSharpScript::-1::1736633200::0::1::::<><>::
-Player.tscn::PackedScene::7575486163066455252::1736621809::0::1::::<><>::res://scripts/player.cs<>res://scripts/player_input.cs<>res://scripts/Character.cs<>uid://dkxpdjchlas0r::::res://Sprites/Personnage1-removebg-preview.png<>res://scripts/camera_follow.cs
-player_input.cs::CSharpScript::-1::1736632567::0::1::::<><>::
-::res://Scenes/::1736692899
+camera_follow.cs::CSharpScript::-1::1736632198::0::1::::<>Node2D<>::
+Character.cs::CSharpScript::-1::1736814333::0::1::::<>CharacterBody2D<>::
+player.cs::CSharpScript::-1::1736633200::0::1::::<>Node<>::
+Player.tscn::PackedScene::7575486163066455252::1736980258::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn
+player_input.cs::CSharpScript::-1::1736632567::0::1::::<>Node<>::
+::res://Scenes/::1736980258
+Main.tscn::PackedScene::954294690697660031::1736980258::0::1::::<><>::uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn
 ::res://Sprites/::1736694479

@@ -9,4 +9,5 @@ public partial class player : Node
 	{
 		_character.SetMovementInput(_input.MovementInput); // Appel la méthode 
 	}
-}
+	
+}	
