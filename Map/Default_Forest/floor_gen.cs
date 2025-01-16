@@ -14,6 +14,8 @@ public partial class floor_gen : Node
 	[Export] private PackedScene floorScene;
     [Export] private PackedScene floor2Scence;
     [Export] private PackedScene floor3Scence;
+    [Export] private PackedScene floor4Scene;
+    [Export] private PackedScene floor5Scene;
 	
 	private int mapWidth = 9984;  // On definit la largeur 
 	private int mapHeight = 9984; // on definit la hauteur 
@@ -40,7 +42,7 @@ public partial class floor_gen : Node
                 {
                     PlaceTile(topRightScene, x, 0);
                 }
-                else
+                if (x != 0 && x != horizontal - 1)
                 {
                     PlaceTile(topScene, x, 0);
                 }
@@ -55,13 +57,13 @@ public partial class floor_gen : Node
                         PlaceTile(leftScene, 0, y);
                     }
     
-                    if (x == horizontal - 1)
+                    if (x == horizontal - 1 )
                     {
                         PlaceTile(rightScene, x, y);
                     }
-                    else
+                    if (x != 0 && x != horizontal - 1)
                     {
-                        int n = random.Next(1, 4);
+                        int n = random.Next(1, 6);
                         if (n == 1)
                         {
                             PlaceTile(floorScene, x, y);
@@ -75,6 +77,16 @@ public partial class floor_gen : Node
                         if (n == 3)
                         {
                             PlaceTile(floor3Scence, x, y);
+                        }
+
+                        if (n == 4)
+                        {
+                            PlaceTile(floor4Scene, x, y);
+                        }
+
+                        if (n == 5)
+                        {
+                            PlaceTile(floor5Scene, x, y);
                         }
                     }
                 }
@@ -91,7 +103,7 @@ public partial class floor_gen : Node
                 {
                     PlaceTile(downRightScene, x, vertical - 1);
                 }
-                else
+                if (x != 0 && x != horizontal - 1)
                 {
                     PlaceTile(downScene, x, vertical - 1);
                 }

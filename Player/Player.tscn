@@ -1,12 +1,10 @@
-[gd_scene load_steps=24 format=3 uid="uid://df6vfd06dvulw"]
+[gd_scene load_steps=22 format=3 uid="uid://df6vfd06dvulw"]
 
 [ext_resource type="Script" path="res://Player/player.cs" id="1_e207t"]
 [ext_resource type="Script" path="res://Player/player_input.cs" id="2_h82as"]
-[ext_resource type="PackedScene" uid="uid://bkasebcaotiaw" path="res://Map/Default_Forest/Default_floor.tscn" id="3_re4xf"]
 [ext_resource type="Script" path="res://Player/Character.cs" id="3_w5jik"]
 [ext_resource type="Texture2D" uid="uid://jhso7xrxoun2" path="res://Player/Animation Marche JD (2).png" id="4_jp0ga"]
 [ext_resource type="Script" path="res://Player/camera_follow.cs" id="5_kmr5o"]
-[ext_resource type="PackedScene" uid="uid://ortfjhh5vsv2" path="res://Map/Default_Forest/Map_Default_Forest.tscn" id="6_occ5i"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_f1npv"]
 size = Vector2(38, 84)
@@ -130,8 +128,6 @@ _character = NodePath("Character")
 [node name="Input" type="Node2D" parent="."]
 script = ExtResource("2_h82as")
 
-[node name="DefaultFloor" parent="." instance=ExtResource("3_re4xf")]
-
 [node name="Character" type="CharacterBody2D" parent="." node_paths=PackedStringArray("_sprite")]
 script = ExtResource("3_w5jik")
 _sprite = NodePath("AnimatedSprite2D")
@@ -150,5 +146,3 @@ animation = &"walk_right"
 position_smoothing_enabled = true
 script = ExtResource("5_kmr5o")
 _objectToFollow = NodePath("../Character")
-
-[node name="MapDefaultForest" parent="." instance=ExtResource("6_occ5i")]

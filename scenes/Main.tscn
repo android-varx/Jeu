@@ -1,9 +1,12 @@
-[gd_scene load_steps=3 format=3 uid="uid://nujdg20o04d4"]
+[gd_scene load_steps=4 format=3 uid="uid://nujdg20o04d4"]
 
+[ext_resource type="PackedScene" uid="uid://bkasebcaotiaw" path="res://Map/Default_Forest/Default_floor.tscn" id="1_dvlxe"]
 [ext_resource type="PackedScene" uid="uid://df6vfd06dvulw" path="res://Player/Player.tscn" id="1_g8ech"]
 [ext_resource type="PackedScene" uid="uid://ortfjhh5vsv2" path="res://Map/Default_Forest/Map_Default_Forest.tscn" id="2_5nt2y"]
 
 [node name="Main" type="Node2D"]
+
+[node name="DefaultFloor" parent="." instance=ExtResource("1_dvlxe")]
 
 [node name="Player" parent="." instance=ExtResource("1_g8ech")]
 

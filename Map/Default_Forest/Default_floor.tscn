@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3 uid="uid://bkasebcaotiaw"]
+[gd_scene load_steps=15 format=3 uid="uid://bkasebcaotiaw"]
 
 [ext_resource type="Script" path="res://Map/Default_Forest/floor_gen.cs" id="1_iljqx"]
 [ext_resource type="PackedScene" uid="uid://2rdh5m2hqg1u" path="res://Map/Default_Forest/top_left.tscn" id="2_ga45h"]
@@ -12,6 +12,8 @@
 [ext_resource type="PackedScene" uid="uid://7mt0h6o14c3" path="res://Map/Default_Forest/floor.tscn" id="10_gnxh7"]
 [ext_resource type="PackedScene" uid="uid://bbwt2xaywqm4f" path="res://Map/Default_Forest/floor2.tscn" id="11_77tgv"]
 [ext_resource type="PackedScene" uid="uid://d1cfe16a1p3on" path="res://Map/Default_Forest/floor3.tscn" id="12_lrgc5"]
+[ext_resource type="PackedScene" uid="uid://k051erupkfao" path="res://Map/Default_Forest/floor4.tscn" id="13_x67s8"]
+[ext_resource type="PackedScene" uid="uid://dkpl2i5tvbl22" path="res://Map/Default_Forest/foor5.tscn" id="14_8e12s"]
 
 [node name="DefaultFloor" type="Node2D"]
 script = ExtResource("1_iljqx")
@@ -26,3 +28,5 @@ downRightScene = ExtResource("9_7fhls")
 floorScene = ExtResource("10_gnxh7")
 floor2Scence = ExtResource("11_77tgv")
 floor3Scence = ExtResource("12_lrgc5")
+floor4Scene = ExtResource("13_x67s8")
+floor5Scene = ExtResource("14_8e12s")

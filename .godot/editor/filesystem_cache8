@@ -1,22 +1,24 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1736979203
+::res://::1737032518
 README.md::TextFile::-1::1736715228::0::1::::<><>::
-::res://Map/::1736980490
-floor_gen.cs::CSharpScript::-1::1736980490::0::1::::<><>::
-::res://Map/Default_Forest/::1736980466
+::res://Map/::1736980511
+::res://Map/Default_Forest/::1737032495
 border_down.tscn::PackedScene::458038333171298535::1736977745::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
 border_left.tscn::PackedScene::7845185883032516894::1736980258::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
 border_right.tscn::PackedScene::2517966260025486470::1736977861::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
 border_top.tscn::PackedScene::3133388932746188438::1736977828::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+Default_floor.tscn::PackedScene::3089409224751264558::1737014618::0::1::::<><>::res://Map/Default_Forest/floor_gen.cs<>uid://2rdh5m2hqg1u::::res://Map/Default_Forest/top_left.tscn<>uid://bkv3ptmoksbe1::::res://Map/Default_Forest/border_top.tscn<>uid://duo37iwhnqh8c::::res://Map/Default_Forest/top_right.tscn<>uid://dj1jchqpptnhu::::res://Map/Default_Forest/border_left.tscn<>uid://bb4ysidttbqsk::::res://Map/Default_Forest/border_right.tscn<>uid://2deduljaee5i::::res://Map/Default_Forest/down_left.tscn<>uid://gr43bbjusn1p::::res://Map/Default_Forest/border_down.tscn<>uid://dbxd53he8382c::::res://Map/Default_Forest/down_right.tscn<>uid://7mt0h6o14c3::::res://Map/Default_Forest/floor.tscn<>uid://bbwt2xaywqm4f::::res://Map/Default_Forest/floor2.tscn<>uid://d1cfe16a1p3on::::res://Map/Default_Forest/floor3.tscn
 down_left.tscn::PackedScene::1901541204710767380::1736979502::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
 down_right.tscn::PackedScene::7277168789550571980::1736977482::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor2.tscn::PackedScene::2503228886375990127::1737014407::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor3.tscn::PackedScene::8988612882847124401::1737014460::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
 floor.tscn::PackedScene::66823947452950308::1736979502::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor_gen.cs::CSharpScript::-1::1737032495::0::1::::<>Node<>::
 Leaves.tscn::PackedScene::72712167646103519::1736980258::0::1::::<><>::uid://cvteroim5vh4t::::res://Map/Default_Forest/plants_summer.png
-Map_Default_Forest.tscn::PackedScene::1018901268466324053::1736980258::0::1::::<><>::res://Map/Default_Forest/map_gen.cs<>uid://drh14qbj2wwxt::::res://Map/Default_Forest/Tree.tscn<>uid://dmlndbsbme0q4::::res://Map/Default_Forest/Rock.tscn<>uid://bbhs87g3a2wh::::res://Map/Default_Forest/Leaves.tscn<>uid://2rdh5m2hqg1u::::res://Map/Default_Forest/top_left.tscn<>uid://bkv3ptmoksbe1::::res://Map/Default_Forest/border_top.tscn<>uid://duo37iwhnqh8c::::res://Map/Default_Forest/top_right.tscn<>uid://dj1jchqpptnhu::::res://Map/Default_Forest/border_left.tscn<>uid://bb4ysidttbqsk::::res://Map/Default_Forest/border_right.tscn<>uid://2deduljaee5i::::res://Map/Default_Forest/down_left.tscn<>uid://gr43bbjusn1p::::res://Map/Default_Forest/border_down.tscn<>uid://dbxd53he8382c::::res://Map/Default_Forest/down_right.tscn<>uid://7mt0h6o14c3::::res://Map/Default_Forest/floor.tscn
-map_gen.cs::CSharpScript::-1::1736980159::0::1::::<>Node2D<>::
+Map_Default_Forest.tscn::PackedScene::1018901268466324053::1737014927::0::1::::<><>::res://Map/Default_Forest/map_gen.cs<>uid://drh14qbj2wwxt::::res://Map/Default_Forest/Tree.tscn<>uid://dmlndbsbme0q4::::res://Map/Default_Forest/Rock.tscn<>uid://bbhs87g3a2wh::::res://Map/Default_Forest/Leaves.tscn
+map_gen.cs::CSharpScript::-1::1736981907::0::1::::<>Node2D<>::
 mushrooms.png::CompressedTexture2D::6573381049034474096::1736458237::1736815499::1::::<><>::
 plants_summer.png::CompressedTexture2D::6286304235850954001::1736458237::1736815499::1::::<><>::
-Default_floor.tscn::PackedScene::3089409224751264558::1736980466::0::1::::<><>::
 Rock.tscn::PackedScene::8025031088709515809::1736980258::0::1::::<><>::uid://c7s41de7g2h5h::::res://Map/Terrain/Rocks, Grasslands.png
 Rocks, Grasslands.png::CompressedTexture2D::1912276060718797563::1736458237::1736813158::1::::<><>::
 terrain_spring.png::CompressedTexture2D::2475586364071792254::1736458237::1736813158::1::::<><>::
@@ -298,13 +300,13 @@ wildflowers_autumn.png::CompressedTexture2D::6370941996658968749::1736458237::17
 wildflowers_spring.png::CompressedTexture2D::8565424120395792318::1736458237::1736694527::1::::<><>::
 wildflowers_summer.png::CompressedTexture2D::7685039577026371681::1736458237::1736694527::1::::<><>::
 wildflowers_winter.png::CompressedTexture2D::2449854389972318781::1736458237::1736694527::1::::<><>::
-::res://Player/::1736980258
+::res://Player/::1737014927
 Animation Marche JD (2).png::CompressedTexture2D::647269861086592741::1736694128::1736694527::1::::<><>::
 camera_follow.cs::CSharpScript::-1::1736632198::0::1::::<>Node2D<>::
-Character.cs::CSharpScript::-1::1736814333::0::1::::<>CharacterBody2D<>::
-player.cs::CSharpScript::-1::1736633200::0::1::::<>Node<>::
-Player.tscn::PackedScene::7575486163066455252::1736980258::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn
-player_input.cs::CSharpScript::-1::1736632567::0::1::::<>Node<>::
-::res://Scenes/::1736980258
-Main.tscn::PackedScene::954294690697660031::1736980258::0::1::::<><>::uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn
+Character.cs::CSharpScript::-1::1736981370::0::1::::<>CharacterBody2D<>::
+player.cs::CSharpScript::-1::1736981370::0::1::::<>Node<>::
+Player.tscn::PackedScene::7575486163066455252::1737014927::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>uid://bkasebcaotiaw::::res://Map/Default_Forest/Default_floor.tscn<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn
+player_input.cs::CSharpScript::-1::1736981089::0::1::::<>Node<>::
+::res://Scenes/::1737014927
+Main.tscn::PackedScene::954294690697660031::1737014927::0::1::::<><>::uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn
 ::res://Sprites/::1736694479
