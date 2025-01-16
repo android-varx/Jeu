@@ -12,6 +12,8 @@ public partial class floor_gen : Node
 	[Export] private PackedScene downScene;
 	[Export] private PackedScene downRightScene;
 	[Export] private PackedScene floorScene;
+    [Export] private PackedScene floor2Scence;
+    [Export] private PackedScene floor3Scence;
 	
 	private int mapWidth = 9984;  // On definit la largeur 
 	private int mapHeight = 9984; // on definit la hauteur 
@@ -23,6 +25,7 @@ public partial class floor_gen : Node
 	}
 	private void GenerateFloor()
         {
+            Random random = new Random();
             int horizontal = 312;
             int vertical = 312;
     
@@ -58,7 +61,21 @@ public partial class floor_gen : Node
                     }
                     else
                     {
-                        PlaceTile(floorScene, x, y);
+                        int n = random.Next(1, 4);
+                        if (n == 1)
+                        {
+                            PlaceTile(floorScene, x, y);
+                        }
+
+                        if (n == 2)
+                        {
+                            PlaceTile(floor2Scence, x, y);
+                        }
+
+                        if (n == 3)
+                        {
+                            PlaceTile(floor3Scence, x, y);
+                        }
                     }
                 }
             }

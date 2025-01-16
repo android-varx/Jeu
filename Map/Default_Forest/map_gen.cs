@@ -12,9 +12,9 @@ public partial class map_gen : Node2D
     private int mapHeight = 9984; // on definit la hauteur 
     
 
-    private int leavesMin = 100, leavesMax = 200;   // Quantité min et max de feuilles
-    private int rockMin = 100, rockMax = 200;   // Quantité min et max de cailloux
-    private int treeMin = 100, treeMax = 200;   // Quantité min et max d'arbres
+    private int leavesMin = 100, leavesMax = 200;   // Quantite min et max de feuilles
+    private int rockMin = 100, rockMax = 200;   // Quantite min et max de cailloux
+    private int treeMin = 100, treeMax = 200;   // Quantite min et max arbre
 
     public override void _Ready()
     {
@@ -32,7 +32,7 @@ public partial class map_gen : Node2D
     {
         Random random = new Random();
 
-        // Détermine le nombre d'objets à générer
+        // determine le nombre d'objets a generer
         int objectCount = random.Next(minCount, maxCount);
 
         List<Rect2> occupiedSpaces = new List<Rect2>();
@@ -48,7 +48,7 @@ public partial class map_gen : Node2D
             //on cree le vecteur pour les positions de chaque objet 
             Vector2 position;
 
-            // Génère une position jusqu'à ce qu'elle soit valide
+            // on cherche a generer une position jusqua ce quelle soit valide 
             do
             {
                 float x = random.Next((int)(spriteSize.X) , (int)(mapWidth - spriteSize.X * 2));
@@ -57,30 +57,30 @@ public partial class map_gen : Node2D
             }
             while (IsOverlapping(position, spriteSize, occupiedSpaces));
 
-            // PLacement de l'objet si ok
+            // placement de l'objet si ok
             instance.Position = position;
             AddChild(instance);
 
-            // Ajoute l'espace occupé par l'objet avec une marge
+            // ajoute l'espace occupé par l'objet dans la liste
             occupiedSpaces.Add(new Rect2(position - spriteSize, spriteSize * 2));
         }
     }
 
     private bool IsOverlapping(Vector2 position, Vector2 size, List<Rect2> occupiedSpaces)
     {
-        // Crée un Rect2 pour le nouvel objet avec une marge
+        // cree un Rect2 pour le nouvel objet
         Rect2 newRect = new Rect2(position - size, size * 2);
 
         foreach (var rect in occupiedSpaces)
         {
-            // Vérifie si les deux rectangles se chevauchent
+            // verifie si les deux rectangles se chevauchent
             if (newRect.Intersects(rect))
             {
-                return true; // Collision détectée
+                return true; // chevauchement 
             }
         }
 
-        // Aucun chevauchement détecté
+        // pas de chevauchement
         return false;
     }
 }

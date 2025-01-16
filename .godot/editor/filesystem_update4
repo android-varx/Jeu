@@ -14,3 +14,5 @@ res://Player/player_input.cs
 res://Map/Default_Forest/border_left.tscn
 res://Map/Default_Forest/floor_gen.cs
 res://Map/Default_Forest/Default_floor.tscn
+res://Map/Default_Forest/floor2.tscn
+res://Map/Default_Forest/floor3.tscn
