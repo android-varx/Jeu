@@ -1,0 +1,116 @@
+[gd_scene load_steps=4 format=3 uid="uid://b10jxbhfr2jrg"]
+
+[ext_resource type="Texture2D" uid="uid://cm0xclm6m4rtn" path="res://Inven/Inventaire.png" id="1_5c706"]
+[ext_resource type="Script" path="res://Inven/InventoryGui.cs" id="1_5dwgb"]
+[ext_resource type="PackedScene" uid="uid://cjxkxcxl5mghf" path="res://panel.tscn" id="2_4q080"]
+
+[node name="InventoryGui" type="Control"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 3
+anchors_preset = 0
+offset_left = 154.0
+offset_top = 147.0
+offset_right = 606.0
+offset_bottom = 411.0
+scale = Vector2(1.691, 2)
+script = ExtResource("1_5dwgb")
+
+[node name="NinePatchRect" type="NinePatchRect" parent="."]
+layout_mode = 0
+offset_left = 2.36546
+offset_top = -91.0
+offset_right = 390.365
+offset_bottom = 223.0
+texture = ExtResource("1_5c706")
+
+[node name="GridContainer" type="GridContainer" parent="NinePatchRect"]
+layout_mode = 0
+offset_left = 189.0
+offset_top = 68.0
+offset_right = 381.0
+offset_bottom = 260.0
+columns = 5
+
+[node name="Panel" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel2" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel3" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel4" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel5" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel6" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel7" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel8" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel9" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel10" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel11" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel12" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel13" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel14" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel15" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel16" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel17" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel18" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel19" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel20" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+custom_minimum_size = Vector2(30, 30)
+layout_mode = 2
+
+[node name="Panel21" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel22" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel23" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel24" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2
+
+[node name="Panel25" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
+layout_mode = 2

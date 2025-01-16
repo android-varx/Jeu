@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjxkxcxl5mghf"]
+
+[ext_resource type="Texture2D" uid="uid://boekfpo0uqd3i" path="res://Inven/SlotInv.png" id="1_sewjf"]
+
+[node name="Panel" type="Panel"]
+self_modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(20, 20)
+offset_left = 46.0
+offset_top = -67.0
+offset_right = 88.0
+offset_bottom = -38.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-47.5, 95.5)
+scale = Vector2(1.50781, 1.66406)
+texture = ExtResource("1_sewjf")

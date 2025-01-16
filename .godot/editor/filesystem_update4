@@ -1,0 +1,13 @@
+res://Scenes/Main.tscn
+res://Map/Default_Forest/floor_gen.cs
+res://Player/player_input.cs
+res://Player/camera_follow.cs
+res://Player/Character.cs
+res://Map/Default_Forest/map_gen.cs
+res://Player/player.cs
+res://inventory_gui.tscn
+res://panel.tscn
+res://InventoryGui.cs
+res://Inven/inventory_gui.tscn
+res://Inven/InventoryGui.cs
+res://Player/Player.tscn

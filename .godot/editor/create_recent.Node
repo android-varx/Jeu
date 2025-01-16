@@ -1,5 +1,10 @@
+CanvasLayer
+Sprite2D
+Panel
+GridContainer
+NinePatchRect
+Control
 CollisionShape2D
 StaticBody2D
-Sprite2D
 AnimationPlayer
 AnimatedSprite2D
