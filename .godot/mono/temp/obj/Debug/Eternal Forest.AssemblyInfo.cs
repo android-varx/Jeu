@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eternal Forest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83d79b299377a9b7150e40464d9d9e1ad7eeb64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+965bcc4df3faffad3effa631d081b4ca37c9861a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eternal Forest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eternal Forest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

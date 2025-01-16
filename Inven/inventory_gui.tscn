@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://cm0xclm6m4rtn" path="res://Inven/Inventaire.png" id="1_5c706"]
 [ext_resource type="Script" path="res://Inven/InventoryGui.cs" id="1_5dwgb"]
-[ext_resource type="PackedScene" uid="uid://cjxkxcxl5mghf" path="res://panel.tscn" id="2_4q080"]
+[ext_resource type="PackedScene" uid="uid://cjxkxcxl5mghf" path="res://Inven/panel.tscn" id="2_4q080"]
 
 [node name="InventoryGui" type="Control"]
 custom_minimum_size = Vector2(40, 40)

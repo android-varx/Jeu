@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1737055367
-inventory_gui.tscn::PackedScene::4263527651916096308::1737055366::0::1::::<><>::uid://cm0xclm6m4rtn::::res://Inven/Inventaire.png<>res://Inven/InventoryGui.cs<>uid://cjxkxcxl5mghf::::res://panel.tscn
-panel.tscn::PackedScene::5452670032776906091::1737055322::0::1::::<><>::uid://boekfpo0uqd3i::::res://Inven/SlotInv.png
+::res://::1737059343
+panel.tscn::PackedScene::5452670032776906091::1737059343::0::1::::<><>::uid://boekfpo0uqd3i::::res://Inven/SlotInv.png
 README.md::TextFile::-1::1737051748::0::1::::<><>::
-::res://Inven/::1737055366
+::res://Inven/::1737059343
 Inventaire.png::CompressedTexture2D::5668117595035722463::1737052267::1737052268::1::::<><>::
-InventoryGui.cs::CSharpScript::-1::1737055322::0::1::::<><>::
+InventoryGui.cs::CSharpScript::-1::1737058683::0::1::::<>Control<>::
+inventory_gui.tscn::PackedScene::4263527651916096308::1737059961::0::1::::<><>::uid://cm0xclm6m4rtn::::res://Inven/Inventaire.png<>res://Inven/InventoryGui.cs<>uid://cjxkxcxl5mghf::::res://panel.tscn
 SlotInv.png::CompressedTexture2D::3377938915179742252::1737052275::1737052276::1::::<><>::
 ::res://Map/::1737051748
 ::res://Map/Default_Forest/::1737051871
@@ -309,13 +309,13 @@ wildflowers_autumn.png::CompressedTexture2D::6370941996658968749::1737051748::17
 wildflowers_spring.png::CompressedTexture2D::8565424120395792318::1737051748::1737051870::1::::<><>::
 wildflowers_summer.png::CompressedTexture2D::7685039577026371681::1737051748::1737051870::1::::<><>::
 wildflowers_winter.png::CompressedTexture2D::2449854389972318781::1737051748::1737051870::1::::<><>::
-::res://Player/::1737051870
+::res://Player/::1737059343
 Animation Marche JD (2).png::CompressedTexture2D::647269861086592741::1737051748::1737051870::1::::<><>::
 camera_follow.cs::CSharpScript::-1::1737051748::0::1::::<>Node2D<>::
 Character.cs::CSharpScript::-1::1737051748::0::1::::<>CharacterBody2D<>::
 player.cs::CSharpScript::-1::1737051748::0::1::::<>Node<>::
-Player.tscn::PackedScene::7575486163066455252::1737051748::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs
+Player.tscn::PackedScene::7575486163066455252::1737059343::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs
 player_input.cs::CSharpScript::-1::1737051748::0::1::::<>Node<>::
-::res://scenes/::1737055322
-Main.tscn::PackedScene::954294690697660031::1737055322::0::1::::<><>::uid://bkasebcaotiaw::::res://Map/Default_Forest/Default_floor.tscn<>uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn<>uid://b10jxbhfr2jrg::::res://inventory_gui.tscn
+::res://scenes/::1737059343
+Main.tscn::PackedScene::954294690697660031::1737059343::0::1::::<><>::uid://bkasebcaotiaw::::res://Map/Default_Forest/Default_floor.tscn<>uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn<>uid://b10jxbhfr2jrg::::res://Inven/inventory_gui.tscn
 ::res://Sprites/::1737051748
