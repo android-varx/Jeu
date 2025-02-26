@@ -1,321 +1,74 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1737059343
-panel.tscn::PackedScene::5452670032776906091::1737059343::0::1::::<><>::uid://boekfpo0uqd3i::::res://Inven/SlotInv.png
-README.md::TextFile::-1::1737051748::0::1::::<><>::
-::res://Inven/::1737059343
-Inventaire.png::CompressedTexture2D::5668117595035722463::1737052267::1737052268::1::::<><>::
-InventoryGui.cs::CSharpScript::-1::1737058683::0::1::::<>Control<>::
-inventory_gui.tscn::PackedScene::4263527651916096308::1737059961::0::1::::<><>::uid://cm0xclm6m4rtn::::res://Inven/Inventaire.png<>res://Inven/InventoryGui.cs<>uid://cjxkxcxl5mghf::::res://panel.tscn
-SlotInv.png::CompressedTexture2D::3377938915179742252::1737052275::1737052276::1::::<><>::
-::res://Map/::1737051748
-::res://Map/Default_Forest/::1737051871
-border_down.tscn::PackedScene::458038333171298535::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-border_left.tscn::PackedScene::7845185883032516894::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-border_right.tscn::PackedScene::2517966260025486470::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-border_top.tscn::PackedScene::3133388932746188438::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-Default_floor.tscn::PackedScene::3089409224751264558::1737051747::0::1::::<><>::res://Map/Default_Forest/floor_gen.cs<>uid://2rdh5m2hqg1u::::res://Map/Default_Forest/top_left.tscn<>uid://bkv3ptmoksbe1::::res://Map/Default_Forest/border_top.tscn<>uid://duo37iwhnqh8c::::res://Map/Default_Forest/top_right.tscn<>uid://dj1jchqpptnhu::::res://Map/Default_Forest/border_left.tscn<>uid://bb4ysidttbqsk::::res://Map/Default_Forest/border_right.tscn<>uid://2deduljaee5i::::res://Map/Default_Forest/down_left.tscn<>uid://gr43bbjusn1p::::res://Map/Default_Forest/border_down.tscn<>uid://dbxd53he8382c::::res://Map/Default_Forest/down_right.tscn<>uid://7mt0h6o14c3::::res://Map/Default_Forest/floor.tscn<>uid://bbwt2xaywqm4f::::res://Map/Default_Forest/floor2.tscn<>uid://d1cfe16a1p3on::::res://Map/Default_Forest/floor3.tscn<>uid://k051erupkfao::::res://Map/Default_Forest/floor4.tscn<>uid://dkpl2i5tvbl22::::res://Map/Default_Forest/foor5.tscn
-down_left.tscn::PackedScene::1901541204710767380::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-down_right.tscn::PackedScene::7277168789550571980::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-floor2.tscn::PackedScene::2503228886375990127::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-floor3.tscn::PackedScene::8988612882847124401::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-floor4.tscn::PackedScene::755366057940567458::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-floor.tscn::PackedScene::66823947452950308::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-floor_gen.cs::CSharpScript::-1::1737051747::0::1::::<>Node<>::
-foor5.tscn::PackedScene::7892832724548709653::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-Leaves.tscn::PackedScene::72712167646103519::1737051747::0::1::::<><>::uid://cvteroim5vh4t::::res://Map/Default_Forest/plants_summer.png
-Map_Default_Forest.tscn::PackedScene::1018901268466324053::1737051747::0::1::::<><>::res://Map/Default_Forest/map_gen.cs<>uid://drh14qbj2wwxt::::res://Map/Default_Forest/Tree.tscn<>uid://dmlndbsbme0q4::::res://Map/Default_Forest/Rock.tscn<>uid://bbhs87g3a2wh::::res://Map/Default_Forest/Leaves.tscn<>uid://cdmsj5n0mn48f::::res://Map/Default_Forest/mushroom.tscn
-map_gen.cs::CSharpScript::-1::1737051747::0::1::::<>Node2D<>::
-mushroom.tscn::PackedScene::5009291006299385955::1737051747::0::1::::<><>::uid://c0wgvjco7xt2w::::res://Map/Default_Forest/mushrooms.png
-mushrooms.png::CompressedTexture2D::6573381049034474096::1737051747::1737051871::1::::<><>::
-plants_summer.png::CompressedTexture2D::6286304235850954001::1737051747::1737051871::1::::<><>::
-Rock.tscn::PackedScene::8025031088709515809::1737051747::0::1::::<><>::uid://c7s41de7g2h5h::::res://Map/Terrain/Rocks, Grasslands.png
-Rocks, Grasslands.png::CompressedTexture2D::1912276060718797563::1737051747::1737051871::1::::<><>::
-terrain_spring.png::CompressedTexture2D::2475586364071792254::1737051747::1737051871::1::::<><>::
-top_left.tscn::PackedScene::1930389447056429040::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-top_right.tscn::PackedScene::8593697888107762096::1737051747::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
-Tree.tscn::PackedScene::8368554309403739705::1737051747::0::1::::<><>::uid://du55a1j6e3mrx::::res://Map/Default_Forest/trees_summer.png
-trees_summer.png::CompressedTexture2D::8626793147170040009::1737051747::1737051871::1::::<><>::
-::res://Map/Furniture/::1737051871
-Barrel.png::CompressedTexture2D::3652640047741884182::1737051747::1737051871::1::::<><>::
-Beds, Single  A.png::CompressedTexture2D::3034232561214313245::1737051747::1737051871::1::::<><>::
-Bin.png::CompressedTexture2D::3733163802670842201::1737051747::1737051871::1::::<><>::
-Cabinet.png::CompressedTexture2D::750225493813707322::1737051747::1737051871::1::::<><>::
-Cauldron.png::CompressedTexture2D::709977201670364565::1737051747::1737051871::1::::<><>::
-Chest.png::CompressedTexture2D::315052890538894616::1737051747::1737051871::1::::<><>::
-Christmas Tree.png::CompressedTexture2D::6137262253969281884::1737051747::1737051871::1::::<><>::
-Clock, Grandfather.png::CompressedTexture2D::5320142122234105941::1737051747::1737051871::1::::<><>::
-Copy Machine.png::CompressedTexture2D::5418272331576737345::1737051747::1737051871::1::::<><>::
-Countertop.png::CompressedTexture2D::7472951940979729199::1737051747::1737051871::1::::<><>::
-Crate.png::CompressedTexture2D::1263262043902299354::1737051747::1737051871::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Desk, Office.png::CompressedTexture2D::5267466861224466944::1737051747::1737051871::1::::<><>::
-Desk, Vanity.png::CompressedTexture2D::1337359168565122052::1737051747::1737051871::1::::<><>::
-Dresser.png::CompressedTexture2D::8720170514227000565::1737051747::1737051871::1::::<><>::
-End Table.png::CompressedTexture2D::1004665000988364877::1737051747::1737051871::1::::<><>::
-Fireplace, Cast Iron.png::CompressedTexture2D::595053152932262367::1737051747::1737051871::1::::<><>::
-Fireplace.png::CompressedTexture2D::5403824866550022562::1737051747::1737051871::1::::<><>::
-Fridge.png::CompressedTexture2D::4936373132159432568::1737051747::1737051871::1::::<><>::
-Ladder.png::CompressedTexture2D::8539854469656917795::1737051747::1737051871::1::::<><>::
-Lighting, Floor.png::CompressedTexture2D::3878277175156778071::1737051747::1737051871::1::::<><>::
-Lighting, Outdoors.png::CompressedTexture2D::63201182667162059::1737051747::1737051871::1::::<><>::
-Mirror, Standing.png::CompressedTexture2D::3416219579958943107::1737051747::1737051871::1::::<><>::
-Oven, Modern.png::CompressedTexture2D::221093827143305817::1737051747::1737051871::1::::<><>::
-Planter.png::CompressedTexture2D::1535512783477683319::1737051747::1737051871::1::::<><>::
-Sawhorse.png::CompressedTexture2D::8980265270257434895::1737051747::1737051871::1::::<><>::
-Shavehorse.png::CompressedTexture2D::1697964753315620269::1737051747::1737051871::1::::<><>::
-Shelf.png::CompressedTexture2D::3809106492324917312::1737051747::1737051871::1::::<><>::
-Sink, Countertop.png::CompressedTexture2D::795865907314671827::1737051747::1737051871::1::::<><>::
-Sink, Pedestal.png::CompressedTexture2D::6234389522360209138::1737051747::1737051871::1::::<><>::
-Standing Screen.png::CompressedTexture2D::8741120103108771630::1737051747::1737051871::1::::<><>::
-Stone Slab.png::CompressedTexture2D::2534587202228496713::1737051747::1737051871::1::::<><>::
-Table, Card.png::CompressedTexture2D::3645189325368832189::1737051747::1737051871::1::::<><>::
-Table, Ornate Wood.png::CompressedTexture2D::4619684117732935839::1737051747::1737051871::1::::<><>::
-Table, Rough Wood.png::CompressedTexture2D::4966995560999868197::1737051747::1737051871::1::::<><>::
-Table, Workshop.png::CompressedTexture2D::4116767792628194839::1737051747::1737051871::1::::<><>::
-Trough.png::CompressedTexture2D::818331997490923539::1737051747::1737051871::1::::<><>::
-TV, Widescreen - No Service.png::CompressedTexture2D::8771895288204906670::1737051747::1737051871::1::::<><>::
-TV, Widescreen.png::CompressedTexture2D::817747538888621853::1737051747::1737051871::1::::<><>::
-Vase-Studies.png::CompressedTexture2D::3774204026616756560::1737051747::1737051871::1::::<><>::
-Vending Machine.png::CompressedTexture2D::5906675231303866870::1737051747::1737051871::1::::<><>::
-Water Cooler.png::CompressedTexture2D::6606462151734429463::1737051747::1737051871::1::::<><>::
-Wolf Stone.png::CompressedTexture2D::8981395007720513642::1737051747::1737051871::1::::<><>::
-Workbench, Carpentry.png::CompressedTexture2D::3848511191622306009::1737051747::1737051871::1::::<><>::
-Workbench, Wire Drawing.png::CompressedTexture2D::2973209825967928356::1737051747::1737051871::1::::<><>::
-::res://Map/Furniture/Beds/::1737051871
-Beds, Child Headboards.png::CompressedTexture2D::4356743791863902868::1737051747::1737051871::1::::<><>::
-Beds, Child Mattresses.png::CompressedTexture2D::1789445168831871039::1737051747::1737051871::1::::<><>::
-Beds, Child.png::CompressedTexture2D::6757089585866900736::1737051747::1737051871::1::::<><>::
-Beds, Double B.png::CompressedTexture2D::3345905124188934174::1737051747::1737051871::1::::<><>::
-Beds, Double C - Overlays.png::CompressedTexture2D::7864925201432905134::1737051747::1737051871::1::::<><>::
-Beds, Double C.png::CompressedTexture2D::7258702289035463690::1737051747::1737051871::1::::<><>::
-Beds, Double Headboards.png::CompressedTexture2D::5539509003634355768::1737051747::1737051871::1::::<><>::
-Beds, Double Mattresses.png::CompressedTexture2D::6451716774493663882::1737051747::1737051871::1::::<><>::
-Beds, Double.png::CompressedTexture2D::6786844400380453778::1737051747::1737051871::1::::<><>::
-Beds, Single B.png::CompressedTexture2D::4594092642596173270::1737051747::1737051871::1::::<><>::
-Beds, Single C.png::CompressedTexture2D::8554954895647906381::1737051747::1737051871::1::::<><>::
-Beds, Single Headboards.png::CompressedTexture2D::7760149357334996601::1737051747::1737051871::1::::<><>::
-Beds, Single Mattresses.png::CompressedTexture2D::2550374103372258564::1737051747::1737051871::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Single Beds B.png::CompressedTexture2D::9171000317652481527::1737051747::1737051871::1::::<><>::
-::res://Map/Furniture/Rugs/::1737051871
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Diamond Rug, tiling.png::CompressedTexture2D::5376468398942519536::1737051747::1737051871::1::::<><>::
-Rainbow Checkered Rug.png::CompressedTexture2D::8763571270332788376::1737051747::1737051871::1::::<><>::
-Rainbow Rug.png::CompressedTexture2D::5582159598672245273::1737051747::1737051871::1::::<><>::
-Swirling Vine Rug.png::CompressedTexture2D::4265423912195857627::1737051747::1737051871::1::::<><>::
-::res://Map/Furniture/Seating/::1737051871
-Bar Stools.png::CompressedTexture2D::7081171951356547292::1737051747::1737051871::1::::<><>::
-Chair, Dining A.png::CompressedTexture2D::3603823784987642649::1737051747::1737051871::1::::<><>::
-Chair, Dining B.png::CompressedTexture2D::8892243553089335966::1737051747::1737051871::1::::<><>::
-Chair, Dining C.png::CompressedTexture2D::7283812345007700194::1737051747::1737051871::1::::<><>::
-Chair, Dining D.png::CompressedTexture2D::7781605157202879443::1737051747::1737051871::1::::<><>::
-Chair, Dining E.png::CompressedTexture2D::341895056691875506::1737051747::1737051871::1::::<><>::
-Chair, Dining F.png::CompressedTexture2D::1144768372193882627::1737051747::1737051871::1::::<><>::
-Chair, Office.png::CompressedTexture2D::6226187038773951567::1737051747::1737051871::1::::<><>::
-Chair, Sofa A.png::CompressedTexture2D::6498408002756717830::1737051747::1737051871::1::::<><>::
-Chair, Sofa B.png::CompressedTexture2D::5854763462078474893::1737051747::1737051871::1::::<><>::
-Chair, Sofa C.png::CompressedTexture2D::985694207655908907::1737051747::1737051871::1::::<><>::
-Chair, Sofa D.png::CompressedTexture2D::9217778015093032135::1737051747::1737051871::1::::<><>::
-Chair, Sofa E.png::CompressedTexture2D::6260670650382407967::1737051747::1737051871::1::::<><>::
-Chair, Sofa F.png::CompressedTexture2D::3526297342327226067::1737051747::1737051871::1::::<><>::
-Chair, Sofa G.png::CompressedTexture2D::7435141376196546486::1737051747::1737051871::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Loveseat, Small - Casual Patterned A.png::CompressedTexture2D::6495954245197460410::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Casual Patterned B.png::CompressedTexture2D::1678061173756191550::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Casual Patterned C.png::CompressedTexture2D::5166439953671592874::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Casual Patterned D.png::CompressedTexture2D::4657679632539890708::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Casual Solid A.png::CompressedTexture2D::5081553848994878196::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Casual Solid B.png::CompressedTexture2D::2298004130134878098::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Casual Solid C.png::CompressedTexture2D::6977258767485077222::1737051747::1737051871::1::::<><>::
-Loveseat, Small - Formal A.png::CompressedTexture2D::628083599271904831::1737051747::1737051871::1::::<><>::
-Ottoman, Long A.png::CompressedTexture2D::658544535312090758::1737051747::1737051871::1::::<><>::
-Ottoman, Medium A.png::CompressedTexture2D::2567169967058306025::1737051747::1737051871::1::::<><>::
-Ottoman, Small A.png::CompressedTexture2D::2336793219060305840::1737051747::1737051871::1::::<><>::
-Ottoman, Small B.png::CompressedTexture2D::4772564476037797511::1737051747::1737051871::1::::<><>::
-Sofa Set, Casual A.png::CompressedTexture2D::960102779937248366::1737051747::1737051871::1::::<><>::
-Sofa, Casual A.png::CompressedTexture2D::7334559350656130503::1737051747::1737051871::1::::<><>::
-Thrones.png::CompressedTexture2D::5382914717422021054::1737051747::1737051871::1::::<><>::
-::res://Map/Furniture/Sewing & Weaving/::1737051871
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Dress Form.png::CompressedTexture2D::1967257344606842434::1737051747::1737051871::1::::<><>::
-Loom.png::CompressedTexture2D::7320373119734349918::1737051747::1737051871::1::::<><>::
-Spinning Wheel.png::CompressedTexture2D::6815376000747154588::1737051747::1737051871::1::::<><>::
-Workbench, Sewing Machine.png::CompressedTexture2D::3082918309355652064::1737051747::1737051871::1::::<><>::
-Workbench, Sewing.png::CompressedTexture2D::2160102610745230337::1737051747::1737051871::1::::<><>::
-::res://Map/Furniture/Smithing/::1737051871
-Anvils.png::CompressedTexture2D::6452282090859729724::1737051747::1737051871::1::::<><>::
-Bellows.png::CompressedTexture2D::732526770067292827::1737051747::1737051871::1::::<><>::
-Coal Piles.png::CompressedTexture2D::3294002625108286103::1737051747::1737051871::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Forge A.png::CompressedTexture2D::3528276703841386678::1737051747::1737051871::1::::<><>::
-Furnace A.png::CompressedTexture2D::370689228887318600::1737051747::1737051871::1::::<><>::
-Grindstone.png::CompressedTexture2D::3350928399039219252::1737051747::1737051871::1::::<><>::
-Smelter.png::CompressedTexture2D::5379544199148547184::1737051747::1737051871::1::::<><>::
-Workbench, Smith.png::CompressedTexture2D::257641959389787914::1737051747::1737051871::1::::<><>::
-::res://Map/Structure/::1737051748
-::res://Map/Structure/Bridges/::1737051871
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Drawbridge A.png::CompressedTexture2D::1115546407712556251::1737051747::1737051871::1::::<><>::
-Rope Bridge A - No Rails.png::CompressedTexture2D::3762835221621928414::1737051747::1737051871::1::::<><>::
-Rope Bridge A - Rails.png::CompressedTexture2D::233652635430205137::1737051747::1737051871::1::::<><>::
-Wood Bridge A - No Rails.png::CompressedTexture2D::627307651187830195::1737051747::1737051871::1::::<><>::
-Wood Bridge A - Rails.png::CompressedTexture2D::997399138861012706::1737051747::1737051871::1::::<><>::
-::res://Map/Structure/Doors/::1737051747
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-::res://Map/Structure/Doors/32x48px Doors/::1737051871
-12 Panel Door A.png::CompressedTexture2D::162926325653830198::1737051747::1737051871::1::::<><>::
-12 Panel Door B.png::CompressedTexture2D::1982314815067798737::1737051747::1737051871::1::::<><>::
-Barred Prison Door A.png::CompressedTexture2D::8010994208595525820::1737051747::1737051870::1::::<><>::
-Doorframe A Shadows.png::CompressedTexture2D::8028015483166137483::1737051747::1737051870::1::::<><>::
-Doorframe A.png::CompressedTexture2D::5547358639118547963::1737051747::1737051870::1::::<><>::
-DoorFrame B Shadows.png::CompressedTexture2D::7178863135085192612::1737051747::1737051870::1::::<><>::
-Doorframe B.png::CompressedTexture2D::9131100777975304877::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Doors/32x64px Doors/::1737051870
-15 Panel Door A.png::CompressedTexture2D::9064402019909273982::1737051747::1737051870::1::::<><>::
-Doorframe A Shadows.png::CompressedTexture2D::9132252264220587105::1737051747::1737051870::1::::<><>::
-Doorframe A.png::CompressedTexture2D::4976461732080663551::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Doors/64x64px Arched Doors/::1737051870
-Arched Doorway A Shadows.png::CompressedTexture2D::6096004241602786672::1737051747::1737051870::1::::<><>::
-Arched Doorway A.png::CompressedTexture2D::8381930242524461883::1737051747::1737051870::1::::<><>::
-Arched Double Doors A.png::CompressedTexture2D::3845066252401176971::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Fences/::1737051870
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Ornamental Fence A.png::CompressedTexture2D::6887951637738015632::1737051747::1737051870::1::::<><>::
-Ornamental Fence B.png::CompressedTexture2D::6645099296100936352::1737051747::1737051870::1::::<><>::
-Plain Fence A.png::CompressedTexture2D::492887568266695981::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Floor/::1737051870
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Diamond Tile A.png::CompressedTexture2D::3269618729530325668::1737051747::1737051870::1::::<><>::
-Diamond Tile B.png::CompressedTexture2D::9184857613409526122::1737051747::1737051870::1::::<><>::
-Diamond Tile C.png::CompressedTexture2D::2426356805361750340::1737051747::1737051870::1::::<><>::
-Floral Carpet A.png::CompressedTexture2D::7120313595186719832::1737051747::1737051870::1::::<><>::
-Floral Carpet B.png::CompressedTexture2D::471954600490378034::1737051747::1737051870::1::::<><>::
-Geometric Carpet A.png::CompressedTexture2D::4131466275290869803::1737051747::1737051870::1::::<><>::
-Geometric Carpet B.png::CompressedTexture2D::6441407059093774047::1737051747::1737051870::1::::<><>::
-Geometric Carpet C.png::CompressedTexture2D::4964394833140857271::1737051747::1737051870::1::::<><>::
-Gritty Dirt.png::CompressedTexture2D::8097447964843366755::1737051747::1737051870::1::::<><>::
-Herringbone A.png::CompressedTexture2D::7396392316691891622::1737051747::1737051870::1::::<><>::
-Subfloor.png::CompressedTexture2D::1117812449566369847::1737051747::1737051870::1::::<><>::
-Tile A.png::CompressedTexture2D::1883136079719332262::1737051747::1737051870::1::::<><>::
-Tile B.png::CompressedTexture2D::8047270645358952435::1737051747::1737051870::1::::<><>::
-Tile C.png::CompressedTexture2D::7126725288012618975::1737051747::1737051870::1::::<><>::
-Wood Floor A.png::CompressedTexture2D::8345258543216021824::1737051747::1737051870::1::::<><>::
-Wood Floor B.png::CompressedTexture2D::5082452792339300622::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Misc/::1737051870
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Drain A.png::CompressedTexture2D::3440359431091713474::1737051747::1737051870::1::::<><>::
-Fountain A.png::CompressedTexture2D::393419727173931053::1737051747::1737051870::1::::<><>::
-Pool A.png::CompressedTexture2D::21297419460608590::1737051747::1737051870::1::::<><>::
-Prison A.png::CompressedTexture2D::895341883330788201::1737051747::1737051870::1::::<><>::
-Trellis A.png::CompressedTexture2D::1906443977604909412::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Pillars/::1737051870
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Floral Pillar A.png::CompressedTexture2D::438442669040767095::1737051747::1737051870::1::::<><>::
-Stone Pillar A.png::CompressedTexture2D::6046877717101065211::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Platforms/::1737051870
-Cement Platform A.png::CompressedTexture2D::3419642223555422508::1737051747::1737051870::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Dias with Steps A.png::CompressedTexture2D::7962006047394827289::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Roofing/::1737051870
-Adobe Brick Roof.png::CompressedTexture2D::8000449892434350653::1737051747::1737051870::1::::<><>::
-Adobe Stucco Roof.png::CompressedTexture2D::7244338233567284497::1737051747::1737051870::1::::<><>::
-Brick Chimney A.png::CompressedTexture2D::2940489251722689885::1737051747::1737051870::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Flat Shingle Roof A.png::CompressedTexture2D::8110111801147581318::1737051747::1737051870::1::::<><>::
-Gable Shingle Roof A.png::CompressedTexture2D::4148633445847851718::1737051747::1737051870::1::::<><>::
-Hipped Shingle Roof A.png::CompressedTexture2D::832778108529313863::1737051747::1737051870::1::::<><>::
-Roof Trim.png::CompressedTexture2D::5446519322296962655::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Signs/::1737051870
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Sign Backgrounds A.png::CompressedTexture2D::4092109908958545429::1737051747::1737051870::1::::<><>::
-Sign Icons A.png::CompressedTexture2D::8367896238995192091::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Stairs/::1737051870
-Cement Stairs A.png::CompressedTexture2D::2814972016484416533::1737051747::1737051870::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Formal Interior Stairs A.png::CompressedTexture2D::7252114995278671431::1737051747::1737051870::1::::<><>::
-Short Steps A.png::CompressedTexture2D::5584624382685185710::1737051747::1737051870::1::::<><>::
-Wood Interior Stairs A.png::CompressedTexture2D::8922079038222583959::1737051747::1737051870::1::::<><>::
-Wood Interior Stairs B.png::CompressedTexture2D::7566053805982563384::1737051747::1737051870::1::::<><>::
-Wood Interior Stairs Wall.png::CompressedTexture2D::8189148408404978273::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Structures/::1737051870
-Brick House A.png::CompressedTexture2D::1183493976223400865::1737051747::1737051870::1::::<><>::
-Brick House B.png::CompressedTexture2D::9024670536669318061::1737051747::1737051870::1::::<><>::
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Paneled House A.png::CompressedTexture2D::4020413355016279880::1737051747::1737051870::1::::<><>::
-::res://Map/Structure/Wall Borders/::1737051871
-Credits.txt::TextFile::-1::1737051747::0::1::::<><>::
-Decorative Border A.png::CompressedTexture2D::2704958289897484851::1737051747::1737051870::1::::<><>::
-Formal Crown Molding.png::CompressedTexture2D::8267019518743729816::1737051747::1737051870::1::::<><>::
-Pillar Crown Molding.png::CompressedTexture2D::1929090049254384196::1737051747::1737051870::1::::<><>::
-Plain Edged Border - A.png::CompressedTexture2D::8594512000603325574::1737051747::1737051870::1::::<><>::
-Plain Edged Border.png::CompressedTexture2D::7695128153342186937::1737051747::1737051871::1::::<><>::
-Plain Smooth Border.png::CompressedTexture2D::4780448989154483256::1737051747::1737051871::1::::<><>::
-Textured Wood Border.png::CompressedTexture2D::3093663042572407029::1737051747::1737051871::1::::<><>::
-::res://Map/Structure/Walls/::1737051871
-Adobe Brick Wall.png::CompressedTexture2D::6328769884841027717::1737051747::1737051870::1::::<><>::
-Adobe Stucco Wall.png::CompressedTexture2D::5346616007918334877::1737051747::1737051870::1::::<><>::
-Brick Wall A.png::CompressedTexture2D::4408005959169106023::1737051747::1737051870::1::::<><>::
-Brick Wall B.png::CompressedTexture2D::4429723243644739884::1737051748::1737051871::1::::<><>::
-Brick Wall Block Edging.png::CompressedTexture2D::7480724663942221992::1737051748::1737051871::1::::<><>::
-Credits.txt::TextFile::-1::1737051748::0::1::::<><>::
-CutawayOverlay.png::CompressedTexture2D::2298521270744450393::1737051748::1737051871::1::::<><>::
-Diamond Wallpaper.png::CompressedTexture2D::2645954497918824184::1737051748::1737051871::1::::<><>::
-Drywall.png::CompressedTexture2D::2246688445960971946::1737051748::1737051871::1::::<><>::
-Floral Wallpaper A.png::CompressedTexture2D::4544604022313212775::1737051748::1737051871::1::::<><>::
-Floral Wallpaper B.png::CompressedTexture2D::584600126673647310::1737051748::1737051871::1::::<><>::
-Grainy Plain Wall.png::CompressedTexture2D::1625715757894195300::1737051748::1737051871::1::::<><>::
-Half-Wall Paneling A.png::CompressedTexture2D::472915124492788124::1737051748::1737051871::1::::<><>::
-Jagged Stone Walls.png::CompressedTexture2D::3358769136432629642::1737051748::1737051871::1::::<><>::
-Molding.png::CompressedTexture2D::8429909001853395300::1737051748::1737051871::1::::<><>::
-Painted Walls.png::CompressedTexture2D::1766135263378197975::1737051748::1737051871::1::::<><>::
-Panels A.png::CompressedTexture2D::1378938301047246822::1737051748::1737051871::1::::<><>::
-Siding, Plain.png::CompressedTexture2D::4294169353620983095::1737051748::1737051871::1::::<><>::
-Striped Wallpaper A.png::CompressedTexture2D::6504882005729409476::1737051748::1737051871::1::::<><>::
-Striped Wallpaper B.png::CompressedTexture2D::865506535885037639::1737051748::1737051871::1::::<><>::
-Striped Wallpaper C.png::CompressedTexture2D::2587418991781018042::1737051748::1737051871::1::::<><>::
-::res://Map/Structure/Windows/::1737051871
-Credits.txt::TextFile::-1::1737051748::0::1::::<><>::
-Ornamental Windows A - Emission.png::CompressedTexture2D::7938040130733284784::1737051748::1737051871::1::::<><>::
-Ornamental Windows A.png::CompressedTexture2D::6645560104545775145::1737051748::1737051871::1::::<><>::
-Ornamental Windows B - Emission.png::CompressedTexture2D::3193699993627548016::1737051748::1737051871::1::::<><>::
-Ornamental Windows B.png::CompressedTexture2D::2668405878947917366::1737051748::1737051871::1::::<><>::
-Stone Windows A - Emission.png::CompressedTexture2D::2067872151699369090::1737051748::1737051870::1::::<><>::
-Stone Windows A.png::CompressedTexture2D::6141358591383127469::1737051748::1737051870::1::::<><>::
-Window Awnings A.png::CompressedTexture2D::2375996447348351789::1737051748::1737051870::1::::<><>::
-::res://Map/Terrain/::1737051870
-cliff_autumn.png::CompressedTexture2D::6493972843247634655::1737051748::1737051870::1::::<><>::
-cliff_spring.png::CompressedTexture2D::4409133655010837704::1737051748::1737051870::1::::<><>::
-cliff_summer.png::CompressedTexture2D::2569813341983286073::1737051748::1737051870::1::::<><>::
-cliff_winter.png::CompressedTexture2D::8240251179152399378::1737051748::1737051870::1::::<><>::
-cliff_winter_ice.png::CompressedTexture2D::2362386179427131281::1737051748::1737051870::1::::<><>::
-Credits.txt::TextFile::-1::1737051748::0::1::::<><>::
-flowers.png::CompressedTexture2D::1887276976942115108::1737051748::1737051870::1::::<><>::
-forest.png::CompressedTexture2D::4575853729214556341::1737051748::1737051870::1::::<><>::
-ice-shallows.png::CompressedTexture2D::4361445343053799852::1737051748::1737051870::1::::<><>::
-plants_autumn.png::CompressedTexture2D::4757975114940531645::1737051748::1737051870::1::::<><>::
-plants_spring.png::CompressedTexture2D::3389070812761952930::1737051748::1737051870::1::::<><>::
-plants_winter.png::CompressedTexture2D::5330396360064898845::1737051748::1737051870::1::::<><>::
-Rocks, Cliffs.png::CompressedTexture2D::3087365663788901738::1737051748::1737051870::1::::<><>::
-terrain_autumn.png::CompressedTexture2D::4725190343393259596::1737051748::1737051870::1::::<><>::
-terrain_summer.png::CompressedTexture2D::7443938252436564751::1737051748::1737051870::1::::<><>::
-terrain_winter.png::CompressedTexture2D::4618628085149694880::1737051748::1737051870::1::::<><>::
-terrain_winter_ice.png::CompressedTexture2D::8508881891240823768::1737051748::1737051870::1::::<><>::
-tilled_soil.png::CompressedTexture2D::7487485409667186530::1737051748::1737051870::1::::<><>::
-trees_autumn.png::CompressedTexture2D::8121869136633257703::1737051748::1737051870::1::::<><>::
-trees_spring.png::CompressedTexture2D::2854016030292389870::1737051748::1737051870::1::::<><>::
-trees_winter.png::CompressedTexture2D::8650477879717586265::1737051748::1737051870::1::::<><>::
-Waterfall.png::CompressedTexture2D::6022273475011113468::1737051748::1737051870::1::::<><>::
-wildflowers_autumn.png::CompressedTexture2D::6370941996658968749::1737051748::1737051870::1::::<><>::
-wildflowers_spring.png::CompressedTexture2D::8565424120395792318::1737051748::1737051870::1::::<><>::
-wildflowers_summer.png::CompressedTexture2D::7685039577026371681::1737051748::1737051870::1::::<><>::
-wildflowers_winter.png::CompressedTexture2D::2449854389972318781::1737051748::1737051870::1::::<><>::
-::res://Player/::1737059343
-Animation Marche JD (2).png::CompressedTexture2D::647269861086592741::1737051748::1737051870::1::::<><>::
-camera_follow.cs::CSharpScript::-1::1737051748::0::1::::<>Node2D<>::
-Character.cs::CSharpScript::-1::1737051748::0::1::::<>CharacterBody2D<>::
-player.cs::CSharpScript::-1::1737051748::0::1::::<>Node<>::
-Player.tscn::PackedScene::7575486163066455252::1737059343::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs
-player_input.cs::CSharpScript::-1::1737051748::0::1::::<>Node<>::
-::res://scenes/::1737059343
-Main.tscn::PackedScene::954294690697660031::1737059343::0::1::::<><>::uid://bkasebcaotiaw::::res://Map/Default_Forest/Default_floor.tscn<>uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn<>uid://b10jxbhfr2jrg::::res://Inven/inventory_gui.tscn
-::res://Sprites/::1737051748
+::res://::1740588662
+export_presets.cfg::TextFile::-1::1737067318::0::1::::<><>::
+README.md::TextFile::-1::1737066997::0::1::::<><>::
+::res://Inven/::1740587983
+Inventaire.png::CompressedTexture2D::5668117595035722463::1737066997::1740587983::1::::<><>::
+InventoryGui.cs::CSharpScript::-1::1740586591::0::1::::<>Control<>::
+inventory_gui.tscn::PackedScene::4263527651916096308::1740586637::0::1::::<><>::uid://cm0xclm6m4rtn::::res://Inven/Inventaire.png<>res://Inven/InventoryGui.cs<>uid://cjxkxcxl5mghf::::res://Inven/panel.tscn
+panel.tscn::PackedScene::5452670032776906091::1740586638::0::1::::<><>::uid://boekfpo0uqd3i::::res://Inven/SlotInv.png
+SlotInv.png::CompressedTexture2D::3377938915179742252::1737066997::1740587983::1::::<><>::
+::res://Map/::1740587262
+::res://Map/Default_Forest/::1740588260
+border_down.tscn::PackedScene::458038333171298535::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+border_left.tscn::PackedScene::7845185883032516894::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+border_right.tscn::PackedScene::2517966260025486470::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+border_top.tscn::PackedScene::3133388932746188438::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+Default_floor.tscn::PackedScene::3089409224751264558::1737066997::0::1::::<><>::res://Map/Default_Forest/floor_gen.cs<>uid://2rdh5m2hqg1u::::res://Map/Default_Forest/top_left.tscn<>uid://bkv3ptmoksbe1::::res://Map/Default_Forest/border_top.tscn<>uid://duo37iwhnqh8c::::res://Map/Default_Forest/top_right.tscn<>uid://dj1jchqpptnhu::::res://Map/Default_Forest/border_left.tscn<>uid://bb4ysidttbqsk::::res://Map/Default_Forest/border_right.tscn<>uid://2deduljaee5i::::res://Map/Default_Forest/down_left.tscn<>uid://gr43bbjusn1p::::res://Map/Default_Forest/border_down.tscn<>uid://dbxd53he8382c::::res://Map/Default_Forest/down_right.tscn<>uid://7mt0h6o14c3::::res://Map/Default_Forest/floor.tscn<>uid://bbwt2xaywqm4f::::res://Map/Default_Forest/floor2.tscn<>uid://d1cfe16a1p3on::::res://Map/Default_Forest/floor3.tscn<>uid://k051erupkfao::::res://Map/Default_Forest/floor4.tscn<>uid://dkpl2i5tvbl22::::res://Map/Default_Forest/foor5.tscn
+down_left.tscn::PackedScene::1901541204710767380::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+down_right.tscn::PackedScene::7277168789550571980::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor2.tscn::PackedScene::2503228886375990127::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor3.tscn::PackedScene::8988612882847124401::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor4.tscn::PackedScene::755366057940567458::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor.tscn::PackedScene::66823947452950308::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+floor_gen.cs::CSharpScript::-1::1737066997::0::1::::<>Node<>::
+foor5.tscn::PackedScene::7892832724548709653::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+Leaves.tscn::PackedScene::72712167646103519::1737066997::0::1::::<><>::uid://cvteroim5vh4t::::res://Map/Default_Forest/plants_summer.png
+Map_Default_Forest.tscn::PackedScene::1018901268466324053::1740588260::0::1::::<><>::res://Map/Default_Forest/map_gen.cs<>uid://drh14qbj2wwxt::::res://Map/Default_Forest/Tree.tscn<>uid://dmlndbsbme0q4::::res://Map/Default_Forest/Rock.tscn<>uid://bbhs87g3a2wh::::res://Map/Default_Forest/Leaves.tscn<>uid://cdmsj5n0mn48f::::res://Map/Default_Forest/mushroom.tscn
+map_gen.cs::CSharpScript::-1::1737066997::0::1::::<>Node2D<>::
+mushroom.tscn::PackedScene::5009291006299385955::1737066997::0::1::::<><>::uid://c0wgvjco7xt2w::::res://Map/Default_Forest/mushrooms.png
+mushrooms.png::CompressedTexture2D::6573381049034474096::1737066997::1740587983::1::::<><>::
+plants_summer.png::CompressedTexture2D::6286304235850954001::1737066997::1740587983::1::::<><>::
+Rock.tscn::PackedScene::8025031088709515809::1740588260::0::1::::<><>::uid://2ik53421aafr::::res://Map/Default_Forest/Rocks, Grasslands.png
+Rocks, Grasslands.png::CompressedTexture2D::1912276060718797563::1737066997::1740587983::1::::<><>::
+terrain_spring.png::CompressedTexture2D::2475586364071792254::1737066997::1740587983::1::::<><>::
+top_left.tscn::PackedScene::1930389447056429040::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+top_right.tscn::PackedScene::8593697888107762096::1737066997::0::1::::<><>::uid://bbjgss4ky47eo::::res://Map/Default_Forest/terrain_spring.png
+Tree.tscn::PackedScene::8368554309403739705::1737066997::0::1::::<><>::uid://du55a1j6e3mrx::::res://Map/Default_Forest/trees_summer.png
+trees_summer.png::CompressedTexture2D::8626793147170040009::1737066997::1740587983::1::::<><>::
+::res://Map/Terrain/::1740587983
+cliff_autumn.png::CompressedTexture2D::6493972843247634655::1737066997::1740587983::1::::<><>::
+cliff_spring.png::CompressedTexture2D::4409133655010837704::1737066997::1740587983::1::::<><>::
+cliff_summer.png::CompressedTexture2D::2569813341983286073::1737066997::1740587983::1::::<><>::
+cliff_winter.png::CompressedTexture2D::8240251179152399378::1737066997::1740587983::1::::<><>::
+cliff_winter_ice.png::CompressedTexture2D::2362386179427131281::1737066997::1740587983::1::::<><>::
+Credits.txt::TextFile::-1::1737066997::0::1::::<><>::
+flowers.png::CompressedTexture2D::1887276976942115108::1737066997::1740587983::1::::<><>::
+forest.png::CompressedTexture2D::4575853729214556341::1737066997::1740587983::1::::<><>::
+ice-shallows.png::CompressedTexture2D::4361445343053799852::1737066997::1740587983::1::::<><>::
+plants_autumn.png::CompressedTexture2D::4757975114940531645::1737066997::1740587983::1::::<><>::
+plants_spring.png::CompressedTexture2D::3389070812761952930::1737066997::1740587983::1::::<><>::
+plants_winter.png::CompressedTexture2D::5330396360064898845::1737066997::1740587983::1::::<><>::
+Rocks, Cliffs.png::CompressedTexture2D::3087365663788901738::1737066997::1740587982::1::::<><>::
+terrain_autumn.png::CompressedTexture2D::4725190343393259596::1737066997::1740587983::1::::<><>::
+terrain_summer.png::CompressedTexture2D::7443938252436564751::1737066997::1740587983::1::::<><>::
+terrain_winter.png::CompressedTexture2D::4618628085149694880::1737066997::1740587983::1::::<><>::
+terrain_winter_ice.png::CompressedTexture2D::8508881891240823768::1737066997::1740587982::1::::<><>::
+tilled_soil.png::CompressedTexture2D::7487485409667186530::1737066997::1740587982::1::::<><>::
+trees_autumn.png::CompressedTexture2D::8121869136633257703::1737066997::1740587982::1::::<><>::
+trees_spring.png::CompressedTexture2D::2854016030292389870::1737066997::1740587982::1::::<><>::
+trees_winter.png::CompressedTexture2D::8650477879717586265::1737066997::1740587982::1::::<><>::
+Waterfall.png::CompressedTexture2D::6022273475011113468::1737066997::1740587982::1::::<><>::
+wildflowers_autumn.png::CompressedTexture2D::6370941996658968749::1737066997::1740587982::1::::<><>::
+wildflowers_spring.png::CompressedTexture2D::8565424120395792318::1737066997::1740587982::1::::<><>::
+wildflowers_summer.png::CompressedTexture2D::7685039577026371681::1737066997::1740587982::1::::<><>::
+wildflowers_winter.png::CompressedTexture2D::2449854389972318781::1737066997::1740587982::1::::<><>::
+::res://Player/::1740587982
+Animation Marche JD (2).png::CompressedTexture2D::647269861086592741::1737066997::1740587982::1::::<><>::
+camera_follow.cs::CSharpScript::-1::1737066997::0::1::::<>Node2D<>::
+Character.cs::CSharpScript::-1::1737067121::0::1::::<>CharacterBody2D<>::
+player.cs::CSharpScript::-1::1737066997::0::1::::<>Node<>::
+Player.tscn::PackedScene::7575486163066455252::1737066997::0::1::::<><>::res://Player/player.cs<>res://Player/player_input.cs<>res://Player/Character.cs<>uid://jhso7xrxoun2::::res://Player/Animation Marche JD (2).png<>res://Player/camera_follow.cs
+player_input.cs::CSharpScript::-1::1737066997::0::1::::<>Node<>::
+::res://scenes/::1740588260
+Main.tscn::PackedScene::954294690697660031::1740588260::0::1::::<><>::uid://bkasebcaotiaw::::res://Map/Default_Forest/Default_floor.tscn<>uid://df6vfd06dvulw::::res://Player/Player.tscn<>uid://ortfjhh5vsv2::::res://Map/Default_Forest/Map_Default_Forest.tscn<>uid://b10jxbhfr2jrg::::res://Inven/inventory_gui.tscn

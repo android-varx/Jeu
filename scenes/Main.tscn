@@ -14,16 +14,15 @@
 [node name="MapDefaultForest" parent="." instance=ExtResource("2_5nt2y")]
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
+follow_viewport_scale = 202.794
 
 [node name="InventoryGui" parent="CanvasLayer" instance=ExtResource("4_15grp")]
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -226.0
-offset_top = -174.0
-offset_right = 4774.0
-offset_bottom = 4826.0
-grow_horizontal = 2
-grow_vertical = 2
+anchors_preset = 0
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_left = 5.0
+offset_top = 5.0
+offset_right = 555.0
+offset_bottom = 305.0

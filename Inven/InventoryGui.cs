@@ -11,14 +11,12 @@ public partial class InventoryGui : Control
 	{
 		_isOpen = true;
 		Visible = true;
-		GD.Print("Inventory opened.");
 	}
 
 	public void Close()
 	{
 		_isOpen = false;
 		Visible = false;
-		GD.Print("Inventory closed.");
 	}
 
 	
