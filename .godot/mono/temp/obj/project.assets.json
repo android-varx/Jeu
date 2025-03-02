@@ -88,20 +88,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/andrei/.nuget/packages/": {}
+    "C:\\Users\\julie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj",
+      "projectUniqueName": "C:\\Users\\julie\\Eternal Forest\\Jeu\\Eternal Forest.csproj",
       "projectName": "Eternal Forest",
-      "projectPath": "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj",
-      "packagesPath": "/Users/andrei/.nuget/packages/",
-      "outputPath": "/Users/andrei/Desktop/Jeu/.godot/mono/temp/obj/",
+      "projectPath": "C:\\Users\\julie\\Eternal Forest\\Jeu\\Eternal Forest.csproj",
+      "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julie\\Eternal Forest\\Jeu\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "/Users/andrei/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -157,11 +156,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[6.0.35, 6.0.35]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[6.0.35, 6.0.35]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.35, 6.0.35]"
           }
         ],
         "frameworkReferences": {
@@ -169,8 +172,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/andrei/.dotnet/sdk/8.0.406/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package : The SSL connection could not be established, see inner exception."
+    }
+  ]
 }

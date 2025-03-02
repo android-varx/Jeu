@@ -1,14 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "6+Q3oBMAJeY=",
+  "dgSpecHash": "pBRHs7r6vyw=",
   "success": true,
-  "projectFilePath": "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj",
+  "projectFilePath": "C:\\Users\\julie\\Eternal Forest\\Jeu\\Eternal Forest.csproj",
   "expectedPackageFiles": [
-    "/Users/andrei/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
-    "/Users/andrei/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
-    "/Users/andrei/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
-    "/Users/andrei/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/andrei/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\julie\\.nuget\\packages\\godot.sourcegenerators\\4.3.0\\godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\godotsharp\\4.3.0\\godotsharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\godotsharpeditor\\4.3.0\\godotsharpeditor.4.3.0.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package : The SSL connection could not be established, see inner exception."
+    }
+  ]
 }
