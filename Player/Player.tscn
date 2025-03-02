@@ -120,7 +120,7 @@ animations = [{
 "speed": 9.0
 }]
 
-[node name="Player" type="Node2D" node_paths=PackedStringArray("_input", "_character")]
+[node name="Player" type="CharacterBody2D" node_paths=PackedStringArray("_input", "_character")]
 script = ExtResource("1_e207t")
 _input = NodePath("Input")
 _character = NodePath("Character")

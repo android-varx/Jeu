@@ -20,8 +20,8 @@ public partial class floor_gen : Node
 	private int mapWidth = 9984;  // On definit la largeur 
 	private int mapHeight = 9984; // on definit la hauteur 
 	private int tilesize = 32;
-	
-	public override void _Ready()
+    
+	public void GenerateNewFloor()
 	{
 		GenerateFloor();
 	}
