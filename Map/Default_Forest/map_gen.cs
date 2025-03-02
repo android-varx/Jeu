@@ -8,7 +8,9 @@ public partial class map_gen : Node2D
     [Export] private PackedScene rockScene; // On exporte la varibale pour la scene rochers
     [Export] private PackedScene treeScene; //On exporte la varibale pour la scene arbres
     [Export] private PackedScene mushroomScene; // On exporte la varibale pour la scene champignons
-    [Export] private PackedScene EnemyScene; // Scène de l'ennemi
+    [Export] private PackedScene Orc1; // Scène de l'ennemi
+    [Export] private PackedScene Orc2; // Scène de l'ennemi
+    [Export] private PackedScene Orc3; // Scène de l'ennemi
 
     private int mapWidth = 9984;  // On definit la largeur 
     private int mapHeight = 9984; // on definit la hauteur 
@@ -24,13 +26,13 @@ public partial class map_gen : Node2D
         GenerateMap();
     }
     
-    private void GenerateEnemies()
+    private void GenerateEnemies(PackedScene ennemy)
     {
         Random random = new Random();
 
-        for (int i = 0; i < 50; i++) // Génère 50 ennemis
+        for (int i = 0; i < 20; i++)
         {
-            Node2D enemyInstance = (Node2D)EnemyScene.Instantiate();
+            Node2D enemyInstance = (Node2D)ennemy.Instantiate();
             Vector2 position = new Vector2(random.Next(0, mapWidth), random.Next(0, mapHeight));
             enemyInstance.Position = position;
             AddChild(enemyInstance);
@@ -39,7 +41,9 @@ public partial class map_gen : Node2D
 
     private void GenerateMap()
     {
-        GenerateEnemies();
+        GenerateEnemies(Orc1);
+        GenerateEnemies(Orc2);
+        GenerateEnemies(Orc3);
         GenerateObjects(mushroomScene, mushroomMin, mushroomMax);
         GenerateObjects(leavesScene, leavesMin, leavesMax);
         GenerateObjects(rockScene, rockMin, rockMax);

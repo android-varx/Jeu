@@ -99,7 +99,6 @@
       "packagesPath": "/Users/andrei/.nuget/packages/",
       "outputPath": "/Users/andrei/Desktop/Jeu/.godot/mono/temp/obj/",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/andrei/.nuget/NuGet/NuGet.Config"
       ],
@@ -119,11 +118,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -157,11 +151,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[6.0.31, 6.0.31]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[6.0.31, 6.0.31]"
           }
         ],
         "frameworkReferences": {
@@ -169,7 +163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/andrei/.dotnet/sdk/8.0.406/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
       }
     }
   }

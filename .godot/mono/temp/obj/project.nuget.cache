@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6+Q3oBMAJeY=",
+  "dgSpecHash": "KQCsaixDqyvK97lOv5B4tJ4/rNqS68c+ZjPKapTDesOk99kMAygu/v4KbCVDRJ/XMzv7miNhgF1FCX/NzfqAgQ==",
   "success": true,
   "projectFilePath": "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj",
   "expectedPackageFiles": [
     "/Users/andrei/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
     "/Users/andrei/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
     "/Users/andrei/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
-    "/Users/andrei/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/andrei/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/andrei/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/andrei/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
