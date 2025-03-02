@@ -2,28 +2,27 @@ using Godot;
 
 public partial class Orc : CharacterBody2D
 {
-    [Export] private int _speed = 100; // Vitesse de déplacement de l'ennemi
-    [Export] private AnimatedSprite2D _sprite; // Référence à l'AnimatedSprite2D
-    [Export] private int _attackRange = 66; // Distance à laquelle l'ennemi attaque
-    [Export] private int _minDistance = 65; // Distance minimale entre l'orc et le joueur
-    [Export] private int _detectionRange = 650; // Distance de détection du joueur
-    [Export] private int _patrolDistance = 100; // Distance à parcourir en patrouille
+    [Export] private int _speed = 100; // Vitesse de l'ennemi
+    [Export] private AnimatedSprite2D _sprite; // recuperation de la sprite annimée
+    [Export] private int _attackRange = 66; // distance d'attaque
+    [Export] private int _minDistance = 65; // distance de rapprochement de l'orc 
+    [Export] private int _detectionRange = 650; // distance de détection
+    [Export] private int _patrolDistance = 100; // distance de patrouille
 
-    private Vector2 _movementInput = Vector2.Zero; // Direction de mouvement
-    private string _lastDirection = "right"; // Dernière direction pour l'animation
-    private player _target; // Référence au joueur
-    private bool _isAttacking = false; // Indique si l'orc est en train d'attaquer
-    private Timer _attackCooldownTimer; // Timer pour gérer le délai entre les attaques
-    private float _currentPatrolDistance = 0.0f; // Distance parcourue en patrouille
-    private bool _isPatrolling = false; // Indique si l'ennemi est en train de patrouiller
-    private Vector2 _patrolDirection = Vector2.Right; // Direction de patrouille actuelle
+    private Vector2 _movementInput = Vector2.Zero;
+    private string _lastDirection = "right"; // varibale pour stocker la dérniere direction ou l'ennemi regardait 
+    private player _target; // le joueur que l'orc va attaquer
+    private bool _isAttacking = false; // varible pour indiquer si l'orc attaque ou pas 
+    private Timer _attackCooldownTimer; // temps pour gerer le temps d'attaque
+    private float _currentPatrolDistance = 0.0f; // distance de patrouille
+    private bool _isPatrolling = false; // variable pour indiquer si l'ennemi est entrain de patrouiller
+    private Vector2 _patrolDirection = Vector2.Right;
 
     public override void _Ready()
     {
-        // Trouve le joueur dans la scène
-        _target = GetNodeOrNull<player>("/root/GameSolo/Player"); // Remplace par le chemin correct
-
-        // Initialise le Timer
+        _target = GetNodeOrNull<player>("/root/GameSolo/Player");// permet de trouver le Player dans la scène
+        
+        //Timer
         _attackCooldownTimer = new Timer();
         AddChild(_attackCooldownTimer);
         _attackCooldownTimer.WaitTime = 1.0; // Délai de 1 seconde entre les attaques
@@ -34,40 +33,39 @@ public partial class Orc : CharacterBody2D
     public override void _PhysicsProcess(double delta)
     {
         if (_target == null || _isAttacking) return;
+        
+        Vector2 targetPosition = _target.BodyPosition;// recuperation de la position du joueur a chque frame
 
-        // Récupère la position du joueur en temps réel
-        Vector2 targetPosition = _target.BodyPosition;
-
-        // Calcule la distance horizontale et verticale entre l'ennemi et le joueur
+        // calcul pour la distance verticale et horizontale entre le joueur et l'ennemi
         float distanceX = Mathf.Abs(targetPosition.X - GlobalPosition.X);
         float distanceY = Mathf.Abs(targetPosition.Y - GlobalPosition.Y);
 
-        // Si le joueur est à plus de 400 pixels dans une direction, patrouiller
+        // si le joueur n'est pas dans le zone alors on lance la fonction pour patrouiller
         if (distanceX > _detectionRange || distanceY > _detectionRange)
         {
             Patrol(delta);
             return;
         }
 
-        // Calcule la direction vers le joueur
+        // calcul de la direction vers le joueur
         Vector2 direction = (targetPosition - GlobalPosition).Normalized();
         float distanceToTarget = GlobalPosition.DistanceTo(targetPosition);
 
-        // Se déplacer vers le joueur, mais s'arrêter à une certaine distance
+        // se deplacer vers le joueur mais si trop proche alors on s'arrete
         if (distanceToTarget > _minDistance)
         {
             _movementInput = direction;
         }
         else
         {
-            _movementInput = Vector2.Zero; // Arrêter de bouger si trop proche
+            _movementInput = Vector2.Zero; // on s'arrete si trop proche
         }
 
-        // Appliquer le mouvement
+        // mouvement
         Velocity = _movementInput * _speed;
         MoveAndSlide();
 
-        // Gérer les animations de déplacement
+        //cette partie gére les animations de mouvement
         if (direction.X > 0)
         {
             _lastDirection = "right";
@@ -80,28 +78,27 @@ public partial class Orc : CharacterBody2D
         }
         else
         {
-            // Si l'ennemi ne bouge pas, utiliser la première image de l'animation
+            // si il ne bouge pas il reste sur la premiere frame 
             _sprite.Stop();
-            _sprite.Frame = 0; // Afficher la première image de l'animation
+            _sprite.Frame = 0; // premiere frame
         }
 
-        // Si le joueur est à portée d'attaque, attaquer
+        // si le joueur entre dans la zone d'attaque alors l'orc l'attaque
         if (distanceToTarget <= _attackRange && !_isAttacking)
         {
             Attack();
         }
     }
 
-    private void Patrol(double delta)
+    private void Patrol(double delta) // cette fonction est la fonction de patrouille de l'orc
     {
-        // Appliquer le mouvement de patrouille
         Velocity = _patrolDirection * _speed;
         MoveAndSlide();
 
-        // Mettre à jour la distance parcourue en patrouille
+        // met a jour la distance parcourue en patrouille
         _currentPatrolDistance += _speed * (float)delta;
 
-        // Gérer les animations de patrouille
+        // cette partie permet de gerer les annimations lors de la patrouille de l'orc
         if (_patrolDirection.X > 0)
         {
             _sprite.Play("walk_right");
@@ -111,19 +108,19 @@ public partial class Orc : CharacterBody2D
             _sprite.Play("walk_left");
         }
 
-        // Si la distance de patrouille est atteinte, inverser la direction et réinitialiser
+        // si on atteint la distance de patrouille maximale alors on inverse le sens de la patrouille
         if (_currentPatrolDistance >= _patrolDistance)
         {
-            _currentPatrolDistance = 0; // Réinitialiser la distance parcourue
-            _patrolDirection = -_patrolDirection; // Inverser la direction de patrouille
+            _currentPatrolDistance = 0; // on reinitialise la varibale
+            _patrolDirection = -_patrolDirection; // on inverse la direction
         }
     }
 
     private void Attack()
     {
-        _isAttacking = true; // Définir l'état d'attaque
+        _isAttacking = true; // varibale a true pour dire que il attaque 
 
-        // Jouer l'animation d'attaque en fonction de la dernière direction
+        // animations d'attaque en fonction du dernier endroit ou il regardait 
         if (_lastDirection == "right")
         {
             _sprite.Play("attack_right");
@@ -133,12 +130,12 @@ public partial class Orc : CharacterBody2D
             _sprite.Play("attack_left");
         }
 
-        // Démarrer le Timer pour le délai entre les attaques
+        // lance le timer pour attaquer
         _attackCooldownTimer.Start();
     }
 
     private void OnAttackCooldownTimeout()
     {
-        _isAttacking = false; // Réinitialiser l'état d'attaque
+        _isAttacking = false; // on remet l'état d'attauqe a false pour dire que on attaque plus 
     }
 }

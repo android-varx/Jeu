@@ -2,21 +2,21 @@ using Godot;
 
 public partial class camera_follow : Node2D
 {
-	[Export] public Node2D _objectToFollow = null; // L'objet que la caméra doit suivre, assignable dans l'éditeur 
+	[Export] public Node2D _objectToFollow = null; // l'objet que la camera doit suivre
 
 	public override void _Ready()
 	{
-		// Positionne la caméra sur le joueur dès le début
+		// position de la camera surle joeuru au lancement 
 		if (_objectToFollow != null)
 		{
 			Position = _objectToFollow.Position;
 		}
 	}
-	public override void _Process(double delta) // Méthode appelée à chaque frame
+	public override void _Process(double delta)
 	{
 		if (_objectToFollow != null)
 		{
-			Position = _objectToFollow.Position.Round(); // Met à jour la position de la caméra en fonction de l'objet choisit 
+			Position = _objectToFollow.Position.Round(); // mise anjour de la position de la camera sur l'objet a suivre 
 		}
 	}
 }
