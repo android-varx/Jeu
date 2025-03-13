@@ -1,3 +1,7 @@
+TextureRect
+Sprite2D
+Panel
+HBoxContainer
 MultiplayerSynchronizer
 MultiplayerSpawner
 CharacterBody2D

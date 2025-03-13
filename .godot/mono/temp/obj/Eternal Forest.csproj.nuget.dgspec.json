@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj": {}
+    "C:\\Users\\julie\\Forest\\Jeu\\Eternal Forest.csproj": {}
   },
   "projects": {
-    "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj": {
+    "C:\\Users\\julie\\Forest\\Jeu\\Eternal Forest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj",
+        "projectUniqueName": "C:\\Users\\julie\\Forest\\Jeu\\Eternal Forest.csproj",
         "projectName": "Eternal Forest",
-        "projectPath": "/Users/andrei/Desktop/Jeu/Eternal Forest.csproj",
-        "packagesPath": "/Users/andrei/.nuget/packages/",
-        "outputPath": "/Users/andrei/Desktop/Jeu/.godot/mono/temp/obj/",
+        "projectPath": "C:\\Users\\julie\\Forest\\Jeu\\Eternal Forest.csproj",
+        "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julie\\Forest\\Jeu\\.godot\\mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/Users/andrei/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -76,6 +75,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -83,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/andrei/.dotnet/sdk/8.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

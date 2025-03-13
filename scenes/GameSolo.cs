@@ -15,4 +15,5 @@ public partial class GameSolo : Node2D
 			_floorGen.GenerateNewFloor();
 		}
 	}
+	
 }
