@@ -3,6 +3,7 @@ using EternalForest.Game;
 
 public partial class HebergeMenu : Control
 {
+    
     public override void _Ready()
     {
         Button continuerButton = GetNode<Button>("VBoxContainer/Continuer");
@@ -16,7 +17,8 @@ public partial class HebergeMenu : Control
     
     private async void OnNouveauPressed()
     {
-        GD.Print("Pas encore");
+        GameMultiplayer.IsServer = true;
+        GetTree().ChangeSceneToFile("res://scenes/GameMultiplayer.tscn");
     }
     
     private void OnContinuerPressed()

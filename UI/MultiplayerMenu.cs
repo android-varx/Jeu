@@ -19,9 +19,10 @@ public partial class MultiplayerMenu : Control
         GetTree().ChangeSceneToFile("res://UI/HebergeMenu.tscn"); // charge le menu pour hébérger
     }
 
-    private async void OnRejoindrePressed()
+    private void OnRejoindrePressed()
     {
-        GD.Print("Pas encore");
+        GameMultiplayer.IsServer = false;
+        GetTree().ChangeSceneToFile("res://scenes/GameMultiplayer.tscn"); // charge la scene multiplayer
     }
     
     private void OnRetourPressed()

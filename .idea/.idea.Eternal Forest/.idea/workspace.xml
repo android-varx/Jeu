@@ -5,21 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c0a55e9-a214-4384-bb51-dd9e277fc765" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Game/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/HebergeMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/MultiplayerMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/SingleplayerMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player/CameraFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/GameMultiplayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-editstate-7342474fa64599a275871da88d8a026c.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-editstate-7342474fa64599a275871da88d8a026c.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Orc3.tscn-editstate-98785793c399a548e69e7dda13d667ad.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Orc3.tscn-editstate-98785793c399a548e69e7dda13d667ad.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Player.tscn-editstate-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Player.tscn-editstate-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Player.tscn-folding-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Player.tscn-folding-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/create_recent.Node" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/create_recent.Node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/create_recent.Object" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/create_recent.Object" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_cache8" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_cache8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/main_menu.tscn-editstate-2138ba4767b07f21f5de407b42dc4973.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/main_menu.tscn-editstate-2138ba4767b07f21f5de407b42dc4973.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/metadata/ide_messaging_meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/metadata/ide_messaging_meta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal .4F69688B.Up2Date" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/ref/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/ref/Eternal Forest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/refint/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/refint/Eternal Forest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Map/Default_Forest/floor_gen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Default_Forest/floor_gen.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Map/Default_Forest/map_gen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Default_Forest/map_gen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/uid_cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/uid_cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eternal Forest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Eternal Forest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eternal Forest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Eternal Forest.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Terrain/forest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Orc1/Orc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Orc1/Orc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/Character.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Player/Player.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.tscn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Player/camera_follow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player/camera_follow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Player/player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player/player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenes/Main.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/camera_follow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/player_input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/HebergeMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI/HebergeMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/MultiplayerMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI/MultiplayerMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/GameSolo.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/GameSolo.tscn" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +93,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,7 +109,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Editor" type="RunExe" factoryName=".NET Executable">
-      <option name="EXE_PATH" value="/private/var/folders/m4/yrr518nd5x348n193kbn5_b00000gn/T/AppTranslocation/02B0272F-950E-4A1C-B93E-1787DD45D032/d/Godot_mono.app/Contents/MacOS/Godot" />
+      <option name="EXE_PATH" value="/private/var/folders/m4/yrr518nd5x348n193kbn5_b00000gn/T/AppTranslocation/99F8D8A9-65D9-44A2-AF4B-90C09E1EA0AC/d/Godot_mono.app/Contents/MacOS/Godot" />
       <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot; --editor" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -85,7 +122,7 @@
       </method>
     </configuration>
     <configuration name="Player" type="RunExe" factoryName=".NET Executable">
-      <option name="EXE_PATH" value="/private/var/folders/m4/yrr518nd5x348n193kbn5_b00000gn/T/AppTranslocation/02B0272F-950E-4A1C-B93E-1787DD45D032/d/Godot_mono.app/Contents/MacOS/Godot" />
+      <option name="EXE_PATH" value="/private/var/folders/m4/yrr518nd5x348n193kbn5_b00000gn/T/AppTranslocation/99F8D8A9-65D9-44A2-AF4B-90C09E1EA0AC/d/Godot_mono.app/Contents/MacOS/Godot" />
       <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot;" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -119,6 +156,10 @@
       <workItem from="1740862212381" duration="865000" />
       <workItem from="1740867591755" duration="13738000" />
       <workItem from="1740881396646" duration="4000" />
+      <workItem from="1741807123049" duration="6207000" />
+      <workItem from="1741818774082" duration="8117000" />
+      <workItem from="1741829611437" duration="5659000" />
+      <workItem from="1741885434806" duration="5278000" />
     </task>
     <servers />
   </component>

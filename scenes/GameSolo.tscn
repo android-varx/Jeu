@@ -14,6 +14,7 @@ _floorGen = NodePath("DefaultFloor")
 [node name="DefaultFloor" parent="." instance=ExtResource("1_w4koo")]
 
 [node name="Player" parent="." instance=ExtResource("2_su7ta")]
+PlayerName = null
 
 [node name="MapDefaultForest" parent="." instance=ExtResource("3_8gai8")]
 
