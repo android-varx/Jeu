@@ -1,6 +1,9 @@
+CanvasLayer
+Label
+Panel
+Control
 TextureRect
 Sprite2D
-Panel
 HBoxContainer
 MultiplayerSynchronizer
 MultiplayerSpawner
