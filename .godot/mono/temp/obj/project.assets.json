@@ -88,32 +88,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anhkh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\julie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anhkh\\Jeu\\Eternal Forest.csproj",
+      "projectUniqueName": "C:\\Users\\julie\\Eternal Forest\\Jeu\\Eternal Forest.csproj",
       "projectName": "Eternal Forest",
-      "projectPath": "C:\\Users\\anhkh\\Jeu\\Eternal Forest.csproj",
-      "packagesPath": "C:\\Users\\anhkh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anhkh\\Jeu\\.godot\\mono\\temp\\obj\\",
+      "projectPath": "C:\\Users\\julie\\Eternal Forest\\Jeu\\Eternal Forest.csproj",
+      "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julie\\Eternal Forest\\Jeu\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\anhkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -161,12 +153,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
