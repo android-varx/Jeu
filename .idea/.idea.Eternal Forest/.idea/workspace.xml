@@ -5,52 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c0a55e9-a214-4384-bb51-dd9e277fc765" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inven/InventoryHotbar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/AudioMenu.tscn-editstate-6ab0848a425a38e2cf6eb8527a78c793.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/AudioMenu.tscn-editstate-6ab0848a425a38e2cf6eb8527a78c793.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-editstate-7342474fa64599a275871da88d8a026c.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-editstate-7342474fa64599a275871da88d8a026c.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/HebergeMenu.tscn-editstate-67d71f3b9c1414b60107c0df927834fd.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/HebergeMenu.tscn-editstate-67d71f3b9c1414b60107c0df927834fd.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/NotificationControl.tscn-editstate-02159c01c63d3879e266052be481b084.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/NotificationControl.tscn-editstate-02159c01c63d3879e266052be481b084.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/NotificationSystem.tscn-editstate-182379d52f098a50cf22f7894c480a60.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/NotificationSystem.tscn-editstate-182379d52f098a50cf22f7894c480a60.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/Player.tscn-editstate-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Player.tscn-editstate-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_cache8" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_cache8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_update4" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_update4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/heart.tscn-editstate-7190fea496f24c1a7cf54d090b79bfdc.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/heart.tscn-editstate-7190fea496f24c1a7cf54d090b79bfdc.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/inventory_gui.tscn-editstate-b521b3fc1ddaf37fd1202b5b565a2137.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/inventory_gui.tscn-editstate-b521b3fc1ddaf37fd1202b5b565a2137.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/item.tscn-editstate-6bba89e8da4c3a590196b8fe87377d63.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/item.tscn-editstate-6bba89e8da4c3a590196b8fe87377d63.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/panel.tscn-editstate-1c05414a7f2c0ce5d9f6a3f64c776195.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/panel.tscn-editstate-1c05414a7f2c0ce5d9f6a3f64c776195.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/script_editor_cache.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/script_editor_cache.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/editor/sword_2.tscn-editstate-c34012d9dc4c31ddfaf1af28a820eb24.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/sword_2.tscn-editstate-c34012d9dc4c31ddfaf1af28a820eb24.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/metadata/ide_messaging_meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/metadata/ide_messaging_meta.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/ref/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/ref/Eternal Forest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/refint/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/refint/Eternal Forest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Eternal Forest.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Eternal Forest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Eternal Forest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inven/InventoryGui.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Inven/InventoryGui.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inven/InventoryHotbar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Inven/InventoryHotbar.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inven/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Inven/Item.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inven/Slot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inven/Sword2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenes/GameSolo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/GameSolo.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +128,7 @@
       <workItem from="1747137764510" duration="918000" />
       <workItem from="1747138866916" duration="27000" />
       <workItem from="1747138908609" duration="82000" />
-      <workItem from="1747139002590" duration="366000" />
+      <workItem from="1747139002590" duration="1499000" />
     </task>
     <servers />
   </component>

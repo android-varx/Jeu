@@ -12,12 +12,12 @@ public partial class InventoryGui : Control
 	private List<Item> _items;
 	private Item _draggedItem;
 	
-	// Variables for hotbar integration
+	// Variables pour la hotbar
 	private List<Item> _hotbarItems = new List<Item>(9);
 	private int _selectedHotbarSlot = 0;
 	public int SelectedHotbarSlot => _selectedHotbarSlot;
 	
-	// Dragged item visual elements
+	// Pour bouger les elts
 	private Control _draggedItemVisual;
 	private Sprite2D _draggedItemSprite;
 	private Label _draggedItemLabel;
@@ -33,10 +33,10 @@ public partial class InventoryGui : Control
 		_gridContainer = GetNode<GridContainer>("NinePatchRect/GridContainer");
 		_items = new List<Item>();
 		
-		// Initialize hotbar items
+		// Initialiser la hotbar
 		for (int i = 0; i < 9; i++) _hotbarItems.Add(null);
 		
-		// Set up dragged item visual
+		// Pour bouger les items le visuel
 		_draggedItemVisual = new Control { Visible = false, MouseFilter = Control.MouseFilterEnum.Ignore };
 		AddChild(_draggedItemVisual);
 		
@@ -50,6 +50,10 @@ public partial class InventoryGui : Control
 		_draggedItemLabel.AddThemeConstantOverride("shadow_offset_y", 1);
 		_draggedItemVisual.AddChild(_draggedItemLabel);
 		
+		//////////////////////////////////////////////////////////////////////////
+		/// /////////////////////////////////////////////////////////////////////
+		///
+		/// On ajoute les items ici
 		AddItem(new Item("Sword", ResourceLoader.Load<Texture2D>("res://Inven/SwordFer.png"), 2, 5));
 		AddItem(new Item("Sword", ResourceLoader.Load<Texture2D>("res://Inven/SwordFer.png"), 3, 5));
 		AddItem(new Item("Sword", ResourceLoader.Load<Texture2D>("res://Inven/SwordFer.png"), 1, 5));
@@ -67,11 +71,11 @@ public partial class InventoryGui : Control
 			if (_isOpen) Close(); else Open();
 		}
 		
-		// Handle hotbar selection (1-9 keys)
+		// Choisir ou aller sur la hotbar touche 1 à 9
 		if (@event is InputEventKey key && key.Pressed && key.Keycode >= Key.Key1 && key.Keycode <= Key.Key9)
 			SelectHotbarSlot((int)key.Keycode - (int)Key.Key1);
 		
-		// Handle scroll wheel for hotbar
+		// Pour passer sur la HB
 		if (@event is InputEventMouseButton scroll && scroll.Pressed)
 		{
 			if (scroll.ButtonIndex == MouseButton.WheelUp) SelectHotbarSlot(_selectedHotbarSlot == 0 ? 8 : _selectedHotbarSlot - 1);
@@ -89,11 +93,11 @@ public partial class InventoryGui : Control
 	{
 		if (item == null) return false;
 		
-		// Try to stack with existing items first
+		// Stacke les elts existants
 		for (int i = 0; i < _items.Count; i++)
 			if (_items[i].CanStackWith(item) && _items[i].TryStackWith(item)) return true;
 		
-		// Add as new item if stacking fails
+		// Ajoute les nv elts si on y arrive
 		if (item.Quantity > 0 && _items.Count < _maxSlots)
 		{
 			_items.Add(item);
@@ -102,7 +106,7 @@ public partial class InventoryGui : Control
 		return false;
 	}
 	
-	// Hotbar-specific methods
+	
 	public Item GetHotbarItem(int slot) => (slot >= 0 && slot < 9) ? _hotbarItems[slot] : null;
 	public Item GetSelectedHotbarItem() => GetHotbarItem(_selectedHotbarSlot);
 	
@@ -125,17 +129,17 @@ public partial class InventoryGui : Control
 	
 	public void UpdateUI()
 	{
-		// Remove all existing children
+		// Enleve tt enfants existants
 		foreach (Node child in _gridContainer.GetChildren()) child.QueueFree();
 
-		// Add inventory elements
+		// Ajoute elts dans l'inv
 		for (int i = 0; i < _maxSlots; i++)
 		{
 			Panel panel = new Panel { CustomMinimumSize = new Vector2(34, 34), Name = $"Panel{i}" };
 			int slotIndex = i;
 			panel.GuiInput += (@event) => OnSlotInput(@event, slotIndex);
 			
-			// Add slot background
+			// ajoute des slots
 			panel.AddChild(new Sprite2D {
 				Texture = ResourceLoader.Load<Texture2D>("res://Inven/SlotInv.png"),
 				Position = new Vector2(17, 17),
@@ -144,21 +148,21 @@ public partial class InventoryGui : Control
 				RegionRect = new Rect2(105, 7, 17, 16)
 			});
 			
-			// Add item icon if slot has item
+			// ajoute l'icon s'il y a un item
 			if (i < _items.Count && _items[i] != null)
 			{
-				// Calculate item position relative to panel center
+				// calculer la pos de l'item 
 				Vector2 itemPosition = panel.CustomMinimumSize / 2 + new Vector2(6, -9);
 				panel.AddChild(new Sprite2D {
-					Texture = _items[i].Icon as Texture2D, // Fixed: Proper cast
+					Texture = _items[i].Icon as Texture2D, 
 					Position = itemPosition,
 					Scale = new Vector2(1.5f, 1.5f)
 				});
 				
-				// Add quantity label if more than 1
+				// ajoute label quantité s'il y a + de 1
 				if (_items[i].Quantity > 1)
 				{
-					// Calculate label position relative to panel center
+					// calcul la pos du label
 					Vector2 labelPosition = panel.CustomMinimumSize / 2 + new Vector2(8, -2);
 					Label label = new Label {
 						Text = _items[i].Quantity.ToString(),
@@ -236,6 +240,7 @@ public partial class InventoryGui : Control
 		_draggedItemVisual.GlobalPosition = GetViewport().GetMousePosition();
 	}
 	
+	//les slots maj
 	private void DropItem(int toSlot)
 	{
 		if (_draggedItem == null) return;
@@ -268,6 +273,7 @@ public partial class InventoryGui : Control
 		UpdateUI();
 	}
 	
+	// On mets les items dans la HB ici
 	private void DropHotbarItem(int toSlot)
 	{
 		if (_draggedItem == null) return;
@@ -299,7 +305,7 @@ public partial class InventoryGui : Control
 		_draggedItemVisual.Visible = false;
 		_hotbarUI?.UpdateUI();
 	}
-	
+	// Pour enlever/diviser/séparer les items 
 	private void SplitStack(int slotIndex)
 	{
 		Item item = _items[slotIndex];
@@ -321,6 +327,7 @@ public partial class InventoryGui : Control
 		}
 	}
 	
+	// Pour séparer les items sur la HB 
 	private void SplitHotbarStack(int slotIndex)
 	{
 		Item item = _hotbarItems[slotIndex];

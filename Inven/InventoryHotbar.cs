@@ -24,7 +24,6 @@ public partial class InventoryHotbar : Control
 				{
 					if (_slots[i].GetGlobalRect().HasPoint(mouse.GlobalPosition))
 					{
-						GD.Print($"Pressing on hotbar slot {i}");
 						InventoryGui.Instance.HandleHotbarSlotInput(@event, i);
 						GetViewport().SetInputAsHandled();
 						return;
@@ -37,7 +36,7 @@ public partial class InventoryHotbar : Control
 				{
 					if (_slots[i].GetGlobalRect().HasPoint(mouse.GlobalPosition))
 					{
-						GD.Print($"Dropping on hotbar slot {i}");
+						
 						InventoryGui.Instance.HandleHotbarSlotInput(@event, i);
 						GetViewport().SetInputAsHandled();
 						return;
@@ -63,12 +62,11 @@ public partial class InventoryHotbar : Control
 		int slotIndex = index;
 		
 		panel.GuiInput += (@event) => {
-			GD.Print($"Hotbar slot {slotIndex} received event: {@event}");
 			InventoryGui.Instance?.HandleHotbarSlotInput(@event, slotIndex);
 		};
 		
 		panel.AddChild(new Sprite2D {
-			Texture = ResourceLoader.Load<Texture2D>("res://Inven/SlotInv.png"), // Fixed: Proper loading
+			Texture = ResourceLoader.Load<Texture2D>("res://Inven/SlotInv.png"),
 			Position = new Vector2(17, 17),
 			Scale = new Vector2(2, 2),
 			RegionEnabled = true,
@@ -92,7 +90,7 @@ public partial class InventoryHotbar : Control
 		
 		Panel panel = _slots[slot];
 		
-		// Remove existing item visuals (keep background)
+		// Enleve tts elts existants
 		foreach (Node child in panel.GetChildren())
 		{
 			if (child is Sprite2D sprite && sprite.Texture != ResourceLoader.Load<Texture2D>("res://Inven/SlotInv.png"))
@@ -104,18 +102,17 @@ public partial class InventoryHotbar : Control
 		Item item = InventoryGui.Instance.GetHotbarItem(slot);
 		if (item != null)
 		{
-			// Add item icon
+			// ajoute icon de l'item
 			Vector2 itemPosition = panel.CustomMinimumSize / 2 + new Vector2(6, -9);
 			panel.AddChild(new Sprite2D {
-				Texture = item.Icon as Texture2D, // Fixed: Proper cast
+				Texture = item.Icon as Texture2D,
 				Position = itemPosition,
 				Scale = new Vector2(1.5f, 1.5f)
 			});
 			
-			// Add quantity label if more than 1
+			// ajoute label quantité s'il y a + de 1
 			if (item.Quantity > 1)
 			{
-				// Calculate label position relative to panel center
 				Vector2 labelPosition = panel.CustomMinimumSize / 2 + new Vector2(8, -2);
 				Label label = new Label {
 					Text = item.Quantity.ToString(),

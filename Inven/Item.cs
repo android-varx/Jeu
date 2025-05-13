@@ -4,21 +4,21 @@ using System;
 public partial class Item : Node2D
 {
 	public string Name { get; set; }
-	public Texture2D Icon { get; set; } // Changed: Use Texture2D instead of Texture
+	public Texture2D Icon { get; set; } 
 	
-	// Stackable item properties
+	// prop pour stacker item
 	public int Quantity { get; set; } = 1;
 	public int MaxStackSize { get; set; } = 99;
 	
-	// Item category for filtering/sorting
+	// catégorie item pour faire un peu le ménage 
 	public string ItemType { get; set; } = "Misc";
 	
 	public Item()
 	{
-		// Default initialization
+		// Initialisation
 	}
 	
-	public Item(string name, Texture2D icon, int quantity = 1, int maxStackSize = 99) // Changed: Use Texture2D
+	public Item(string name, Texture2D icon, int quantity = 1, int maxStackSize = 99)
 	{
 		Name = name;
 		Icon = icon;
@@ -26,7 +26,7 @@ public partial class Item : Node2D
 		MaxStackSize = maxStackSize;
 	}
 	
-	// Combine items of the same type
+	// Combien les mm elts
 	public bool TryStackWith(Item otherItem)
 	{
 		if (!CanStackWith(otherItem))
@@ -36,28 +36,28 @@ public partial class Item : Node2D
 		
 		if (totalQuantity <= MaxStackSize)
 		{
-			// Full stack merge
+			
 			Quantity = totalQuantity;
 			otherItem.Quantity = 0;
 			return true;
 		}
 		else
 		{
-			// Partial merge - source stack overflows
+			// stacke pas trop sinon risque stack overflow
 			Quantity = MaxStackSize;
 			otherItem.Quantity = totalQuantity - MaxStackSize;
 			return false;
 		}
 	}
 	
-	// Check if items can be stacked together
+	// vérifie si on peut stacker les items
 	public bool CanStackWith(Item otherItem)
 	{
 		if (otherItem == null) return false;
 		return Name == otherItem.Name && ItemType == otherItem.ItemType;
 	}
 	
-	// Take some items from this stack to create a new one
+	// prends un item pour le bouger à un autre endroit
 	public Item SplitStack(int amount)
 	{
 		if (amount <= 0 || amount >= Quantity)
@@ -71,13 +71,13 @@ public partial class Item : Node2D
 		return splitItem;
 	}
 	
-	// Helper to check if stack is depleted
+	// Pour voir si c'est vide
 	public bool IsEmpty()
 	{
 		return Quantity <= 0;
 	}
 	
-	// Create duplicate item stack
+	// juste clonner 
 	public Item Clone()
 	{
 		Item cloned = new Item(Name, Icon, Quantity, MaxStackSize);
@@ -85,19 +85,14 @@ public partial class Item : Node2D
 		return cloned;
 	}
 	
-	// Debug output
-	public override string ToString()
-	{
-		return $"{Name} x{Quantity} (Max: {MaxStackSize})";
-	}
-	
+
 	public override void _Ready()
 	{
-		// Ready setup
+		// Ready 
 	}
 
 	public override void _Process(double delta)
 	{
-		// Process updates
+		// Update 
 	}
 }
