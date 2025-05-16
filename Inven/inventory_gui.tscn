@@ -1,11 +1,199 @@
-[gd_scene load_steps=7 format=3 uid="uid://b10jxbhfr2jrg"]
+[gd_scene load_steps=69 format=3 uid="uid://b10jxbhfr2jrg"]
 
 [ext_resource type="Texture2D" uid="uid://cm0xclm6m4rtn" path="res://Inven/Inventaire.png" id="1_5c706"]
-[ext_resource type="Script" path="res://Inven/InventoryGui.cs" id="1_5dwgb"]
+[ext_resource type="Script" uid="uid://di7x4i5lisjx" path="res://Inven/InventoryGui.cs" id="1_5dwgb"]
 [ext_resource type="PackedScene" uid="uid://cjxkxcxl5mghf" path="res://Inven/panel.tscn" id="2_4q080"]
 [ext_resource type="PackedScene" uid="uid://e7rrkpl6ejs1" path="res://Inven/item.tscn" id="4_2qltv"]
-[ext_resource type="Script" path="res://Inven/Slot.cs" id="4_wkxbw"]
 [ext_resource type="PackedScene" uid="uid://c0o4ss8h57aq0" path="res://Inven/sword_2.tscn" id="6_vuav7"]
+
+[sub_resource type="Resource" id="Resource_ycqyu"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_0q1j8"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_8cc06"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_l6mmj"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_rj3vl"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_js224"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_fqboc"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_hk1v0"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_eoj8w"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_oyand"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_c3l3x"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_si6yp"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_ab0t8"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_4t41n"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_c0y7d"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_ajbfh"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_tlr3u"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_ut5o6"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_acpta"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_k6d4m"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_7o6w6"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_wr043"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_26sll"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_lwqxf"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_t31p1"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_0mvbc"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_m06dl"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_28f7b"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_tri3n"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_1tr2a"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_hpp5i"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_hj4os"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_yga3s"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_yaelx"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_dn01u"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_r7j5j"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_gr4ty"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_j2abd"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_4cqar"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_3g5wg"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_k054u"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_ai5td"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_6dna6"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_ht32m"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_4nude"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_qktjg"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_epdf7"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_0ldtx"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_1fbqv"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_jxg2x"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_blqsw"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_m37hm"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_6v3d3"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_lcy8m"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_eflog"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_r11vf"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_d413u"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_npd8f"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_7snf7"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_hwt2k"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_xnigm"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_84e3l"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
+
+[sub_resource type="Resource" id="Resource_agrrx"]
+metadata/__load_path__ = "res://Inven/Slot.cs"
 
 [node name="InventoryGui" type="Control"]
 custom_minimum_size = Vector2(40, 40)
@@ -47,276 +235,276 @@ metadata/_edit_use_anchors_ = true
 
 [node name="Panel1" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_ycqyu")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel1" instance=ExtResource("4_2qltv")]
 
 [node name="Panel2" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_0q1j8")
 
 [node name="Item" parent="NinePatchRect/GridContainer" instance=ExtResource("4_2qltv")]
 
 [node name="Panel3" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_8cc06")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel3" instance=ExtResource("4_2qltv")]
 
 [node name="Panel4" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_l6mmj")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel4" instance=ExtResource("4_2qltv")]
 
 [node name="Panel5" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_rj3vl")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel5" instance=ExtResource("4_2qltv")]
 
 [node name="Panel6" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_js224")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel6" instance=ExtResource("4_2qltv")]
 
 [node name="Panel7" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_fqboc")
 
 [node name="Item2" parent="NinePatchRect/GridContainer" instance=ExtResource("4_2qltv")]
 
 [node name="Panel8" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_hk1v0")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel8" instance=ExtResource("4_2qltv")]
 
 [node name="Panel9" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_eoj8w")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel9" instance=ExtResource("4_2qltv")]
 
 [node name="Panel10" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_oyand")
 
 [node name="Item" parent="NinePatchRect/GridContainer/Panel10" instance=ExtResource("4_2qltv")]
 
 [node name="Panel11" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_c3l3x")
 
 [node name="Sword2" parent="NinePatchRect/GridContainer/Panel11" instance=ExtResource("6_vuav7")]
 
 [node name="Panel12" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_si6yp")
 
 [node name="Sword2" parent="NinePatchRect/GridContainer/Panel12" instance=ExtResource("6_vuav7")]
 
 [node name="Panel13" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_ab0t8")
 
 [node name="Panel14" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_4t41n")
 
 [node name="Panel15" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_c0y7d")
 
 [node name="Panel16" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_ajbfh")
 
 [node name="Panel17" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_tlr3u")
 
 [node name="Panel18" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_ut5o6")
 
 [node name="Panel19" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_acpta")
 
 [node name="Panel20" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_k6d4m")
 
 [node name="Panel21" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_7o6w6")
 
 [node name="Panel22" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_wr043")
 
 [node name="Panel23" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_26sll")
 
 [node name="Panel24" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_lwqxf")
 
 [node name="Panel25" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_t31p1")
 
 [node name="Panel26" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_0mvbc")
 
 [node name="Panel27" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_m06dl")
 
 [node name="Panel28" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_28f7b")
 
 [node name="Panel29" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_tri3n")
 
 [node name="Panel30" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_1tr2a")
 
 [node name="Panel31" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_hpp5i")
 
 [node name="Panel32" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_hj4os")
 
 [node name="Panel33" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_yga3s")
 
 [node name="Panel34" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_yaelx")
 
 [node name="Panel35" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_dn01u")
 
 [node name="Panel36" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_r7j5j")
 
 [node name="Panel37" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_gr4ty")
 
 [node name="Panel38" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_j2abd")
 
 [node name="Panel39" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_4cqar")
 
 [node name="Panel40" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_3g5wg")
 
 [node name="Panel41" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_k054u")
 
 [node name="Panel42" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_ai5td")
 
 [node name="Panel43" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_6dna6")
 
 [node name="Panel44" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_ht32m")
 
 [node name="Panel45" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_4nude")
 
 [node name="Panel46" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_qktjg")
 
 [node name="Panel47" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_epdf7")
 
 [node name="Panel48" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_0ldtx")
 
 [node name="Panel49" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_1fbqv")
 
 [node name="Panel50" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_jxg2x")
 
 [node name="Panel51" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_blqsw")
 
 [node name="Panel52" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_m37hm")
 
 [node name="Panel53" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_6v3d3")
 
 [node name="Panel54" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_lcy8m")
 
 [node name="Panel55" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_eflog")
 
 [node name="Panel56" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_r11vf")
 
 [node name="Panel57" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_d413u")
 
 [node name="Panel58" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_npd8f")
 
 [node name="Panel59" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_7snf7")
 
 [node name="Panel60" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_hwt2k")
 
 [node name="Panel61" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_xnigm")
 
 [node name="Panel62" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_84e3l")
 
 [node name="Panel63" parent="NinePatchRect/GridContainer" instance=ExtResource("2_4q080")]
 layout_mode = 2
-script = ExtResource("4_wkxbw")
+script = SubResource("Resource_agrrx")

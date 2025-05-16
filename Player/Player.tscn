@@ -1,7 +1,7 @@
 [gd_scene load_steps=21 format=3 uid="uid://df6vfd06dvulw"]
 
-[ext_resource type="Script" path="res://Player/Player.cs" id="1_3pq3t"]
-[ext_resource type="Script" path="res://Player/CameraFollow.cs" id="3_o3ov8"]
+[ext_resource type="Script" uid="uid://d2fs4ga5h4ams" path="res://Player/Player.cs" id="1_3pq3t"]
+[ext_resource type="Script" uid="uid://8gd1jw81ukbs" path="res://Player/CameraFollow.cs" id="3_o3ov8"]
 [ext_resource type="Texture2D" uid="uid://jhso7xrxoun2" path="res://Player/Animation Marche JD (2).png" id="4_jp0ga"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_f1npv"]
