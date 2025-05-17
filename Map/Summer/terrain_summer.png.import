@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bj8spxnmt1qg5"
-path="res://.godot/imported/Rocks, Cliffs.png-749a67c43cb180586ce0cdd62075c882.ctex"
+uid="uid://bqmiss6iyrrxl"
+path="res://.godot/imported/terrain_summer.png-362cafe528f0fa6947fc733ffa3ca416.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Map/Terrain/Rocks, Cliffs.png"
-dest_files=["res://.godot/imported/Rocks, Cliffs.png-749a67c43cb180586ce0cdd62075c882.ctex"]
+source_file="res://Map/Summer/terrain_summer.png"
+dest_files=["res://.godot/imported/terrain_summer.png-362cafe528f0fa6947fc733ffa3ca416.ctex"]
 
 [params]
 
