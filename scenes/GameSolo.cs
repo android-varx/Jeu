@@ -28,6 +28,8 @@ public partial class GameSolo : Node2D
 	
 	public int ChunkSize { get; private set; } = 3328;
 	
+	public int ChunkSizeX { get; private set; } = 3328;
+	
 	public int ChunkSizeY { get; private set; } = 3328;
 
 	public override void _Ready()
@@ -153,7 +155,7 @@ public partial class GameSolo : Node2D
 
 		if (position.Y > ChunkSizeY)
 		{
-			ChunkSize += Width;
+			ChunkSizeY += Width;
 			InitialCoord.Item2 += Width;
 			InitialChunk.Item2 += 1;
 			moved = true;
