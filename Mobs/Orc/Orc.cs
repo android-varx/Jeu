@@ -20,7 +20,7 @@ public partial class Orc : CharacterBody2D
 
     public override void _Ready()
     {
-        _target = GetNodeOrNull<Player>("/root/GameSolo/Player");// permet de trouver le Player dans la scène
+        _target = GetNodeOrNull<Player>("/root/GameSolo/Node2D/Player");// permet de trouver le Player dans la scène
         
         //Timer
         _attackCooldownTimer = new Timer();
