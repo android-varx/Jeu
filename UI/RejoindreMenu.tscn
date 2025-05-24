@@ -1,0 +1,67 @@
+[gd_scene load_steps=4 format=3 uid="uid://c0mtm0ajow1aq"]
+
+[ext_resource type="Texture2D" uid="uid://f42m31e3ir3b" path="res://UI/Screen_main_menu.png" id="1_t6bni"]
+[ext_resource type="Script" uid="uid://b8jgf2fqbxwe6" path="res://UI/RejoindreMenu.cs" id="1_x4jdp"]
+[ext_resource type="Texture2D" uid="uid://dr8t6m63vgvjc" path="res://UI/Title.png" id="2_x4jdp"]
+
+[node name="RejoindreMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_x4jdp")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_t6bni")
+stretch_mode = 4
+
+[node name="Title" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -510.0
+offset_top = -676.0
+offset_right = 512.0
+offset_bottom = -70.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_x4jdp")
+
+[node name="IPInput" type="LineEdit" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.497
+anchor_top = 0.462
+anchor_right = 0.497
+anchor_bottom = 0.462
+offset_left = -157.544
+offset_top = -43.376
+offset_right = 159.456
+offset_bottom = 97.624
+
+[node name="Se Connecter" type="Button" parent="."]
+layout_mode = 0
+offset_left = 621.0
+offset_top = 407.0
+offset_right = 731.0
+offset_bottom = 438.0
+text = "Se Connecter"
+
+[node name="Retour" type="Button" parent="."]
+offset_left = 414.0
+offset_top = 405.0
+offset_right = 524.0
+offset_bottom = 436.0
+text = "Retour
+"

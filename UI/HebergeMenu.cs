@@ -6,24 +6,18 @@ public partial class HebergeMenu : Control
     
     public override void _Ready()
     {
-        Button continuerButton = GetNode<Button>("VBoxContainer/Continuer");
         Button nouveauButton = GetNode<Button>("VBoxContainer/Nouveau");
         Button retourButton = GetNode<Button>("VBoxContainer/Retour");
         
-        continuerButton.Pressed += OnContinuerPressed;
         nouveauButton.Pressed += OnNouveauPressed;
         retourButton.Pressed += OnRetourPressed;
     }
     
     private async void OnNouveauPressed()
     {
+        GetNode<GameManager>("/root/GameManager").IsNewGame = false;
         GameMultiplayer.IsServer = true;
         GetTree().ChangeSceneToFile("res://scenes/GameMultiplayer.tscn");
-    }
-    
-    private void OnContinuerPressed()
-    {
-        GD.Print("Pas encore");
     }
 
     private void OnRetourPressed()

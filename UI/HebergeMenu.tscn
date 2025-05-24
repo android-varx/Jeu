@@ -109,19 +109,6 @@ theme_override_styles/pressed = SubResource("StyleBoxFlat_4xmpf")
 theme_override_styles/normal = SubResource("StyleBoxFlat_0gxv6")
 text = "Nouveau"
 
-[node name="Continuer" type="Button" parent="VBoxContainer"]
-layout_mode = 2
-theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)
-theme_override_colors/font_hover_pressed_color = Color(0, 0, 0, 1)
-theme_override_colors/font_hover_color = Color(0, 0, 0, 1)
-theme_override_colors/font_pressed_color = Color(0, 0, 0, 1)
-theme_override_font_sizes/font_size = 40
-theme_override_styles/focus = SubResource("StyleBoxEmpty_jkx01")
-theme_override_styles/hover = SubResource("StyleBoxFlat_b4pgd")
-theme_override_styles/pressed = SubResource("StyleBoxFlat_4xmpf")
-theme_override_styles/normal = SubResource("StyleBoxFlat_0gxv6")
-text = "Continuer"
-
 [node name="Retour" type="Button" parent="VBoxContainer"]
 layout_mode = 2
 theme_override_colors/font_disabled_color = Color(0, 0, 0, 1)

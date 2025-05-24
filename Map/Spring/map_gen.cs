@@ -18,6 +18,8 @@ public partial class map_gen : Node2D
     [Export] private PackedScene Mob1; // Scène de l'ennemi
     [Export] private PackedScene Mob2; // Scène de l'ennemi
     [Export] private PackedScene Mob3; // Scène de l'ennemi
+    [Export] private PackedScene Boss; // Scène de l'ennemi
+    
 
     private int mapWidth = 3328;  // On definit la largeur 
     private int mapHeight = 3328; // on definit la hauteur 
@@ -35,13 +37,11 @@ public partial class map_gen : Node2D
         GenerateMap(x, y);
     }
     
-    
-    
-    private void GenerateEnemies(PackedScene ennemy, int x, int y)
+    private void GenerateEnemies(PackedScene ennemy, int x, int y, int number)
     {
         Random random = new Random();
 
-        for (int i = 0; i < 5; i++)
+        for (int i = 0; i < number; i++)
         {
             Node2D enemyInstance = (Node2D)ennemy.Instantiate();
             Vector2 position = new Vector2(random.Next(x, x + mapWidth - 100), random.Next(y, y + mapHeight - 100));
@@ -52,9 +52,10 @@ public partial class map_gen : Node2D
 
     private void GenerateMap(int x, int y)
     { 
-        GenerateEnemies(Mob1, x, y);
-        GenerateEnemies(Mob2, x, y);
-        GenerateEnemies(Mob3, x, y);
+        GenerateEnemies(Mob1, x, y, 5);
+        GenerateEnemies(Mob2, x, y, 5);
+        GenerateEnemies(Mob3, x, y, 5);
+        GenerateEnemies(Boss, x, y, 1);
         
         GenerateObjects(mushroomScene, mushroomMin, mushroomMax, x, y);
         

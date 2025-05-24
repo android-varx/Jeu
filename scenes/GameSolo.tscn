@@ -1,4 +1,4 @@
-[gd_scene load_steps=63 format=3 uid="uid://d1mwubhxqjq4p"]
+[gd_scene load_steps=64 format=3 uid="uid://d1mwubhxqjq4p"]
 
 [ext_resource type="Script" uid="uid://dhwjq6xdcpqsg" path="res://scenes/GameSolo.cs" id="1_vkscu"]
 [ext_resource type="PackedScene" uid="uid://df6vfd06dvulw" path="res://Player/Player.tscn" id="2_su7ta"]
@@ -51,6 +51,7 @@
 [ext_resource type="PackedScene" uid="uid://c2y6od6fwmxgo" path="res://Mobs/Vampires/Vampires2.tscn" id="46_nyis5"]
 [ext_resource type="PackedScene" uid="uid://cdexjxawgjxgc" path="res://Mobs/Slime/Slime3.tscn" id="59_iruq2"]
 [ext_resource type="PackedScene" uid="uid://p62pefg4lv80" path="res://Mobs/Vampires/Vampires3.tscn" id="60_787lv"]
+[ext_resource type="PackedScene" uid="uid://cvd7dvmca3dtl" path="res://Mobs/Boss/Boss.tscn" id="62_g3okx"]
 [ext_resource type="PackedScene" uid="uid://bwy3jxr7fraie" path="res://Map/Winter/mushroom.tscn" id="92_xd58b"]
 [ext_resource type="PackedScene" uid="uid://nt6e08tysg3b" path="res://Map/Winter/Leaves1.tscn" id="93_76wfx"]
 [ext_resource type="PackedScene" uid="uid://cwjyuc6h5io7v" path="res://Map/Winter/Leaves2.tscn" id="94_ia4k3"]
@@ -63,13 +64,14 @@
 [ext_resource type="PackedScene" uid="uid://bactwnmqm76h0" path="res://Map/Winter/Tree2.tscn" id="101_jyfli"]
 [ext_resource type="PackedScene" uid="uid://3lb4n2xgxjjw" path="res://Map/Winter/Tree3.tscn" id="102_oifby"]
 
-[node name="GameSolo" type="Node2D" node_paths=PackedStringArray("map_summer", "map_spring", "map_autumn", "map_winter", "floor_summer", "floor_spring", "floor_autumn", "floor_winter", "player")]
+[node name="GameSolo" type="Node2D" node_paths=PackedStringArray("map_summer", "map_spring", "map_autumn", "map_winter", "god_map", "floor_summer", "floor_spring", "floor_autumn", "floor_winter", "player")]
 y_sort_enabled = true
 script = ExtResource("1_vkscu")
 map_summer = NodePath("Node2D/Objects_Summer")
 map_spring = NodePath("Node2D/Objects_Spring")
 map_autumn = NodePath("Node2D/Objects_Autumn")
 map_winter = NodePath("Node2D/Objects_Winter")
+god_map = NodePath("Node2D/God_map")
 floor_summer = NodePath("Floor_Summer")
 floor_spring = NodePath("Floor_Spring")
 floor_autumn = NodePath("Floor_Autumn")
@@ -100,7 +102,6 @@ floor = ExtResource("5_xtyw6")
 y_sort_enabled = true
 
 [node name="Player" parent="Node2D" instance=ExtResource("2_su7ta")]
-y_sort_enabled = true
 
 [node name="Objects_Summer" type="Node2D" parent="Node2D"]
 y_sort_enabled = true
@@ -119,6 +120,7 @@ treeScene3 = ExtResource("28_gfarc")
 Mob1 = ExtResource("5_0c7ed")
 Mob2 = ExtResource("20_g3okx")
 Mob3 = ExtResource("20_g3okx")
+Boss = ExtResource("5_0c7ed")
 
 [node name="Objects_Spring" type="Node2D" parent="Node2D"]
 y_sort_enabled = true
@@ -135,8 +137,9 @@ treeScene1 = ExtResource("39_bxmjk")
 treeScene2 = ExtResource("40_rhip4")
 treeScene3 = ExtResource("41_me2kj")
 Mob1 = ExtResource("5_0c7ed")
-Mob2 = ExtResource("32_6htvw")
+Mob2 = ExtResource("20_g3okx")
 Mob3 = ExtResource("33_ynjrc")
+Boss = ExtResource("5_0c7ed")
 
 [node name="Objects_Autumn" type="Node2D" parent="Node2D"]
 y_sort_enabled = true
@@ -155,6 +158,7 @@ treeScene3 = ExtResource("28_rbgwx")
 Mob1 = ExtResource("30_lmc4c")
 Mob2 = ExtResource("32_6htvw")
 Mob3 = ExtResource("46_nyis5")
+Boss = ExtResource("32_6htvw")
 
 [node name="Objects_Winter" type="Node2D" parent="Node2D"]
 y_sort_enabled = true
@@ -173,6 +177,26 @@ treeScene3 = ExtResource("102_oifby")
 Mob1 = ExtResource("44_sgt4t")
 Mob2 = ExtResource("59_iruq2")
 Mob3 = ExtResource("60_787lv")
+Boss = ExtResource("44_sgt4t")
+
+[node name="God_map" type="Node2D" parent="Node2D"]
+y_sort_enabled = true
+script = ExtResource("17_qpgeg")
+mushroomScene = ExtResource("92_xd58b")
+leavesScene1 = ExtResource("32_iruq2")
+leavesScene2 = ExtResource("20_6ym2b")
+rockScene1 = ExtResource("34_b4wwq")
+rockScene2 = ExtResource("23_uvd08")
+rockScene3 = ExtResource("96_day5h")
+Ores1 = ExtResource("98_uxpia")
+Ores2 = ExtResource("24_mpqc8")
+treeScene1 = ExtResource("39_bxmjk")
+treeScene2 = ExtResource("26_20dql")
+treeScene3 = ExtResource("102_oifby")
+Mob1 = ExtResource("20_g3okx")
+Mob2 = ExtResource("20_g3okx")
+Mob3 = ExtResource("20_g3okx")
+Boss = ExtResource("62_g3okx")
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 follow_viewport_scale = 202.794

@@ -9,6 +9,7 @@ public partial class GameSolo : Node2D
 	[Export] private map_gen map_spring;
 	[Export] private map_gen map_autumn;
 	[Export] private map_gen map_winter;
+	[Export] private map_gen god_map;
 	
 	[Export] private floor_gen floor_summer;
 	[Export] private floor_gen floor_spring;
@@ -67,7 +68,7 @@ public partial class GameSolo : Node2D
 		
 		if (!VisitedChunk.Contains((InitialChunk.Item1 - 1, InitialChunk.Item2)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1 - 1, InitialChunk.Item2));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1 - Width, InitialCoord.Item2);
@@ -75,7 +76,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1 - 1, InitialChunk.Item2 - 1)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1 - 1, InitialChunk.Item2 - 1));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1 - Width, InitialCoord.Item2 - Width);
@@ -83,7 +84,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1 - 1, InitialChunk.Item2 + 1)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1 - 1, InitialChunk.Item2 + 1));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1 - Width, InitialCoord.Item2 + Width);
@@ -91,7 +92,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1 + 1, InitialChunk.Item2)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1 + 1, InitialChunk.Item2));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1 + Width, InitialCoord.Item2);
@@ -99,7 +100,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1 + 1, InitialChunk.Item2 - 1)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1 + 1, InitialChunk.Item2 -1));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1 + Width, InitialCoord.Item2 - Width);
@@ -107,7 +108,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1 + 1, InitialChunk.Item2 + 1)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1 + 1, InitialChunk.Item2 + 1));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1 + Width, InitialCoord.Item2 + Width);
@@ -115,7 +116,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1, InitialChunk.Item2 + 1)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1, InitialChunk.Item2 + 1));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1, InitialCoord.Item2 + Width);
@@ -124,7 +125,7 @@ public partial class GameSolo : Node2D
 		}
 		if (!VisitedChunk.Contains((InitialChunk.Item1, InitialChunk.Item2 - 1)))
 		{
-			int randomNumber = random.Next(1, 5);
+			int randomNumber = random.Next(1, 6);
 			chunk = GetChunk(randomNumber);
 			VisitedChunk.Add((InitialChunk.Item1, InitialChunk.Item2 - 1));
 			chunk.Item2.GenerateNewMap(InitialCoord.Item1, InitialCoord.Item2 - Width);
@@ -189,6 +190,9 @@ public partial class GameSolo : Node2D
 				break;
 			case 4:
 				res =  (floor_winter, map_winter);
+				break;
+			case 5:
+				res =  (floor_winter, god_map);
 				break;
 		}
 		return res;
