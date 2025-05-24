@@ -1,0 +1,37 @@
+[gd_scene load_steps=15 format=3 uid="uid://dprfaq7y8y2lu"]
+
+[ext_resource type="PackedScene" uid="uid://d07jpwrnqbr7d" path="res://Map/Spring/Leaves1.tscn" id="3_5s7ws"]
+[ext_resource type="Script" uid="uid://c86o7rkgi04a5" path="res://Map/Spring/map_gen.cs" id="3_csfvt"]
+[ext_resource type="PackedScene" uid="uid://clqk2y2jvhukr" path="res://Map/Autumn/Leaves2_autumn.tscn" id="4_6kry0"]
+[ext_resource type="PackedScene" uid="uid://bwy3jxr7fraie" path="res://Map/Winter/mushroom.tscn" id="4_61qba"]
+[ext_resource type="PackedScene" uid="uid://dmlndbsbme0q4" path="res://Map/Spring/Rock1.tscn" id="5_syde0"]
+[ext_resource type="PackedScene" uid="uid://c3200nxahc4dv" path="res://Map/Autumn/Rock3.tscn" id="7_lhqxf"]
+[ext_resource type="PackedScene" uid="uid://c6egrm0xtft6k" path="res://Map/Winter/Rock2.tscn" id="8_q4db3"]
+[ext_resource type="PackedScene" uid="uid://x6e2liylc1lq" path="res://Map/Autumn/Gold1.tscn" id="9_3flkj"]
+[ext_resource type="PackedScene" uid="uid://dlb6p2oyqc2db" path="res://Map/Spring/Tree1.tscn" id="10_tb3ts"]
+[ext_resource type="PackedScene" uid="uid://isahvc16ctwm" path="res://Map/Winter/Diamond1.tscn" id="10_vmj6p"]
+[ext_resource type="PackedScene" uid="uid://c085qpdlpwide" path="res://Map/Autumn/Tree1.tscn" id="11_ch8qu"]
+[ext_resource type="PackedScene" uid="uid://diuxh7x2w68kx" path="res://Mobs/Slime/Slime1.tscn" id="13_6kry0"]
+[ext_resource type="PackedScene" uid="uid://cvd7dvmca3dtl" path="res://Mobs/Boss/Boss.tscn" id="13_p3po5"]
+[ext_resource type="PackedScene" uid="uid://3lb4n2xgxjjw" path="res://Map/Winter/Tree3.tscn" id="14_q5nln"]
+
+[node name="GodMap" type="Node2D"]
+
+[node name="God_map" type="Node2D" parent="."]
+y_sort_enabled = true
+script = ExtResource("3_csfvt")
+mushroomScene = ExtResource("4_61qba")
+leavesScene1 = ExtResource("3_5s7ws")
+leavesScene2 = ExtResource("4_6kry0")
+rockScene1 = ExtResource("5_syde0")
+rockScene2 = ExtResource("7_lhqxf")
+rockScene3 = ExtResource("8_q4db3")
+Ores1 = ExtResource("10_vmj6p")
+Ores2 = ExtResource("9_3flkj")
+treeScene1 = ExtResource("10_tb3ts")
+treeScene2 = ExtResource("11_ch8qu")
+treeScene3 = ExtResource("14_q5nln")
+Mob1 = ExtResource("13_6kry0")
+Mob2 = ExtResource("13_6kry0")
+Mob3 = ExtResource("13_6kry0")
+Boss = ExtResource("13_p3po5")

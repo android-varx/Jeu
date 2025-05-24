@@ -15,7 +15,7 @@
 [ext_resource type="PackedScene" uid="uid://bwhj3utfw8crn" path="res://Map/Spring/Iron2.tscn" id="9_twj0c"]
 [ext_resource type="PackedScene" uid="uid://qxvm4wm4jrpi" path="res://Map/Spring/Tree2.tscn" id="9_ubm6l"]
 [ext_resource type="PackedScene" uid="uid://dtrtgb4k8rsim" path="res://Map/Spring/Tree3.tscn" id="10_pohck"]
-[ext_resource type="PackedScene" uid="uid://b36e55wisopis" path="res://Mobs/Slime/Slime2.tscn" id="16_ubm6l"]
+[ext_resource type="PackedScene" uid="uid://diuxh7x2w68kx" path="res://Mobs/Slime/Slime1.tscn" id="16_ubm6l"]
 [ext_resource type="PackedScene" uid="uid://bn282w4kjoja" path="res://Mobs/Vampires/Vampires1.tscn" id="17_pohck"]
 
 [node name="Spring" type="Node2D"]
@@ -41,3 +41,4 @@ treeScene3 = ExtResource("10_pohck")
 Mob1 = ExtResource("6_fk54o")
 Mob2 = ExtResource("16_ubm6l")
 Mob3 = ExtResource("17_pohck")
+Boss = ExtResource("6_fk54o")

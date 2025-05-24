@@ -1,13 +1,69 @@
-[gd_scene load_steps=3 format=3 uid="uid://bbgkgir366ftk"]
+[gd_scene load_steps=17 format=3 uid="uid://bbgkgir366ftk"]
 
 [ext_resource type="Script" uid="uid://bue06nkv20qry" path="res://scenes/GameMultiplayer.cs" id="1_cgntr"]
 [ext_resource type="PackedScene" uid="uid://df6vfd06dvulw" path="res://Player/Player.tscn" id="1_l4akg"]
+[ext_resource type="Script" uid="uid://dhirr41vmmip7" path="res://Map/Spring/floor_gen.cs" id="3_id1gj"]
+[ext_resource type="PackedScene" uid="uid://d364tvrwv0ewl" path="res://Map/Spring/Floor.tscn" id="4_x0c52"]
+[ext_resource type="Script" uid="uid://bg27iiyinnulo" path="res://Map/MultiplayerMap/map_gen_multiplayer.cs" id="5_fcfko"]
+[ext_resource type="PackedScene" uid="uid://dnre72fctda50" path="res://Map/MultiplayerMap/Leaves1.tscn" id="6_m0515"]
+[ext_resource type="PackedScene" uid="uid://dfkvpu6mok1a5" path="res://Map/MultiplayerMap/Leaves2.tscn" id="7_4rbn8"]
+[ext_resource type="PackedScene" uid="uid://dge8qrnk5716k" path="res://Map/MultiplayerMap/Rock1.tscn" id="8_fvps6"]
+[ext_resource type="PackedScene" uid="uid://csl4r5i4lub5m" path="res://Map/MultiplayerMap/Rock2.tscn" id="9_ygomp"]
+[ext_resource type="PackedScene" uid="uid://cxyt2s7we7o8w" path="res://Map/MultiplayerMap/Rock3.tscn" id="10_36441"]
+[ext_resource type="PackedScene" uid="uid://cxmbx5hjj3kfi" path="res://Map/MultiplayerMap/Iron1.tscn" id="11_k86hc"]
+[ext_resource type="PackedScene" uid="uid://v4w31b2qplt0" path="res://Map/MultiplayerMap/Iron2.tscn" id="12_jhjl3"]
+[ext_resource type="PackedScene" uid="uid://4qxtxuefkgko" path="res://Map/MultiplayerMap/Tree1.tscn" id="13_f8ert"]
+[ext_resource type="PackedScene" uid="uid://c8i086dcwgqn3" path="res://Map/MultiplayerMap/Tree2.tscn" id="14_yp70x"]
+[ext_resource type="PackedScene" uid="uid://c6akf1ysohb6d" path="res://Map/MultiplayerMap/Tree3.tscn" id="15_5jcuk"]
 
-[node name="GameMultiplayer" type="Node2D"]
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_i3nqh"]
+b = Vector2(3329, 0)
+
+[node name="GameMultiplayer" type="Node2D" node_paths=PackedStringArray("floor_spring", "map_spring")]
+y_sort_enabled = true
 script = ExtResource("1_cgntr")
+floor_spring = NodePath("Floor_Spring")
+map_spring = NodePath("Objects_Spring")
 _playerScene = ExtResource("1_l4akg")
 
+[node name="Floor_Spring" type="Node2D" parent="."]
+z_index = -1
+script = ExtResource("3_id1gj")
+floor = ExtResource("4_x0c52")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Floor_Spring"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+shape = SubResource("SegmentShape2D_i3nqh")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+rotation = 1.5708
+shape = SubResource("SegmentShape2D_i3nqh")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+position = Vector2(0, 3328)
+shape = SubResource("SegmentShape2D_i3nqh")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+position = Vector2(3328, 0)
+rotation = 1.5708
+shape = SubResource("SegmentShape2D_i3nqh")
+
 [node name="MultiplayerSpawner" type="MultiplayerSpawner" parent="."]
-_spawnable_scenes = PackedStringArray("res://Player/Player.tscn")
+_spawnable_scenes = PackedStringArray("uid://df6vfd06dvulw")
 spawn_path = NodePath("..")
 spawn_limit = 2
+
+[node name="Objects_Spring" type="Node2D" parent="."]
+y_sort_enabled = true
+script = ExtResource("5_fcfko")
+leavesScene1 = ExtResource("6_m0515")
+leavesScene2 = ExtResource("7_4rbn8")
+rockScene1 = ExtResource("8_fvps6")
+rockScene2 = ExtResource("9_ygomp")
+rockScene3 = ExtResource("10_36441")
+Ores1 = ExtResource("11_k86hc")
+Ores2 = ExtResource("12_jhjl3")
+treeScene1 = ExtResource("13_f8ert")
+treeScene2 = ExtResource("14_yp70x")
+treeScene3 = ExtResource("15_5jcuk")

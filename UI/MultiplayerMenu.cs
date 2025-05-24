@@ -22,7 +22,7 @@ public partial class MultiplayerMenu : Control
     private void OnRejoindrePressed()
     {
         GameMultiplayer.IsServer = false;
-        GetTree().ChangeSceneToFile("res://scenes/GameMultiplayer.tscn"); // charge la scene multiplayer
+        GetTree().ChangeSceneToFile("res://UI/RejoindreMenu.tscn"); // charge la scene multiplayer
     }
     
     private void OnRetourPressed()

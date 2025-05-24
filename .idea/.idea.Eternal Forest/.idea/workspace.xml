@@ -5,15 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c0a55e9-a214-4384-bb51-dd9e277fc765" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mobs/Orc/God.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/AudioMenu.tscn-folding-6ab0848a425a38e2cf6eb8527a78c793.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/AudioMenu.tscn-folding-6ab0848a425a38e2cf6eb8527a78c793.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Autumn.tscn-editstate-0b56311141b7a1ee810d0e28e7a7da07.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Autumn.tscn-editstate-0b56311141b7a1ee810d0e28e7a7da07.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/GameMultiplayer.tscn-editstate-0424de903f42fc73ea6ed88f9b0d8dde.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/GameMultiplayer.tscn-editstate-0424de903f42fc73ea6ed88f9b0d8dde.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/GameMultiplayer.tscn-folding-0424de903f42fc73ea6ed88f9b0d8dde.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/GameMultiplayer.tscn-folding-0424de903f42fc73ea6ed88f9b0d8dde.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-editstate-7342474fa64599a275871da88d8a026c.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-editstate-7342474fa64599a275871da88d8a026c.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-folding-7342474fa64599a275871da88d8a026c.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/GameSolo.tscn-folding-7342474fa64599a275871da88d8a026c.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/HebergeMenu.tscn-editstate-67d71f3b9c1414b60107c0df927834fd.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/HebergeMenu.tscn-editstate-67d71f3b9c1414b60107c0df927834fd.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/HebergeMenu.tscn-folding-67d71f3b9c1414b60107c0df927834fd.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/HebergeMenu.tscn-folding-67d71f3b9c1414b60107c0df927834fd.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/MultiplayerMenu.tscn-folding-f5956e994f28e70d3d046f434c8fd32b.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/MultiplayerMenu.tscn-folding-f5956e994f28e70d3d046f434c8fd32b.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Orc1.tscn-editstate-ca45522a98c3e8e0773f199861385245.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Orc1.tscn-editstate-ca45522a98c3e8e0773f199861385245.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Orc1.tscn-folding-ca45522a98c3e8e0773f199861385245.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Orc1.tscn-folding-ca45522a98c3e8e0773f199861385245.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Orc2.tscn-editstate-b54e377ed3d68576742fc3036ea0d5eb.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Orc2.tscn-editstate-b54e377ed3d68576742fc3036ea0d5eb.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Orc3.tscn-editstate-dbd35b18835eb78bc853588bf63ab260.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Orc3.tscn-editstate-dbd35b18835eb78bc853588bf63ab260.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/editor/Player.tscn-editstate-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Player.tscn-editstate-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/editor/Player.tscn-folding-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Player.tscn-folding-48b487cb3fbab0e0d627d8f8de2ba1d9.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Slime1.tscn-editstate-6ad47b2d12cbb995d00513314e29f0a7.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Slime1.tscn-editstate-6ad47b2d12cbb995d00513314e29f0a7.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Slime1.tscn-folding-6ad47b2d12cbb995d00513314e29f0a7.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Slime1.tscn-folding-6ad47b2d12cbb995d00513314e29f0a7.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Slime2.tscn-editstate-b87ac614b5d415f2f79d1193efd3dc58.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Slime2.tscn-editstate-b87ac614b5d415f2f79d1193efd3dc58.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Slime2.tscn-folding-b87ac614b5d415f2f79d1193efd3dc58.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Slime2.tscn-folding-b87ac614b5d415f2f79d1193efd3dc58.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Slime3.tscn-editstate-22166b6dc6c8306c764be256eda3455d.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Slime3.tscn-editstate-22166b6dc6c8306c764be256eda3455d.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Slime3.tscn-folding-22166b6dc6c8306c764be256eda3455d.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Slime3.tscn-folding-22166b6dc6c8306c764be256eda3455d.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Spring.tscn-editstate-a9a8fe1722d97d3f897a90eff71f07a7.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Spring.tscn-editstate-a9a8fe1722d97d3f897a90eff71f07a7.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Summer.tscn-editstate-4120a4570d5c5da513b145f6a4e13912.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Summer.tscn-editstate-4120a4570d5c5da513b145f6a4e13912.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Vampires1.tscn-editstate-c1bf64fe15e32115016c5231341b3b52.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Vampires1.tscn-editstate-c1bf64fe15e32115016c5231341b3b52.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Vampires1.tscn-folding-c1bf64fe15e32115016c5231341b3b52.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Vampires1.tscn-folding-c1bf64fe15e32115016c5231341b3b52.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Vampires2.tscn-editstate-4bc32290a4022562562d68ef16fbacdd.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Vampires2.tscn-editstate-4bc32290a4022562562d68ef16fbacdd.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Vampires3.tscn-editstate-b4c05c123c999846f0a8bd3924244891.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Vampires3.tscn-editstate-b4c05c123c999846f0a8bd3924244891.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Winter.tscn-editstate-fde71869ae9b8bb19357b07132edffea.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Winter.tscn-editstate-fde71869ae9b8bb19357b07132edffea.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/create_recent.Node" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/create_recent.Node" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_cache10" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_cache10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_update4" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_update4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/recent_dirs" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/recent_dirs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/metadata/ide_messaging_meta.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/Eternal Forest.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/Eternal Forest.sourcelink.json" afterDir="false" />
@@ -25,10 +57,40 @@
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/scene_groups_cache.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/scene_groups_cache.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/uid_cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/uid_cache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Eternal Forest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Eternal Forest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eternal Forest.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Eternal Forest.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Autumn/Autumn.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Autumn/Autumn.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Spring/Spring.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Spring/Spring.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Spring/map_gen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Spring/map_gen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Summer/Summer.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Summer/Summer.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/Winter/Winter.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Map/Winter/Winter.tscn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mobs/Orc/Orc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Orc/Orc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Orc/Orc1.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Orc/Orc1.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Orc/Orc2.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Orc/Orc2.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Orc/Orc3.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Orc/Orc3.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Slime/Slime1.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Slime/Slime1.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Slime/Slime2.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Slime/Slime2.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Slime/Slime3.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Slime/Slime3.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Vampires/Vampires1.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Vampires/Vampires1.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Vampires/Vampires2.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Vampires/Vampires2.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mobs/Vampires/Vampires3.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Mobs/Vampires/Vampires3.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/DeathAnimation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/DeathAnimationPlayer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/DyingAnimation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/DyingAnimationPlayer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Player/Player.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Player/Player.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/HebergeMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI/HebergeMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/HebergeMenu.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/UI/HebergeMenu.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/MultiplayerMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UI/MultiplayerMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/GameMultiplayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/GameMultiplayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/GameMultiplayer.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/GameMultiplayer.tscn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenes/GameSolo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/GameSolo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenes/GameSolo.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/GameSolo.tscn" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +104,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Ancien/Jeu 3/UI/MultiplayerMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Ancien/Jeu 3/scenes/GameMultiplayer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Inven/InventoryGui.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4cff0a608e114644b749bd11413a95c6583e00/02/4b91829d/ExceptionUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4cff0a608e114644b749bd11413a95c6583e00/e8/0bf18d92/CSharpInstanceBridge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/86db9cd834346aad02d74c1b66dd9c64d6ef3147435dd9c9c9477b48f7/Node2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/87bc9a53b3af78fd7bb2ed5d75adb0a0d9a9537b1933ca925d73a0905f4510/CollisionObject2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9ef7fcc0a17ae82dc3bdd08c20e6b2f5c283ab99/Godot.NativeInterop.NativeFuncs.generated.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/df73a4db74df89d59655c5fb6326406f47fbfa9af1fa81518fe0a07c49d34133/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ef7b819b226fab796d1dfe66d415dd7510bcac87675020ddb8f03a828e763/CanvasItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f6169ba44c036a435f3462d6993a9a22ee4b433f1390ed5675268b2097cb71/PackedScene.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -59,21 +127,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Executable.Player.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Executable.Player.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Executable.Player">
     <configuration name="Player GDScript" type="GDSCRIPT_DEBUG_RUN_CONFIGURATION" factoryName="GdScriptRunFactory" show_console_on_std_err="false" show_console_on_std_out="false" port="6006">
       <option name="address" value="127.0.0.1" />
@@ -153,7 +221,9 @@
       <workItem from="1747432649781" duration="1663000" />
       <workItem from="1747519020165" duration="2806000" />
       <workItem from="1747584080544" duration="1264000" />
-      <workItem from="1747588230545" duration="25671000" />
+      <workItem from="1747588230545" duration="27775000" />
+      <workItem from="1747870538500" duration="16664000" />
+      <workItem from="1747953554286" duration="36968000" />
     </task>
     <servers />
   </component>

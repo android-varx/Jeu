@@ -99,6 +99,7 @@
       "packagesPath": "/Users/andrei/.nuget/packages/",
       "outputPath": "/Users/andrei/Desktop/Jeu/.godot/mono/temp/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/andrei/.nuget/NuGet/NuGet.Config"
       ],
@@ -123,8 +124,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {

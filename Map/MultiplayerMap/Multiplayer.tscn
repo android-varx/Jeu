@@ -1,0 +1,56 @@
+[gd_scene load_steps=15 format=3 uid="uid://b5y5i5w2spvmq"]
+
+[ext_resource type="Script" uid="uid://dhirr41vmmip7" path="res://Map/Spring/floor_gen.cs" id="1_y10w4"]
+[ext_resource type="PackedScene" uid="uid://d364tvrwv0ewl" path="res://Map/Spring/Floor.tscn" id="2_hodwa"]
+[ext_resource type="Script" uid="uid://bg27iiyinnulo" path="res://Map/MultiplayerMap/map_gen_multiplayer.cs" id="3_cjklr"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Leaves1.tscn" id="4_2jx24"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Leaves2.tscn" id="5_buf2e"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Rock1.tscn" id="6_14lvm"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Rock2.tscn" id="7_vngw3"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Rock3.tscn" id="8_s5yba"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Iron1.tscn" id="9_6yyw2"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Iron2.tscn" id="10_ggx4s"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Tree1.tscn" id="11_8j02e"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Tree2.tscn" id="12_0jrli"]
+[ext_resource type="PackedScene" path="res://Map/MultiplayerMap/Tree3.tscn" id="13_o28vo"]
+
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_regy8"]
+b = Vector2(3329, 0)
+
+[node name="Multiplayer" type="Node2D"]
+
+[node name="Floor_Spring" type="Node2D" parent="."]
+script = ExtResource("1_y10w4")
+floor = ExtResource("2_hodwa")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Floor_Spring"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+shape = SubResource("SegmentShape2D_regy8")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+rotation = 1.5708
+shape = SubResource("SegmentShape2D_regy8")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+position = Vector2(0, 3328)
+shape = SubResource("SegmentShape2D_regy8")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="Floor_Spring/StaticBody2D"]
+position = Vector2(3328, 0)
+rotation = 1.5708
+shape = SubResource("SegmentShape2D_regy8")
+
+[node name="Objects_Spring" type="Node2D" parent="."]
+y_sort_enabled = true
+script = ExtResource("3_cjklr")
+leavesScene1 = ExtResource("4_2jx24")
+leavesScene2 = ExtResource("5_buf2e")
+rockScene1 = ExtResource("6_14lvm")
+rockScene2 = ExtResource("7_vngw3")
+rockScene3 = ExtResource("8_s5yba")
+Ores1 = ExtResource("9_6yyw2")
+Ores2 = ExtResource("10_ggx4s")
+treeScene1 = ExtResource("11_8j02e")
+treeScene2 = ExtResource("12_0jrli")
+treeScene3 = ExtResource("13_o28vo")
